@@ -1,0 +1,7 @@
+env/
+__pycache__/
+.vscode/
+/.env
+/test_code.py
+.ipynb_checkpoints/
+playing_around/
