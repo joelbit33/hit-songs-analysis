@@ -80,9 +80,6 @@ top_playlists = [
 "https://open.spotify.com/playlist/37i9dQZF1DWTE7dVUebpUW?si=fe723feb4feb4594", # 2017
 "https://open.spotify.com/playlist/37i9dQZF1DXe2bobNYDtW8?si=e0524141064445b3", # 2018
 "https://open.spotify.com/playlist/37i9dQZF1DWVRSukIED0e9?si=eea9506b3df946fe", # 2019
-"https://open.spotify.com/playlist/0BDU6FUIv7nvXRYAlZEaTO?si=690d44fdbebb4a67", # 2020
-"https://open.spotify.com/playlist/5GhQiRkGuqzpWZSE7OU4Se?si=4686e80b9f604599", # 2021
-"https://open.spotify.com/playlist/56r5qRUv3jSxADdmBkhcz7?si=236172945e6c46ae", # 2022
 ]
 
 
@@ -152,7 +149,7 @@ def add_track_features(token, playlist_tracks):
         # check if track_features is not None
         if not track_features_data or track_features_data[0] is None:
             print(f"Warning: No features found for track with ID: {track_id}")
-            # Set default values
+            # set default values
             track_features = {
                 "energy": 0.0,
                 "tempo": 0.0,
@@ -162,7 +159,9 @@ def add_track_features(token, playlist_tracks):
                 "instrumentalness": 0.0,
                 "loudness": 0.0,
                 "mode": 0,
-                "speechiness": 0.0
+                "speechiness": 0.0,
+                "duration_ms": 0,  
+                "key": -1  
             }
         else:
             track_features = track_features_data[0]
@@ -177,8 +176,11 @@ def add_track_features(token, playlist_tracks):
         playlist_tracks[i]['loudness'] = track_features["loudness"]
         playlist_tracks[i]['mode'] = track_features["mode"]
         playlist_tracks[i]['speechiness'] = track_features["speechiness"]
+        playlist_tracks[i]['duration_ms'] = track_features["duration_ms"]
+        playlist_tracks[i]['key'] = track_features["key"]
 
     return playlist_tracks
+
 
 
 
@@ -200,7 +202,7 @@ def get_track_info(token, playlist_tracks):
 
 
 playlist_ids = [i[34:] for i in top_playlists] # <- Change playlist name to correct playlist!
-years = list(range(1970, 2023)) # list of years corresponding to the order of playlists
+years = list(range(1970, 2020)) # list of years corresponding to the order of playlists
 all_playlist_data = [] # list to store data from all playlists
 
 
@@ -234,4 +236,4 @@ def export_to_csv(data, filename):
         writer.writeheader()
         writer.writerows(data)
 
-export_to_csv(all_playlist_data, '../data/top_hits_1970_to_2022.csv') # <- Change csv filename
+export_to_csv(all_playlist_data, '../data/top_hits_1970_to_2019_real.csv') # <- Change csv filename
