@@ -1,0 +1,788 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X,79,False,0.619,136.041,0.639,0.878,0.0533,0.0,-5.56,1,0.102,157067,6,7 EP,2019
+6fTt0CH2t0mdeB2N9XFG5r,Panini,Lil Nas X,62,False,0.594,153.848,0.475,0.703,0.342,0.0,-6.146,0,0.0752,114893,5,7 EP,2019
+1ABQT5SxlUTNapSbSzblGx,F9mily (You & Me),Lil Nas X,48,False,0.534,170.054,0.408,0.556,0.019,0.00063,-7.75,1,0.0332,162720,0,7 EP,2019
+3qIV7Rnj3ZxLs2JcLPUbFV,Kick It,Lil Nas X,53,True,0.484,151.878,0.523,0.739,0.138,0.0,-9.646,1,0.226,141987,9,7 EP,2019
+4ak7xjvBeBOcJGWFDX9w5n,Rodeo,Lil Nas X,67,True,0.679,140.081,0.657,0.706,0.139,6.98e-05,-5.614,1,0.0324,158707,9,7 EP,2019
+3fsH9s00dbn9mSgUu7Yi9D,Bring U Down,Lil Nas X,53,False,0.511,120.05,0.482,0.676,0.0759,0.0,-6.83,0,0.0449,131707,9,7 EP,2019
+4no0eHn4fEB7tN1yZSXMma,C7osure (You Like),Lil Nas X,58,False,0.742,133.989,0.56,0.847,0.397,0.0,-5.515,0,0.247,148653,8,7 EP,2019
+0F7FA14euOIX8KcbEturGH,Old Town Road,Lil Nas X,78,False,0.53,135.998,0.507,0.907,0.0578,2.23e-06,-6.112,1,0.127,113000,1,7 EP,2019
+0rQtoQXQfwpDW0c7Fw1NeM,!!!!!!!,Billie Eilish,20,False,0.278,0.0,0.0,0.0,0.768,0.0,-21.63,1,0.0,13578,1,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,85,False,0.425,135.128,0.562,0.701,0.328,0.13,-10.965,1,0.375,194088,7,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+4QIo4oxwzzafcBWkKjDpXY,xanny,Billie Eilish,74,False,0.125,111.554,0.0528,0.521,0.751,0.00207,-17.832,1,0.239,243725,9,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,79,False,0.533,150.455,0.323,0.678,0.462,0.219,-10.485,1,0.186,180953,4,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6IRdLKIyS4p7XNiP8r6rsx,all the good girls go to hell,Billie Eilish,77,False,0.444,185.044,0.569,0.726,0.283,0.143,-8.922,0,0.372,168840,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3Fj47GNK2kUF0uaEDgXLaD,wish you were gay,Billie Eilish,77,False,0.351,118.028,0.282,0.853,0.39,9.38e-06,-10.198,1,0.241,221543,7,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,85,False,0.111,82.642,0.198,0.367,0.978,3.97e-05,-14.084,1,0.0972,196077,4,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6X29iaaazwho3ab7GNue5r,8,Billie Eilish,71,False,0.235,62.446,0.462,0.735,0.698,0.00604,-13.239,1,0.315,173202,3,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3Tc57t9l2O8FwQZtQOvPXK,my strange addiction,Billie Eilish,75,False,0.305,100.029,0.563,0.939,0.35,0.000169,-10.952,0,0.354,179889,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,76,False,0.389,120.046,0.196,0.905,0.74,0.162,-14.505,1,0.332,193143,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+7qEKqBCD2vE5vIBsrUitpD,ilomilo,Billie Eilish,74,False,0.423,120.02,0.572,0.855,0.724,0.469,-15.044,0,0.0585,156371,5,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+0tMSssfxAL2oV8Vri0mFHE,listen before i go,Billie Eilish,78,False,0.0561,79.764,0.082,0.319,0.935,0.00384,-23.023,1,0.045,242652,0,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,81,False,0.131,137.446,0.12,0.421,0.952,0.00453,-18.435,1,0.0382,291796,0,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3LgWsmilsrWXiPYQFRD0T7,goodbye,Billie Eilish,71,False,0.138,74.318,0.0503,0.153,0.837,0.55,-21.877,0,0.0503,119410,6,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes,82,False,0.548,116.967,0.749,0.759,0.0392,0.0,-6.049,0,0.029,190800,9,Shawn Mendes (Deluxe),2019
+0TFpGNlWslRQO4oyTtJq6K,Lost In Japan,Shawn Mendes,53,False,0.738,105.049,0.381,0.711,0.264,0.0,-6.908,1,0.356,200840,10,Shawn Mendes (Deluxe),2019
+2bT1PH7Cw3J9p3t7nlXCdh,If I Can't Have You,Shawn Mendes,75,False,0.823,123.935,0.87,0.691,0.487,0.0,-4.197,1,0.0623,191467,2,Shawn Mendes (Deluxe),2019
+2SFnIqRWyHt9MUNeXkykii,In My Blood,Shawn Mendes,52,False,0.712,140.022,0.459,0.625,0.0542,0.0,-7.355,1,0.0537,211293,5,Shawn Mendes (Deluxe),2019
+49u62ZMTXz91U8V4uXaJ4q,Fallin' All In You,Shawn Mendes,51,False,0.481,92.031,0.761,0.856,0.414,0.0,-6.761,1,0.038,235760,8,Shawn Mendes (Deluxe),2019
+2UCYrYM83sowbj1OG6qsVn,Where Were You In The Morning?,Shawn Mendes,48,False,0.507,87.989,0.479,0.717,0.557,0.0,-7.525,1,0.0495,200587,7,Shawn Mendes (Deluxe),2019
+3J3AQ7NSo0p3RX8U2gnC4v,Nervous,Shawn Mendes,47,False,0.627,121.96,0.732,0.844,0.0376,0.0,-6.753,1,0.0741,164213,0,Shawn Mendes (Deluxe),2019
+5VQBZPF4L2VrR7aMfAdRq3,Like To Be You (feat. Julia Michaels),Shawn Mendes,46,False,0.444,153.754,0.628,0.737,0.799,0.0,-9.382,1,0.264,159533,2,Shawn Mendes (Deluxe),2019
+3isPczLtjVuERmr5hpSvIl,Particular Taste,Shawn Mendes,45,False,0.351,111.954,0.585,0.968,0.0455,8.48e-05,-7.084,1,0.129,175573,9,Shawn Mendes (Deluxe),2019
+1RL042HeY9ln1Bwu2ODyJJ,Because I Had You,Shawn Mendes,46,False,0.323,203.709,0.713,0.633,0.305,0.0,-9.723,1,0.411,142533,7,Shawn Mendes (Deluxe),2019
+6oZk0lzaP7RcwKjyZrIJBV,Why,Shawn Mendes,47,False,0.426,127.022,0.213,0.693,0.659,0.0,-9.226,0,0.0513,238093,5,Shawn Mendes (Deluxe),2019
+5cWIKVqSpJQiRmG59sfii5,Youth (feat. Khalid),Shawn Mendes,47,False,0.596,100.028,0.325,0.618,0.558,0.0,-6.663,0,0.0805,190827,11,Shawn Mendes (Deluxe),2019
+1UWbBNuBIB9wYg82aaWRvN,Perfectly Wrong,Shawn Mendes,46,False,0.307,77.724,0.318,0.447,0.87,0.0,-11.773,0,0.0368,212773,2,Shawn Mendes (Deluxe),2019
+2d3zTjEWyOzKDPOLjDSRlR,Mutual,Shawn Mendes,45,False,0.476,115.012,0.814,0.917,0.242,0.0,-6.689,0,0.154,148173,11,Shawn Mendes (Deluxe),2019
+2eKH2typXktOBTgWrOHnni,Queen,Shawn Mendes,43,False,0.682,131.024,0.931,0.881,0.202,0.0,-7.297,1,0.105,204053,1,Shawn Mendes (Deluxe),2019
+2s6BVlw41U03QdFaMeT5FQ,When You're Ready,Shawn Mendes,45,False,0.479,171.218,0.662,0.438,0.777,0.0,-8.888,1,0.0947,169596,5,Shawn Mendes (Deluxe),2019
+39LmTF9RgyakzSYX8txrow,imagine,Ariana Grande,70,True,0.475,62.52,0.371,0.729,0.378,0.0,-4.985,1,0.0364,212267,8,"thank u, next",2019
+1TEL6MlSSVLSdhOSddidlJ,needy,Ariana Grande,73,True,0.309,87.045,0.195,0.647,0.78,7.41e-06,-7.948,0,0.0366,171573,7,"thank u, next",2019
+4uTvPEr01pjTbZgl7jcKBD,NASA,Ariana Grande,66,False,0.458,75.029,0.47,0.747,0.451,0.0,-6.891,1,0.303,182000,6,"thank u, next",2019
+2hloaUoRonYssMuqLCBLTX,bloodline,Ariana Grande,71,True,0.665,151.976,0.643,0.758,0.0815,0.000157,-5.188,0,0.0774,216893,2,"thank u, next",2019
+3wFLWP0FcIqHK1wb1CPthQ,fake smile,Ariana Grande,66,True,0.619,83.3,0.427,0.45,0.329,0.0,-7.412,1,0.372,208880,9,"thank u, next",2019
+5Il6Oe7lr5XM7A0cWbVQtr,bad idea,Ariana Grande,68,False,0.579,137.998,0.569,0.847,0.0268,0.0545,-5.314,1,0.0719,267107,1,"thank u, next",2019
+27356GVuMPFWiJSZCragoM,make up,Ariana Grande,64,True,0.714,105.137,0.477,0.671,0.0844,1.48e-06,-5.373,1,0.21,140693,7,"thank u, next",2019
+2vdBo4ALPYbHRUPKgtE5iC,ghostin,Ariana Grande,69,False,0.364,103.777,0.11,0.287,0.418,1.8e-05,-8.295,1,0.0306,271467,9,"thank u, next",2019
+4T652DlATVHe0jdLKaN3Bw,in my head,Ariana Grande,72,True,0.6,134.979,0.331,0.662,0.173,0.000137,-6.402,1,0.0703,222947,0,"thank u, next",2019
+6ocbgoVGwYJhOv1GgI9NsF,7 rings,Ariana Grande,86,True,0.317,140.048,0.327,0.778,0.592,0.0,-10.732,0,0.334,178627,1,"thank u, next",2019
+3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next",Ariana Grande,83,True,0.653,106.966,0.412,0.717,0.229,0.0,-5.634,1,0.0658,207320,1,"thank u, next",2019
+4kV4N9D1iKVxx1KLvtTpjS,"break up with your girlfriend, i'm bored",Ariana Grande,78,True,0.554,169.999,0.335,0.726,0.0421,0.0,-5.29,0,0.0917,190440,5,"thank u, next",2019
+7sWRlDoTDX8geTR8zzr2vt,Hollywood's Bleeding,Post Malone,78,False,0.646,130.218,0.17,0.405,0.331,0.0,-3.206,0,0.0476,156267,4,Hollywood's Bleeding,2019
+05mDaV9Vb3wrzjF6OPZnhq,Saint-Tropez,Post Malone,75,True,0.684,132.113,0.295,0.617,0.0545,0.0,-3.618,1,0.0439,150867,0,Hollywood's Bleeding,2019
+0Xek5rqai2jcOWCYWJfVCF,Enemies (feat. DaBaby),Post Malone,71,True,0.674,76.388,0.667,0.542,0.0588,0.0,-4.169,1,0.21,196760,6,Hollywood's Bleeding,2019
+1YscJ7yVTlFxW3eF6pv5ba,Allergic,Post Malone,65,True,0.741,144.968,0.57,0.665,0.154,3.02e-05,-3.694,1,0.0787,156893,0,Hollywood's Bleeding,2019
+2J0NXdHr6MYvKDSxB7k3V2,A Thousand Bad Times,Post Malone,69,True,0.732,159.0,0.317,0.632,0.105,1.15e-05,-3.498,1,0.092,221173,6,Hollywood's Bleeding,2019
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,89,False,0.762,120.042,0.553,0.695,0.192,0.00244,-3.497,1,0.0395,215280,0,Hollywood's Bleeding,2019
+2C6WXnmZ66tHhHlnvwePiK,Die For Me (feat. Future & Halsey),Post Malone,72,True,0.66,145.01,0.452,0.614,0.19,0.0,-2.848,1,0.0441,245267,0,Hollywood's Bleeding,2019
+12Fkyg9lpmaz2zmKOfw2Y2,On The Road (feat. Meek Mill & Lil Baby),Post Malone,70,True,0.737,112.93,0.21,0.442,0.0589,0.0,-5.046,1,0.109,218320,7,Hollywood's Bleeding,2019
+7CZyCXKG6d5ALeq41sLzbw,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Post Malone,77,False,0.8,139.919,0.272,0.499,0.0906,0.0,-2.665,0,0.0502,229573,1,Hollywood's Bleeding,2019
+1ckLp8lCl8LipXI0ypX72m,I'm Gonna Be,Post Malone,68,True,0.559,117.943,0.368,0.746,0.703,0.0,-4.008,1,0.0316,200680,5,Hollywood's Bleeding,2019
+5KE9b4x7Zj2A8XtbkqhqTe,Staring At The Sun (feat. SZA),Post Malone,69,True,0.772,95.074,0.347,0.724,0.25,0.0,-4.389,0,0.184,168280,6,Hollywood's Bleeding,2019
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,87,False,0.522,89.96,0.925,0.755,0.533,0.0,-4.368,1,0.0575,157560,2,Hollywood's Bleeding,2019
+0KAzP1Rbp0Vz5pw8i1KDDI,Internet,Post Malone,61,True,0.489,74.013,0.201,0.469,0.841,0.0,-6.071,1,0.0314,123387,0,Hollywood's Bleeding,2019
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Post Malone,82,True,0.653,150.068,0.163,0.548,0.456,0.0,-3.875,1,0.081,174853,5,Hollywood's Bleeding,2019
+2cvOfKHOHgwQlLiuLKP2xR,Myself,Post Malone,66,True,0.701,163.882,0.405,0.476,0.102,0.0,-4.234,1,0.0349,158120,0,Hollywood's Bleeding,2019
+6b2mfHMqWCA74XmUuVJm8r,I Know,Post Malone,68,True,0.603,102.94,0.262,0.666,0.497,0.0,-5.671,1,0.0763,141413,1,Hollywood's Bleeding,2019
+7xQAfvXzm3AkraOtGPWIZg,Wow.,Post Malone,84,True,0.539,99.96,0.388,0.829,0.136,1.78e-06,-7.359,0,0.208,149547,11,Hollywood's Bleeding,2019
+6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,77,False,0.678,103.952,0.404,0.693,0.0151,5.71e-06,-7.159,1,0.0324,228267,8,Higher Love,2019
+55ZcA6PazdlXjE1jO5GrzJ,Ashley,Halsey,49,True,0.531,125.014,0.366,0.663,0.137,0.0,-6.339,1,0.0827,186188,7,Manic,2019
+66c7n8ZXmYQQeXyNVfiArc,clementine,Halsey,47,False,0.437,143.263,0.48,0.533,0.885,0.0,-7.659,0,0.162,234411,3,Manic,2019
+2ufmtcIFdFpuUYBPXK5f67,Graveyard,Halsey,68,False,0.583,92.043,0.187,0.667,0.231,4.48e-05,-5.127,0,0.0747,181806,11,Manic,2019
+7lidXGPXPYLNThITAOTlkK,You should be sad,Halsey,73,True,0.585,110.94,0.324,0.591,0.143,0.0,-6.35,1,0.0277,205473,2,Manic,2019
+6BORJ0ZazxMBpM3cWg79Id,Forever ... (is a long time),Halsey,45,False,0.265,70.028,0.291,0.509,0.746,1.08e-06,-9.716,0,0.0344,167904,2,Manic,2019
+2sOOXgEGB7nhKO8mmc1GhI,Dominic’s Interlude,Halsey,59,False,0.368,157.885,0.707,0.406,0.784,0.0,-6.31,1,0.0296,76480,10,Manic,2019
+35FjZytt5TukIgJD86UybL,I HATE EVERYBODY,Halsey,49,False,0.197,79.504,0.559,0.679,0.137,0.0,-7.078,1,0.0331,171016,5,Manic,2019
+1OfLNb6dQ9dra1B58iT9Ex,3am,Halsey,56,True,0.871,189.76,0.538,0.385,0.00906,0.0,-4.604,0,0.0795,234858,0,Manic,2019
+6FZDfxM3a3UCqtzo5pxSLZ,Without Me,Halsey,84,True,0.488,136.041,0.533,0.752,0.297,9.11e-06,-7.05,1,0.0705,201661,6,Manic,2019
+42SOtYBdnfj9zEdZSlAq5k,Finally // beautiful stranger,Halsey,56,False,0.55,133.976,0.123,0.626,0.051,0.0,-5.105,0,0.029,221096,9,Manic,2019
+6ZmwwHYtun94UOdFWWgdif,Alanis’ Interlude,Halsey,48,True,0.89,94.013,0.45,0.705,0.00947,0.0,-4.356,1,0.0555,161156,0,Manic,2019
+1H3Okhf16ttAICZF7zgDko,killing boys,Halsey,54,True,0.898,139.993,0.684,0.685,0.243,0.000103,-5.796,1,0.186,143364,11,Manic,2019
+1ZoQVu9XBssJBdeKMgF2eV,SUGA's Interlude,Halsey,66,False,0.732,153.836,0.246,0.55,0.0864,0.0,-6.88,1,0.105,138205,0,Manic,2019
+3jgHKbpswygyOMipFz06RQ,More,Halsey,50,False,0.224,170.795,0.172,0.399,0.635,0.0,-11.19,1,0.119,153089,11,Manic,2019
+2Mfv5HaqnI18Q9JRv9hqnn,Still Learning,Halsey,57,False,0.661,102.046,0.317,0.708,0.0396,0.000244,-6.543,0,0.0546,211784,0,Manic,2019
+1ed6Wdjk7gkxI2lIYjAoJ2,929,Halsey,48,True,0.317,150.152,0.617,0.642,0.935,0.0,-9.325,1,0.155,174806,9,Manic,2019
+5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,74,False,0.887,122.015,0.606,0.807,0.016,0.000503,-4.311,0,0.0361,229184,1,Giant (with Rag'n'Bone Man),2019
+69iiDrtnLNPWviEvaaRuvC,Intro,Cast,16,False,0.925,101.225,0.0426,0.232,0.908,0.576,-19.327,0,0.329,20413,9,A Star Is Born Soundtrack,2019
+4HUqrGAZ5f0gHRor7z9BFc,Black Eyes,Bradley Cooper,56,False,0.937,150.242,0.46,0.373,0.000811,6.37e-05,-2.133,0,0.0834,183773,11,A Star Is Born Soundtrack,2019
+4fIdH1l3SS0qdYRJiHwUnO,Somewhere Over The Rainbow - Dialogue,Cast,49,False,0.22,150.884,0.334,0.283,0.953,2.35e-06,-22.951,1,0.443,42040,5,A Star Is Born Soundtrack,2019
+4ta4r7V0QkZ15H4uyFCKGs,Fabulous French - Dialogue,Cast,8,False,0.7,101.59,0.863,0.514,0.807,0.0,-11.251,1,0.724,19493,7,A Star Is Born Soundtrack,2019
+3WKnfkgwrARwElktHSU5Ik,La Vie En Rose,Lady Gaga,57,False,0.405,76.18,0.335,0.276,0.758,0.0,-7.296,1,0.0329,179760,8,A Star Is Born Soundtrack,2019
+1dm7A3ofkewH84XwajxF1F,I'll Wait For You - Dialogue,Cast,8,False,0.128,116.575,0.648,0.718,0.858,0.0,-21.699,1,0.877,19133,6,A Star Is Born Soundtrack,2019
+6jMbPsH6lTOLs5n8Af26AG,Maybe It's Time,Bradley Cooper,59,False,0.282,79.776,0.359,0.699,0.798,1.23e-06,-7.65,1,0.0374,159293,7,A Star Is Born Soundtrack,2019
+3i4jlS5TlVjRovgq1ENgaJ,Parking Lot - Dialogue,Cast,49,False,0.384,133.153,0.386,0.535,0.766,0.0,-21.937,1,0.814,31427,8,A Star Is Born Soundtrack,2019
+2ue0yHbKwnsj8HXLLgMzVi,Out Of Time,Bradley Cooper,51,False,0.915,99.983,0.359,0.584,0.173,0.822,-7.339,1,0.0579,172320,0,A Star Is Born Soundtrack,2019
+05Eq6SWneoZYvKQbm2xN25,Alibi,Bradley Cooper,52,False,0.787,175.693,0.636,0.285,0.0145,0.00043,-3.641,0,0.036,183227,9,A Star Is Born Soundtrack,2019
+2FO4bI9MqGN7NQZIr3ROHs,Trust Me - Dialogue,Cast,46,True,0.545,90.836,0.832,0.423,0.895,6.25e-05,-14.211,0,0.508,32333,0,A Star Is Born Soundtrack,2019
+2VxeLyX666F8uXCJ0dZF8B,Shallow,Lady Gaga,86,False,0.385,95.799,0.323,0.572,0.371,0.0,-6.362,1,0.0308,215733,7,A Star Is Born Soundtrack,2019
+7A5uLkZbEOzHiAlhD2Hr2L,"First Stop, Arizona - Dialogue",Cast,7,False,0.23,0.0,0.0,0.0,0.878,0.0,-23.413,1,0.0,10760,6,A Star Is Born Soundtrack,2019
+4Z2s8VRI8WEZyU0xeqnlJD,Music To My Eyes,Lady Gaga,56,False,0.356,114.805,0.325,0.625,0.392,0.00129,-9.044,1,0.0319,199200,2,A Star Is Born Soundtrack,2019
+0eUwuRuPBzxhU9ApFIcDl2,Diggin' My Grave,Lady Gaga,53,False,0.612,93.964,0.561,0.684,0.171,1.53e-05,-4.653,0,0.0287,237307,9,A Star Is Born Soundtrack,2019
+51ZgAMeyKwDjWhNDQExrsk,I Love You - Dialogue,Cast,10,False,0.979,119.841,0.185,0.267,0.695,1.52e-05,-13.05,1,0.525,19453,6,A Star Is Born Soundtrack,2019
+74iZuPGwyL33VlTr6jTnab,Always Remember Us This Way,Lady Gaga,72,False,0.502,129.976,0.296,0.553,0.299,0.0,-5.972,1,0.0409,210200,0,A Star Is Born Soundtrack,2019
+0lnrjpBMWV5Qxr9j1pRciH,Unbelievable - Dialogue,Cast,12,False,0.517,56.94,0.715,0.524,0.727,0.0,-12.84,1,0.558,28813,1,A Star Is Born Soundtrack,2019
+1UR9zquKVw87PBAl5b9PDH,How Do You Hear It? - Dialogue,Cast,4,False,0.13,0.0,0.0,0.0,0.606,0.0,-21.347,1,0.0,14507,9,A Star Is Born Soundtrack,2019
+1l9G7M8gNyQsgOGWZGoQsT,Look What I Found,Lady Gaga,62,False,0.493,97.012,0.447,0.849,0.456,0.000463,-4.1,0,0.0417,175240,1,A Star Is Born Soundtrack,2019
+5VpExShvwh3nochk8Depet,Memphis - Dialogue,Cast,10,False,0.159,126.483,0.893,0.83,0.4,0.0,-21.566,0,0.928,24480,5,A Star Is Born Soundtrack,2019
+5Ctq1DOZUWZqsQZXro2jf7,Heal Me,Lady Gaga,56,False,0.544,86.013,0.456,0.606,0.0481,0.0,-8.36,0,0.0593,196800,9,A Star Is Born Soundtrack,2019
+1EWKuMkjiVrHRoqAquXVfL,I Don't Know What Love Is,Lady Gaga,59,False,0.535,62.671,0.221,0.421,0.348,0.000194,-6.556,1,0.0288,177293,0,A Star Is Born Soundtrack,2019
+1OlU1rn0QOG40zQ699g3hV,Vows - Dialogue,Cast,5,False,0.264,92.748,0.169,0.789,0.711,0.0,-23.195,0,0.952,17933,0,A Star Is Born Soundtrack,2019
+172e82oK9vGoBPvc6SqMm5,Is That Alright?,Lady Gaga,63,False,0.279,102.727,0.263,0.557,0.868,1.25e-05,-7.757,1,0.0372,191280,6,A Star Is Born Soundtrack,2019
+2YEslbHiO4TyqNv2BQ2EWJ,SNL - Dialogue,Cast,4,False,0.0604,0.0,0.0,0.0,0.408,0.0,-20.782,1,0.0,13147,6,A Star Is Born Soundtrack,2019
+2FoSFSX2W1p8ri1Wj1Wavn,Why Did You Do That?,Lady Gaga,50,False,0.548,116.008,0.445,0.792,0.0304,9.94e-06,-5.484,0,0.0582,184960,11,A Star Is Born Soundtrack,2019
+16VQqrD8XTaIiJDCMStjxK,Hair Body Face,Lady Gaga,47,False,0.457,115.009,0.401,0.863,0.0103,5.32e-05,-6.422,0,0.0526,202640,4,A Star Is Born Soundtrack,2019
+6I1iluD72xZcXK9E4BRp25,Scene 98 - Dialogue,Cast,43,True,0.139,65.859,0.562,0.728,0.546,0.0,-20.819,1,0.933,35227,7,A Star Is Born Soundtrack,2019
+3ZZyYqxcaogkXq1j7V1N2H,Before I Cry,Lady Gaga,49,False,0.56,146.41,0.167,0.48,0.157,0.0,-5.196,1,0.0373,258547,2,A Star Is Born Soundtrack,2019
+0BREFDMy22wEf3ZJP2BEJp,Too Far Gone,Bradley Cooper,47,False,0.482,67.479,0.342,0.565,0.0385,1.98e-05,-6.621,1,0.0251,86160,7,A Star Is Born Soundtrack,2019
+5BIWSuX4Bto9f8xuXhOyJn,Twelve Notes - Dialogue,Cast,43,False,0.26,81.57,0.615,0.505,0.101,0.000224,-25.521,1,0.721,63707,11,A Star Is Born Soundtrack,2019
+4A7EkKijzA4ryEoCRWJzdG,I'll Never Love Again - Film Version,Lady Gaga,71,False,0.34,110.502,0.221,0.451,0.763,2.49e-06,-7.466,1,0.031,281067,7,A Star Is Born Soundtrack,2019
+2fbJ5Msx8KoDKpyufH5YsU,I'll Never Love Again - Extended Version,Lady Gaga,66,False,0.359,109.246,0.202,0.406,0.685,3.67e-06,-6.145,1,0.0293,328893,7,A Star Is Born Soundtrack,2019
+2tnVG71enUj33Ic2nFN6kZ,Ride It,Regard,82,False,0.751,117.948,0.884,0.88,0.177,6.43e-05,-4.258,0,0.0874,157606,7,Ride It,2019
+0pEkK8MqbmGSX7fT8WLMbR,Grace,Lewis Capaldi,73,False,0.565,104.483,0.488,0.722,0.435,0.0,-5.848,1,0.0335,185658,4,Divinely Uninspired To A Hellish Extent,2019
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,82,False,0.308,111.202,0.361,0.736,0.946,0.0,-7.83,1,0.0677,220492,4,Divinely Uninspired To A Hellish Extent,2019
+60iSKGrGazRzICtMjADNSM,Hold Me While You Wait,Lewis Capaldi,79,False,0.53,106.958,0.162,0.688,0.443,0.0,-5.507,1,0.0333,205687,11,Divinely Uninspired To A Hellish Extent,2019
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,90,False,0.405,109.891,0.446,0.501,0.751,0.0,-5.679,1,0.0319,182161,1,Divinely Uninspired To A Hellish Extent,2019
+5HU2B0yEnvg5EUB8FWeoda,Maybe,Lewis Capaldi,57,True,0.636,96.966,0.341,0.681,0.65,0.0,-5.485,1,0.0409,210116,4,Divinely Uninspired To A Hellish Extent,2019
+12OLyHDxt6dqlAybSPFBK3,Forever,Lewis Capaldi,76,False,0.355,84.988,0.364,0.646,0.873,0.0,-7.119,1,0.0263,210863,1,Divinely Uninspired To A Hellish Extent,2019
+5C1TucCRf4Vjjree1OItyv,One,Lewis Capaldi,68,False,0.339,117.995,0.512,0.708,0.834,0.0,-7.085,1,0.0409,179908,9,Divinely Uninspired To A Hellish Extent,2019
+4QGHin0gSqzPrPJhPU5gWn,Don't Get Me Wrong,Lewis Capaldi,55,False,0.324,79.858,0.137,0.57,0.837,0.0,-7.866,1,0.0374,213091,4,Divinely Uninspired To A Hellish Extent,2019
+5uGjeXi3epIE8N2ITkxIQ5,Hollywood,Lewis Capaldi,59,False,0.669,125.038,0.732,0.723,0.553,0.0,-4.897,1,0.0527,191844,10,Divinely Uninspired To A Hellish Extent,2019
+6glNKSv2aUtfQhe1SJBZZt,Lost On You,Lewis Capaldi,63,False,0.282,125.522,0.382,0.555,0.889,0.0,-8.228,1,0.0612,197179,10,Divinely Uninspired To A Hellish Extent,2019
+6r2tV58enH9E8hj2oqoJNK,Fade,Lewis Capaldi,57,True,0.487,138.46,0.126,0.41,0.328,0.0,-7.663,1,0.0449,246054,7,Divinely Uninspired To A Hellish Extent,2019
+4RtlhOoWNO5ReUwdmTdTcG,Headspace,Lewis Capaldi,54,False,0.228,146.881,0.194,0.368,0.865,1.99e-06,-9.183,1,0.0335,306801,11,Divinely Uninspired To A Hellish Extent,2019
+3M7uaVssQA4a4ktj0pez8b,Poison,Freya Ridings,33,False,0.579,120.904,0.0715,0.407,0.411,8.2e-05,-5.729,1,0.0503,245241,7,Freya Ridings,2019
+3cWI6Hj9LQ0MfMuhw9uSMc,Lost Without You,Freya Ridings,70,False,0.136,67.016,0.0976,0.386,0.932,0.0,-9.267,1,0.0458,225853,6,Freya Ridings,2019
+5tZWtGT65sMrDVPB5H444n,Castles,Freya Ridings,61,False,0.752,116.945,0.429,0.672,0.0046,0.00047,-4.866,1,0.0843,211843,4,Freya Ridings,2019
+1bC7e6WRkuFEeGSRAcsZwy,You Mean The World To Me,Freya Ridings,48,False,0.279,160.839,0.151,0.317,0.557,2.21e-05,-7.363,1,0.0283,192331,3,Freya Ridings,2019
+73le7T8d8LvSY1gXTnLwzK,Love Is Fire,Freya Ridings,38,False,0.813,129.806,0.14,0.594,0.0568,0.00012,-4.304,1,0.0531,211640,8,Freya Ridings,2019
+4LX046nDpHzhRRap1FOgm6,Holy Water,Freya Ridings,38,False,0.652,123.529,0.317,0.559,0.182,0.0,-3.459,1,0.0484,223200,5,Freya Ridings,2019
+4G9riegFbyX3uBZhCACDQh,Blackout,Freya Ridings,49,False,0.176,139.793,0.182,0.324,0.848,6.58e-05,-8.752,1,0.0302,174278,6,Freya Ridings,2019
+2PXt0tumLcyaMbiJ9ldkHg,Ultraviolet,Freya Ridings,45,False,0.432,67.833,0.154,0.292,0.588,0.0572,-7.423,0,0.0351,215134,0,Freya Ridings,2019
+1vBzcCDJffVITfXIntxEVb,Still Have You,Freya Ridings,41,False,0.31,152.462,0.235,0.359,0.895,0.0,-3.723,1,0.0288,233097,5,Freya Ridings,2019
+6IgGwkA5kXqFJkMYTFpBRX,Unconditional,Freya Ridings,45,False,0.216,119.082,0.278,0.402,0.919,0.0,-7.777,1,0.0366,197056,2,Freya Ridings,2019
+4l4au5PiwTmbq41x0Ab8Uj,Elephant,Freya Ridings,37,False,0.21,94.582,0.202,0.486,0.909,1.91e-05,-6.395,0,0.031,194828,7,Freya Ridings,2019
+3ZFTYYqPfwWj73jx8ccNzh,Wishbone,Freya Ridings,29,False,0.123,125.218,0.291,0.433,0.979,0.000121,-10.543,1,0.0401,192318,9,Freya Ridings,2019
+3RIgHHpnFKj5Rni1shokDj,Norman fucking Rockwell,Lana Del Rey,79,True,0.203,78.287,0.143,0.215,0.968,0.0585,-12.65,1,0.0346,248934,5,Norman Fucking Rockwell!,2019
+6OG05bPAwUuV3OMvy2Vy1P,Mariners Apartment Complex,Lana Del Rey,74,True,0.252,76.054,0.159,0.531,0.763,0.000133,-12.765,1,0.028,247150,9,Norman Fucking Rockwell!,2019
+3hwQhakFwm9soLEBnSDH17,Venice Bitch,Lana Del Rey,71,True,0.286,77.826,0.312,0.368,0.913,0.177,-13.031,0,0.0294,577199,9,Norman Fucking Rockwell!,2019
+7MtVPRGtZl6rPjMfLoI3Lh,Fuck it I love you,Lana Del Rey,73,True,0.452,129.974,0.175,0.534,0.895,0.00165,-10.732,0,0.0359,218288,9,Norman Fucking Rockwell!,2019
+0Oqc0kKFsQ6MhFOLBNZIGX,Doin' Time,Lana Del Rey,85,True,0.559,144.982,0.523,0.641,0.404,0.00402,-11.132,0,0.0355,202193,7,Norman Fucking Rockwell!,2019
+5tyMJlMqaggzvuX7TtlrTe,Love song,Lana Del Rey,71,True,0.0701,63.425,0.288,0.384,0.966,0.00017,-16.512,1,0.0367,229326,9,Norman Fucking Rockwell!,2019
+2mdEsXPu8ZmkHRRtAdC09e,Cinnamon Girl,Lana Del Rey,85,False,0.337,91.781,0.135,0.294,0.814,0.414,-10.614,0,0.036,300683,6,Norman Fucking Rockwell!,2019
+4qUtC2BwFC154Ha8YQRrkk,How to disappear,Lana Del Rey,76,False,0.304,78.997,0.065,0.538,0.613,0.000631,-11.79,1,0.0352,228071,9,Norman Fucking Rockwell!,2019
+7oTE1KmtU2ml9zBhv9Reao,California,Lana Del Rey,69,False,0.41,123.758,0.195,0.449,0.761,0.0,-8.067,0,0.0317,305900,9,Norman Fucking Rockwell!,2019
+7vRfxLcDDwgYW2WTrtEgUV,The Next Best American Record,Lana Del Rey,65,False,0.354,108.083,0.118,0.569,0.616,2.75e-05,-9.862,1,0.0315,349347,2,Norman Fucking Rockwell!,2019
+6ERZ30cRjVWGtVLhczX9aL,The greatest,Lana Del Rey,69,True,0.226,79.142,0.196,0.443,0.939,0.0201,-12.507,0,0.0359,300361,2,Norman Fucking Rockwell!,2019
+5USsRaiqL1RNKRm1fTJ3JM,Bartender,Lana Del Rey,66,False,0.102,131.773,0.494,0.582,0.924,0.0,-14.712,0,0.0391,263442,9,Norman Fucking Rockwell!,2019
+3lG6OtGDsYAOALxEmubQQm,Happiness is a butterfly,Lana Del Rey,80,False,0.119,70.499,0.156,0.467,0.969,1.4e-06,-10.99,1,0.0401,272485,2,Norman Fucking Rockwell!,2019
+0fB77VOZ2FkQeKLv1DuEwp,hope is a dangerous thing for a woman like me to have - but I have it,Lana Del Rey,69,True,0.104,86.675,0.278,0.49,0.964,0.0,-13.208,0,0.0635,324499,4,Norman Fucking Rockwell!,2019
+1tNJrcVe6gwLEiZCtprs1u,3 Nights,Dominic Fike,77,False,0.518,151.891,0.877,0.815,0.223,0.0,-6.594,0,0.0897,177667,7,"Don't Forget About Me, Demos",2019
+2VMJkgrhqfOOYBlZif2nvX,She Wants My Money,Dominic Fike,49,True,0.478,128.789,0.42,0.704,0.771,0.000516,-6.562,1,0.047,133560,9,"Don't Forget About Me, Demos",2019
+1SocftHhtuqF7k83eUhHiz,Babydoll,Dominic Fike,50,False,0.604,168.007,0.847,0.762,0.114,0.0,-5.296,0,0.11,97960,7,"Don't Forget About Me, Demos",2019
+582ndoUAn4YIN30NUnK6S2,Westcoast Collective,Dominic Fike,54,False,0.571,91.97,0.539,0.682,0.542,0.00757,-7.169,0,0.0271,107280,1,"Don't Forget About Me, Demos",2019
+32KU85vllRfxfaV7ZNvHwT,Socks,Dominic Fike,45,False,0.485,119.999,0.45,0.729,0.573,0.0,-6.925,1,0.0363,131173,7,"Don't Forget About Me, Demos",2019
+5IWW129DwGyMVQAbaJz3rS,King of Everything,Dominic Fike,52,False,0.474,167.064,0.571,0.636,0.784,0.0613,-8.096,1,0.077,194360,5,"Don't Forget About Me, Demos",2019
+1DFD5Fotzgn6yYXkYsKiGs,Piece Of Your Heart,MEDUZA,79,False,0.744,124.08,0.631,0.677,0.0404,0.00016,-6.806,0,0.0295,152913,10,Piece Of Your Heart,2019
+3D4uUFRoYDFHbkQlTKL2Om,Give A Little,Maggie Rogers,57,False,0.695,199.95,0.766,0.618,0.211,3.96e-05,-5.415,1,0.189,226720,7,Heard It In A Past Life,2019
+4L9l5x0WuzNtyEBeqzvgPE,Overnight,Maggie Rogers,58,False,0.667,177.958,0.734,0.479,0.0323,0.0,-5.429,1,0.177,200347,8,Heard It In A Past Life,2019
+6axvsEl14rlaUWKEt9CSFR,The Knife,Maggie Rogers,52,False,0.753,95.036,0.786,0.664,0.0538,0.0,-4.734,0,0.0357,239333,11,Heard It In A Past Life,2019
+4HfLQJtVT1KiX1eVedDyTm,Alaska,Maggie Rogers,72,False,0.386,104.001,0.178,0.847,0.411,0.00176,-10.668,0,0.0507,188000,9,Heard It In A Past Life,2019
+6UnCGAEmrbGIOSmGRZQ1M2,Light On,Maggie Rogers,70,False,0.569,102.054,0.399,0.657,0.201,1.38e-05,-6.287,1,0.0542,233880,2,Heard It In A Past Life,2019
+3Y8XpUFQzTGSEDuApfyJV1,Past Life,Maggie Rogers,48,False,0.099,110.34,0.263,0.483,0.937,0.0,-11.179,0,0.0348,216027,9,Heard It In A Past Life,2019
+6PyZGb1rB7oLKCICWTmGYa,Say It,Maggie Rogers,60,False,0.496,84.912,0.248,0.557,0.208,0.00824,-7.184,1,0.0332,220960,10,Heard It In A Past Life,2019
+2kvwSbG26eHKUJdvH7DiR2,On + Off,Maggie Rogers,56,False,0.592,129.958,0.255,0.593,0.293,0.0,-6.162,1,0.0357,221600,4,Heard It In A Past Life,2019
+2CPLGREl5ahzA2WPBMkpxh,Fallingwater,Maggie Rogers,63,False,0.322,86.929,0.453,0.389,0.613,0.000534,-8.933,1,0.0355,271200,2,Heard It In A Past Life,2019
+3lHtxy7keWMXYBQU5LkUXH,Retrograde,Maggie Rogers,52,True,0.774,101.01,0.326,0.73,0.00373,0.00412,-5.5,1,0.0463,251000,1,Heard It In A Past Life,2019
+68vxG1i6RSmrsY9mRdqDgG,Burning,Maggie Rogers,58,False,0.688,110.045,0.282,0.735,0.21,3.11e-05,-5.471,1,0.104,213173,5,Heard It In A Past Life,2019
+0DlMSBJh9uo52DieTYVXLw,Back In My Body,Maggie Rogers,53,False,0.753,163.951,0.276,0.442,0.343,4.94e-06,-6.073,1,0.0622,249541,4,Heard It In A Past Life,2019
+27rdGxbavYJeBphck5MZAF,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,77,False,0.794,114.066,0.244,0.601,0.00987,1.36e-06,-5.844,0,0.0671,217467,7,Nothing Breaks Like a Heart (feat. Miley Cyrus),2019
+6y1UtRcHQU07aUs3oxZ8Yn,Sorry,Joel Corry,64,False,0.79,125.002,0.847,0.744,0.0547,0.000802,-4.617,0,0.0562,188640,8,Sorry,2019
+4tc97Wa8SP5f9gaaOar8Kq,Mother's Daughter,Miley Cyrus,69,True,0.866,91.017,0.527,0.682,0.00461,0.00147,-4.132,0,0.0588,219080,6,SHE IS COMING,2019
+7kzQRB3b9gp2kdjI0dLv8M,Unholy,Miley Cyrus,60,False,0.534,141.984,0.206,0.824,0.0357,3.62e-06,-4.679,0,0.0363,130187,4,SHE IS COMING,2019
+5tykM1AFEOrm51CkDPOxPC,D.R.E.A.M. (feat. Ghostface Killah),Miley Cyrus,56,True,0.637,160.029,0.449,0.686,0.185,1.91e-05,-5.127,1,0.26,168347,0,SHE IS COMING,2019
+7s4xQU7Tz9vyxD5a3golZc,Cattitude (feat. RuPaul),Miley Cyrus,49,True,0.843,121.065,0.736,0.801,0.00766,0.000919,-5.698,0,0.191,189973,6,SHE IS COMING,2019
+7CVKdxcywAgQHjVv8lzG9p,Party Up The Street,Miley Cyrus,54,False,0.615,100.986,0.305,0.745,0.41,0.00636,-7.325,1,0.0713,217253,1,SHE IS COMING,2019
+2c2tgbPRTfzSx0tRdIXs0j,The Most,Miley Cyrus,54,False,0.613,100.051,0.215,0.571,0.449,0.0032,-6.887,1,0.0292,221720,7,SHE IS COMING,2019
+6QQtHdz4PNJWQX4nrAQGC9,Slide Away,Miley Cyrus,71,False,0.538,148.016,0.289,0.534,0.173,2.82e-06,-6.673,1,0.0327,233654,5,SHE IS COMING,2019
+1yAPglN5AGf7UoLK062ZYq,Wish You Well,Sigala,62,False,0.895,124.975,0.576,0.669,0.128,0.0,-3.787,0,0.0575,205653,5,Wish You Well,2019
+0c55VBoJ66KEqYtUFryoFI,Cuz I Love You,Lizzo,34,False,0.659,162.178,0.519,0.565,0.0159,0.0,-4.057,1,0.0489,180954,1,Cuz I Love You (Super Deluxe),2019
+22MuOxYsCdcRhEb3aEsh0V,Like a Girl,Lizzo,33,False,0.813,144.019,0.806,0.696,0.012,0.0,-3.042,1,0.074,185338,2,Cuz I Love You (Super Deluxe),2019
+43BtEHgPHapAp1YNxEfxqd,Juice,Lizzo,45,False,0.885,119.908,0.831,0.766,0.00666,0.0,-3.001,1,0.102,194935,0,Cuz I Love You (Super Deluxe),2019
+3yQnroSV1cnFHufGjnPMMN,Soulmate,Lizzo,31,False,0.845,99.016,0.773,0.702,0.00485,0.000371,-4.854,1,0.0841,176036,7,Cuz I Love You (Super Deluxe),2019
+29v0EOtLl38dvwVa1J9E9a,Jerome,Lizzo,39,False,0.542,150.979,0.534,0.674,0.0476,0.0,-6.983,1,0.253,231571,8,Cuz I Love You (Super Deluxe),2019
+4r2EQnJIgBea4RK9A96zNS,Crybaby,Lizzo,29,False,0.719,131.027,0.722,0.623,0.0383,0.0,-3.331,0,0.0403,175952,11,Cuz I Love You (Super Deluxe),2019
+5rHi0wHKwJ9H9Pj0EGlpiR,Tempo (feat. Missy Elliott),Lizzo,29,False,0.739,107.007,0.636,0.826,0.0594,1.13e-05,-5.641,1,0.138,175988,1,Cuz I Love You (Super Deluxe),2019
+63mNJp4X4isSHs8EFiVXhK,Exactly How I Feel (feat. Gucci Mane),Lizzo,24,False,0.728,112.95,0.845,0.863,0.108,0.0,-3.332,1,0.24,143565,2,Cuz I Love You (Super Deluxe),2019
+0bt3YJTupDqdTKpnFFgs7f,Better in Color,Lizzo,52,False,0.928,129.894,0.556,0.702,0.0353,3.02e-06,-2.039,1,0.199,133059,7,Cuz I Love You (Super Deluxe),2019
+6hRPfXphexuw8Aj2u1rGbX,Heaven Help Me,Lizzo,22,False,0.787,116.27,0.165,0.49,0.0202,0.0,-5.136,1,0.117,202538,0,Cuz I Love You (Super Deluxe),2019
+4tf0POzZuU6h0jpjRoYEdh,Lingerie,Lizzo,32,False,0.488,132.077,0.628,0.681,0.215,0.000766,-5.314,1,0.152,201619,0,Cuz I Love You (Super Deluxe),2019
+1du4tPkvJfCIuVL6WMtqSs,Boys,Lizzo,63,False,0.588,120.042,0.753,0.892,0.00319,0.000162,-4.287,0,0.11,172630,1,Cuz I Love You (Super Deluxe),2019
+4JazDcr295JjClPNnks5WL,Truth Hurts,Lizzo,47,False,0.626,158.08,0.39,0.713,0.111,0.0,-2.891,0,0.124,173306,4,Cuz I Love You (Super Deluxe),2019
+4WbO3H3wFGUdrngpMMs4sF,Water Me,Lizzo,58,False,0.966,113.046,0.77,0.67,0.0292,0.0,-1.994,0,0.177,185595,3,Cuz I Love You (Super Deluxe),2019
+6KgBpzTuTRPebChN0VTyzV,Good as Hell,Lizzo,76,False,0.919,95.982,0.535,0.682,0.256,0.0,-3.18,0,0.0875,159736,0,Cuz I Love You (Super Deluxe),2019
+2rjjNUYONZqC7wSd1i6OFq,Good as Hell (feat. Ariana Grande),Lizzo,63,False,0.892,95.927,0.478,0.668,0.298,0.0,-3.001,0,0.0645,159011,5,Cuz I Love You (Super Deluxe),2019
+6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Sam Smith,75,False,0.52,102.998,0.347,0.741,0.45,1.97e-06,-7.513,1,0.0656,171030,8,Dancing With A Stranger (with Normani),2019
+17moZfj5Aj64AvQSZTQda5,Angels,Tom Walker,45,False,0.689,160.949,0.735,0.583,0.301,0.0,-6.056,0,0.0779,208985,9,What a Time To Be Alive,2019
+4iVVU8DyQvOVsKafv3KWIF,Leave a Light On,Tom Walker,71,False,0.625,68.68,0.28,0.585,0.0146,1.8e-06,-5.94,1,0.109,185863,5,What a Time To Be Alive,2019
+3dv1R3JLvC1ZNhWHKBYDTk,Not Giving In,Tom Walker,47,False,0.724,159.961,0.485,0.471,0.632,0.0,-7.174,0,0.0873,228921,2,What a Time To Be Alive,2019
+2GqmEB1nvaeimGCPiTxiWY,How Can You Sleep at Night?,Tom Walker,42,False,0.708,155.418,0.317,0.446,0.147,0.0,-8.38,0,0.0693,216212,1,What a Time To Be Alive,2019
+2oVoSgGAlog02WQ2pLCxcT,Now You're Gone (feat. Zara Larsson),Tom Walker,50,False,0.721,101.503,0.233,0.644,0.629,7.52e-05,-8.495,0,0.431,212142,9,What a Time To Be Alive,2019
+5e3vokINVx2oxBaEDPvhig,My Way,Tom Walker,40,False,0.682,75.004,0.264,0.59,0.0184,0.0,-5.646,1,0.0483,236249,8,What a Time To Be Alive,2019
+6yD3n3LtoOPRi3lw1UW5Rx,Blessings,Tom Walker,41,False,0.507,79.285,0.572,0.53,0.798,3.99e-06,-6.766,1,0.102,200177,9,What a Time To Be Alive,2019
+6MMeRmARHA1XQ8KE0t8qGY,Cry Out,Tom Walker,35,False,0.666,66.969,0.455,0.613,0.161,0.0,-8.259,0,0.0526,205631,8,What a Time To Be Alive,2019
+5oqRk7bDgrJu2WKWn1M9g9,Dominoes,Tom Walker,33,False,0.611,160.07,0.644,0.6,0.0218,0.0,-6.445,0,0.0415,243930,2,What a Time To Be Alive,2019
+2ACoyK6t8MYwWI3G0WTV6r,Fade Away,Tom Walker,35,False,0.267,133.274,0.151,0.414,0.825,0.0,-9.58,0,0.0306,283989,0,What a Time To Be Alive,2019
+1vkUmedJVhScV9MmRsLGSY,Just You and I - Acoustic,Tom Walker,64,False,0.52,171.895,0.383,0.477,0.679,4.34e-06,-7.582,1,0.395,198102,9,What a Time To Be Alive,2019
+6eVdSa13MsnpSYeGRDIdJx,The Show,Tom Walker,32,False,0.501,81.907,0.269,0.68,0.527,0.0,-8.669,1,0.0839,289913,6,What a Time To Be Alive,2019
+3ufz3mIRCz1T84G4sXySk7,Walk Alone (feat. Tom Walker),Rudimental,35,False,0.714,94.018,0.557,0.586,0.161,0.0,-5.003,1,0.038,206508,11,What a Time To Be Alive,2019
+03x2rVJRFUrvwlfxoHd9Mo,Just You and I,Tom Walker,68,False,0.696,92.061,0.544,0.567,0.456,0.0,-5.416,1,0.301,174983,9,What a Time To Be Alive,2019
+6ZEYvUSgON3J5Qe1RYi3Jo,Peace Of Mind (feat. Vargas & Lagola),Avicii,51,False,0.624,110.003,0.278,0.461,0.11,6.97e-06,-8.034,0,0.0298,180000,4,TIM,2019
+0vrmHPfoBadXVr2n0m1aqZ,Heaven,Avicii,68,False,0.873,122.011,0.516,0.592,0.0715,0.00982,-5.65,1,0.0275,277262,9,TIM,2019
+2x0RZdkZcD8QRI53XT4GI5,SOS (feat. Aloe Blacc),Avicii,75,False,0.645,100.001,0.376,0.802,0.272,0.0,-6.181,0,0.0715,157202,5,TIM,2019
+1yfyIdEw5U2bD5I6gxQCxW,"Tough Love (feat. Agnes, Vargas & Lagola)",Avicii,58,False,0.754,108.17,0.621,0.402,0.143,0.0,-4.837,1,0.0432,191248,8,TIM,2019
+0HZgYFimoJG9Ijy8InUWcV,Bad Reputation (feat. Joe Janiak),Avicii,60,False,0.637,89.995,0.446,0.745,0.656,6.5e-06,-5.959,1,0.0512,205417,0,TIM,2019
+3MhNgzZwFtUF6jSr6pRSkW,Ain't A Thing (feat. Bonn),Avicii,50,True,0.423,170.162,0.245,0.454,0.544,0.0,-7.286,1,0.0552,183661,9,TIM,2019
+6EBlOYNcZ8MrdEov9lEdV6,Hold The Line (feat. A R I Z O N A),Avicii,63,False,0.554,98.045,0.372,0.648,0.329,2.56e-05,-7.005,1,0.0341,171786,9,TIM,2019
+6NVjujGb9fnl25fjzm5dTy,Freak (feat. Bonn),Avicii,52,True,0.576,91.204,0.695,0.405,0.225,8.08e-06,-6.245,1,0.171,179479,8,TIM,2019
+5dVUSdsePmEKkq4ryfrobU,Excuse Me Mr Sir (feat. Vargas & Lagola),Avicii,47,True,0.672,114.708,0.492,0.464,0.127,0.00299,-6.064,1,0.0727,187753,2,TIM,2019
+6kXNnS7JJz0nAv4XEwEmQJ,Heart Upon My Sleeve (feat. Imagine Dragons),Avicii,62,False,0.601,126.06,0.38,0.588,0.316,0.0,-5.983,0,0.0332,254166,4,TIM,2019
+7zGEU6BXl2c4TxpzIAr7BI,Never Leave Me (feat. Joe Janiak),Avicii,50,False,0.662,82.368,0.45,0.629,0.303,0.0,-5.581,1,0.0939,171726,4,TIM,2019
+6aPDvttLmezuUlv60ExTH9,Fades Away (feat. Noonie Bao),Avicii,57,False,0.525,134.236,0.225,0.53,0.228,2.2e-06,-8.319,1,0.0585,178958,0,TIM,2019
+7cz506PyIgh2bMN90Mc8Tn,Boasty (feat. Idris Elba),Wiley,65,True,0.765,102.958,0.456,0.887,0.00915,0.000872,-5.207,1,0.0669,177186,2,Boasty (feat. Idris Elba),2019
+1ooBIqsmV1ocRldBZrvLPD,Dance Monkey - Stripped Back,Tones And I,52,False,0.212,83.245,0.574,0.664,0.931,0.0,-7.762,0,0.046,171461,6,Dance Monkey (Stripped Back) / Dance Monkey,2019
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Tones And I,79,False,0.588,98.027,0.513,0.824,0.692,0.000104,-6.4,0,0.0924,209438,6,Dance Monkey (Stripped Back) / Dance Monkey,2019
+0FWAIRd9Uz5uNek7cALYNC,Psycho,Dave,64,True,0.589,94.016,0.58,0.696,0.516,0.0,-7.233,1,0.388,248947,2,PSYCHODRAMA,2019
+59PUOc7B0WCNNx8Nr4qaA4,Streatham,Dave,66,True,0.621,124.015,0.638,0.892,0.496,0.0,-7.67,1,0.0949,205720,2,PSYCHODRAMA,2019
+0J43IKwcofdlTQPjcbHxCM,Black,Dave,56,True,0.757,81.584,0.334,0.495,0.359,0.0,-7.15,1,0.422,228280,7,PSYCHODRAMA,2019
+2HUW8dnie8O8JkDzbo7Ivs,Purple Heart,Dave,56,True,0.791,142.084,0.666,0.714,0.123,5.36e-05,-6.754,0,0.208,164133,1,PSYCHODRAMA,2019
+3z4CGd63tpUn9a6oQSG0CI,Location (feat. Burna Boy),Dave,80,True,0.496,109.979,0.55,0.812,0.271,0.0,-5.969,0,0.297,241293,9,PSYCHODRAMA,2019
+3rqmxZNh2BRgJ3BiCPFTSG,Disaster (feat. J Hus),Dave,64,True,0.761,91.108,0.706,0.727,0.619,0.0,-5.686,0,0.436,240160,0,PSYCHODRAMA,2019
+65TggCitjPK0sUXtwgOkN9,Screwface Capital,Dave,72,True,0.56,112.015,0.427,0.914,0.523,3.69e-05,-7.56,1,0.0486,253093,0,PSYCHODRAMA,2019
+7l1P6WtVtq1zQMq6qazNA4,Environment,Dave,60,True,0.491,84.268,0.522,0.497,0.543,0.0,-10.133,0,0.461,202733,11,PSYCHODRAMA,2019
+5F0Bf5M5lTO8SwfRQai4or,Lesley (feat. Ruelle),Dave,60,True,0.466,88.672,0.509,0.504,0.862,0.0,-9.451,0,0.213,667707,7,PSYCHODRAMA,2019
+3un8AsY9s9YyEv2tqTrxVv,Voices,Dave,57,True,0.58,116.942,0.579,0.782,0.181,0.000182,-7.57,0,0.0773,198347,11,PSYCHODRAMA,2019
+3xyOv3WrB1l7qh7ZsmFPCU,Drama,Dave,53,True,0.478,83.342,0.173,0.509,0.91,2.35e-06,-8.744,0,0.228,423587,11,PSYCHODRAMA,2019
+33CfD8UkDEcSdAP9j4QpUY,All Day And Night,Jax Jones,60,False,0.782,121.908,0.521,0.585,0.269,0.0,-4.101,0,0.0897,169303,1,All Day And Night (Jax Jones & Martin Solveig Present Europa),2019
+6UjZ2Yx2g2a52XxiA8ONxZ,Outnumbered,Dermot Kennedy,66,False,0.684,156.85,0.258,0.614,0.247,0.0,-5.79,1,0.157,245700,0,Outnumbered,2019
+0wnJQiLBsTsDUlv6Fdpc9i,Plan B,AJ Tracey,39,True,0.619,91.067,0.567,0.84,0.426,0.0,-9.324,0,0.314,196330,9,AJ Tracey,2019
+5ngMSihoklhZvTkEYtBacD,Jackpot,AJ Tracey,36,True,0.602,127.956,0.62,0.771,0.542,0.0,-8.546,1,0.461,179553,7,AJ Tracey,2019
+7wsvMbz8CildIHJcEJThTu,Rina,AJ Tracey,42,True,0.613,104.849,0.44,0.641,0.288,0.0,-11.512,0,0.3,167000,11,AJ Tracey,2019
+4WEI0RJPo4YHfmHYfKvS9k,Wifey Riddim 3,AJ Tracey,52,True,0.566,114.039,0.364,0.876,0.212,0.0,-9.021,1,0.164,172228,5,AJ Tracey,2019
+6vmayDRrWyVDsCe0Xdw2cV,Double C's,AJ Tracey,37,True,0.666,142.156,0.41,0.745,0.17,0.0,-11.476,0,0.372,248134,6,AJ Tracey,2019
+4gr1EvGGNIOJsmc9mMBXjg,Country Star,AJ Tracey,37,True,0.467,142.017,0.511,0.797,0.0481,6e-06,-10.505,0,0.209,204078,11,AJ Tracey,2019
+2w4VBw2W3VQI6nk8CwkL3k,Psych Out!,AJ Tracey,48,True,0.555,77.585,0.335,0.733,0.707,0.0,-9.83,1,0.244,175520,9,AJ Tracey,2019
+0WdZaKX5zinoPLUyDwMsHX,Butterflies (feat. Not3s),AJ Tracey,61,True,0.717,103.938,0.625,0.759,0.263,0.0,-9.439,0,0.179,224000,5,AJ Tracey,2019
+0NMYLtY2ScVIRTJYlARsLk,Necklace (feat. Jay Critch),AJ Tracey,37,True,0.463,136.008,0.327,0.809,0.0613,0.000217,-11.077,1,0.142,226584,1,AJ Tracey,2019
+2TDxb8QbJPmKClRhvXeeVq,Prada Me,AJ Tracey,34,True,0.444,147.009,0.662,0.667,0.518,0.578,-14.495,1,0.0502,201559,7,AJ Tracey,2019
+7AODNxFNPnKaz4hURLzw5l,Ladbroke Grove,AJ Tracey,70,False,0.839,133.989,0.727,0.902,0.0933,0.0,-9.447,0,0.208,190537,11,AJ Tracey,2019
+14b6CdMpx94deByz1CcP03,Doing It,AJ Tracey,41,True,0.84,140.032,0.412,0.741,0.122,0.0,-6.712,1,0.34,183000,8,AJ Tracey,2019
+4i10RyQfoPnSurd77NcDyk,Nothing But Net (feat. Giggs),AJ Tracey,42,True,0.679,139.928,0.435,0.867,0.0273,1.96e-05,-9.363,1,0.25,187842,2,AJ Tracey,2019
+4zj6a0cOazuBH7PWnvWHBw,Horror Flick,AJ Tracey,31,True,0.936,68.351,0.73,0.563,0.0877,0.0,-7.959,1,0.385,170000,1,AJ Tracey,2019
+3pKBUi1ekaZ1SdJuqotUMm,Triple S,AJ Tracey,40,True,0.827,158.994,0.716,0.722,0.00672,0.0,-6.536,1,0.165,162775,1,AJ Tracey,2019
+43rA71bccXFGD4C8GOpIlN,I Forgot That You Existed,Taylor Swift,79,False,0.316,92.875,0.541,0.664,0.298,2.03e-06,-10.345,1,0.519,170640,5,Lover,2019
+1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,Taylor Swift,100,False,0.702,169.994,0.564,0.552,0.117,2.06e-05,-5.707,1,0.157,178427,9,Lover,2019
+1dGr1c8CrMLDpV6mPbImSI,Lover,Taylor Swift,91,False,0.543,68.534,0.453,0.359,0.492,1.58e-05,-7.582,1,0.0919,221307,7,Lover,2019
+3RauEVgRgj1IuWdJ9fDs70,The Man,Taylor Swift,87,False,0.658,110.048,0.633,0.777,0.0767,0.0,-5.191,1,0.054,190360,0,Lover,2019
+3pHkh7d0lzM2AldUtz2x37,The Archer,Taylor Swift,83,False,0.574,124.344,0.166,0.292,0.12,0.00569,-9.375,1,0.0401,211240,0,Lover,2019
+2YWtcWi3a83pdEg3Gif4Pd,I Think He Knows,Taylor Swift,80,False,0.366,100.003,0.416,0.897,0.00889,0.000353,-8.029,1,0.0569,173387,0,Lover,2019
+214nt20w5wOxJnY462klLw,Miss Americana & The Heartbreak Prince,Taylor Swift,85,False,0.747,150.088,0.487,0.662,0.028,0.00615,-6.926,0,0.0736,234147,11,Lover,2019
+4y5bvROuBDPr5fuwXbIBZR,Paper Rings,Taylor Swift,87,False,0.719,103.979,0.865,0.811,0.0129,1.36e-05,-6.553,1,0.0497,222400,9,Lover,2019
+12M5uqx0ZuwkpLp5rJim1a,Cornelia Street,Taylor Swift,82,False,0.624,102.012,0.248,0.824,0.781,0.000189,-9.728,1,0.0827,287267,0,Lover,2019
+2dgFqt3w9xIQRjhPtwNk3D,Death By A Thousand Cuts,Taylor Swift,81,False,0.732,94.071,0.313,0.712,0.454,0.0,-6.754,1,0.0629,198533,4,Lover,2019
+1LLXZFeAHK9R4xUramtUKw,London Boy,Taylor Swift,82,False,0.71,157.925,0.557,0.695,0.0246,0.000104,-6.639,1,0.05,190240,1,Lover,2019
+4AYtqFyFbX0Xkc2wtcygTr,Soon You’ll Get Better (feat. The Chicks),Taylor Swift,74,False,0.182,207.476,0.421,0.433,0.907,0.0,-12.566,1,0.0641,201587,0,Lover,2019
+5hQSXkFgbxjZo9uCwd11so,False God,Taylor Swift,80,False,0.32,79.97,0.351,0.739,0.736,0.000147,-10.862,0,0.239,200307,11,Lover,2019
+6RRNNciQGZEXnqk8SQ9yv5,You Need To Calm Down,Taylor Swift,84,False,0.671,85.026,0.714,0.771,0.00929,0.0,-5.617,1,0.0553,171360,2,Lover,2019
+1SymEzIT3H8UZfibCs3TYi,Afterglow,Taylor Swift,83,False,0.449,111.011,0.399,0.756,0.13,0.0,-8.746,1,0.0344,223293,9,Lover,2019
+2Rk4JlNc2TPmZe2af99d45,ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,81,False,0.83,182.162,0.728,0.61,0.033,0.0,-4.105,1,0.0571,193000,0,Lover,2019
+1SmiQ65iSAbPto6gPFlBYm,It’s Nice To Have A Friend,Taylor Swift,74,False,0.175,70.008,0.545,0.737,0.971,0.000337,-9.912,1,0.0401,150440,10,Lover,2019
+1fzAuUVbzlhZ1lJAx9PtY6,Daylight,Taylor Swift,85,False,0.496,149.983,0.265,0.557,0.808,0.000173,-9.602,1,0.0563,293453,0,Lover,2019
+6TQSdD4LmZyM8fFB51m3nL,Hustle,P!nk,28,False,0.813,97.038,0.559,0.724,0.0564,0.0,-5.083,0,0.334,175600,9,Hurts 2B Human,2019
+6fgOlbYSdvp9n039CYc8cn,(Hey Why) Miss You Sometime,P!nk,23,False,0.767,104.081,0.454,0.699,0.0466,0.000157,-4.402,1,0.0514,203147,10,Hurts 2B Human,2019
+6jfEZdUJ2Yla6h7gTJgKuo,Walk Me Home,P!nk,68,False,0.453,88.038,0.432,0.652,0.0519,0.0,-6.119,1,0.0445,177391,1,Hurts 2B Human,2019
+6BoGECI8eEAII2fjOV88He,My Attic,P!nk,38,False,0.709,103.966,0.164,0.65,0.0355,4.83e-06,-7.146,1,0.124,182333,7,Hurts 2B Human,2019
+4AGXxDQjRWTimOdvt6BtZF,90 Days (feat. Wrabel),P!nk,29,False,0.377,66.132,0.366,0.657,0.774,0.0,-5.398,0,0.0721,230853,7,Hurts 2B Human,2019
+2BM7nF0pMIpLQOT04o691Z,Hurts 2B Human (feat. Khalid),P!nk,50,False,0.62,83.031,0.158,0.463,0.131,0.0,-5.647,1,0.167,202640,7,Hurts 2B Human,2019
+7GfKD5B7fVAzUgDvqAIbSL,Can We Pretend (feat. Cash Cash),P!nk,54,False,0.806,115.172,0.45,0.524,0.197,0.0,-3.447,0,0.406,224360,1,Hurts 2B Human,2019
+3wNPirSnPtlJOS2PSBQGqG,Courage,P!nk,42,False,0.913,92.05,0.338,0.511,0.00153,0.0,-4.657,1,0.109,259440,0,Hurts 2B Human,2019
+45ThktsHkQGbCQQDkSzI3s,Happy,P!nk,25,False,0.502,135.926,0.328,0.645,0.0163,0.0,-6.932,1,0.053,181720,11,Hurts 2B Human,2019
+4J46tS7XglXAakeKCFLePh,We Could Have It All,P!nk,36,False,0.836,130.026,0.699,0.688,0.0147,0.0,-3.464,1,0.0474,273333,8,Hurts 2B Human,2019
+4Kmp7D3Gg95xv5dzg2mPMq,Love Me Anyway (feat. Chris Stapleton),P!nk,65,False,0.321,139.001,0.0673,0.368,0.769,0.0,-5.904,1,0.0272,188120,3,Hurts 2B Human,2019
+3U0bZHXECn3AvCRfgzsWQU,Circle Game,P!nk,23,False,0.364,92.853,0.149,0.415,0.814,0.0,-7.065,1,0.0576,294440,7,Hurts 2B Human,2019
+5zbpdOuaFibWW4MH0PCchl,The Last Song Of Your Life,P!nk,34,False,0.257,120.083,0.16,0.529,0.611,0.0,-7.426,1,0.0311,233653,2,Hurts 2B Human,2019
+5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Mabel,77,False,0.881,98.994,0.234,0.674,0.296,3.01e-06,-2.853,1,0.147,178480,9,Ivy To Roses (Mixtape),2019
+2k1t4OGgh4mg0R2lr2BFfv,One Shot,Mabel,41,False,0.688,109.541,0.491,0.746,0.144,1.12e-06,-5.241,1,0.0555,232293,5,Ivy To Roses (Mixtape),2019
+4kLKUg9loAHamNWmSywA4H,Fine Line,Mabel,54,True,0.618,114.991,0.927,0.567,0.228,0.0,-4.974,0,0.106,211467,3,Ivy To Roses (Mixtape),2019
+3KbnUNSyP1fwh9H5sgA9YZ,Finders Keepers,Mabel,57,False,0.572,108.014,0.644,0.84,0.0508,3.52e-06,-6.517,0,0.105,268067,4,Ivy To Roses (Mixtape),2019
+7KxWxp0bSa5xBfQSUfgRaL,My Lover - Not3s x Mabel,Not3s,47,False,0.568,106.075,0.597,0.802,0.15,1.34e-05,-7.147,0,0.3,192107,6,Ivy To Roses (Mixtape),2019
+4nGsdQDYpWzqWLyWIWnimp,Ring Ring,Jax Jones,44,True,0.646,107.038,0.596,0.821,0.168,1.58e-06,-4.867,0,0.136,217480,1,Ivy To Roses (Mixtape),2019
+2xHHd218VkTzkUkooaMRjU,Cigarette,RAYE,31,True,0.679,115.065,0.543,0.801,0.106,5.2e-05,-4.663,1,0.084,187837,2,Ivy To Roses (Mixtape),2019
+3cDqalqQ92W0H8ZJEjlgcZ,Ivy,Mabel,39,True,0.304,122.139,0.423,0.591,0.841,0.0,-8.171,1,0.0644,208733,8,Ivy To Roses (Mixtape),2019
+2XU5287vVqMNdeouc9kn1i,Come Over,Mabel,28,True,0.607,153.925,0.623,0.724,0.0383,1.42e-06,-6.381,0,0.0411,252840,5,Ivy To Roses (Mixtape),2019
+4oigXpK1310jmYkUyLh5Gu,Begging,Mabel,31,False,0.656,94.448,0.358,0.422,0.0342,0.0,-5.059,0,0.189,197480,2,Ivy To Roses (Mixtape),2019
+7KIqSSebfTCniRi6kBQkxL,Low Key,Mabel,32,False,0.693,96.041,0.705,0.754,0.0307,1.93e-06,-5.083,1,0.0933,226987,0,Ivy To Roses (Mixtape),2019
+2HBn3oRiQFP5Bmpz9GyOaL,Passionfruit,Mabel,40,False,0.409,109.992,0.269,0.606,0.475,0.000622,-6.678,0,0.158,180227,8,Ivy To Roses (Mixtape),2019
+47SqclXuJCA1LTNPznk0yf,Roses,Mabel,28,True,0.512,86.638,0.332,0.524,0.383,0.0,-7.15,0,0.178,228987,4,Ivy To Roses (Mixtape),2019
+6bqY5p8LZjuQxWRjMviOxu,Weapon,Mabel,27,True,0.484,137.881,0.239,0.63,0.0846,0.0,-7.606,0,0.107,181640,1,Ivy To Roses (Mixtape),2019
+2hbMLNr8C555alIZPBNMiO,Finders Keepers - Remix,Mabel,37,False,0.683,107.937,0.564,0.77,0.0832,0.0,-5.652,0,0.162,268293,4,Ivy To Roses (Mixtape),2019
+3iYNJX4FTRGlfMQySjlGNr,Future Nostalgia,Dua Lipa,61,False,0.813,114.993,0.859,0.875,0.00618,0.0,-4.502,1,0.0579,184882,7,Future Nostalgia (The Moonlight Edition),2019
+2FlcxnvybdwpaMmMhaRtSN,Don't Start Now,Dua Lipa,71,False,0.793,123.95,0.679,0.793,0.0123,0.0,-4.521,0,0.083,183290,11,Future Nostalgia (The Moonlight Edition),2019
+4Ulqu89XempybuL8ApUeqL,Cool,Dua Lipa,62,False,0.785,89.719,0.79,0.469,0.133,1.55e-06,-4.015,0,0.0664,209583,5,Future Nostalgia (The Moonlight Edition),2019
+5UncbfPKpWlxsWWyhmM87l,Physical,Dua Lipa,69,False,0.844,146.967,0.746,0.647,0.0137,0.000658,-3.756,1,0.0457,193829,0,Future Nostalgia (The Moonlight Edition),2019
+41z2bSbbtJ9wiIee4RXdi5,Levitating,Dua Lipa,60,False,0.884,103.014,0.914,0.695,0.0561,0.0,-2.278,0,0.0753,203808,6,Future Nostalgia (The Moonlight Edition),2019
+6boViHmG6c8ubzxTvcMoJY,Pretty Please,Dua Lipa,64,False,0.474,106.976,0.656,0.906,0.0311,5.5e-06,-6.124,1,0.194,194607,1,Future Nostalgia (The Moonlight Edition),2019
+6pbKWWP8WwTaP5TbSq1vCA,Hallucinate,Dua Lipa,66,False,0.69,122.053,0.627,0.627,0.033,0.0,-5.396,0,0.139,208505,10,Future Nostalgia (The Moonlight Edition),2019
+5CSKbHjpqborGnlzagyaDo,Love Again,Dua Lipa,70,False,0.667,115.982,0.468,0.659,0.00173,2.85e-05,-4.668,0,0.0339,258004,11,Future Nostalgia (The Moonlight Edition),2019
+4PULMUg3AwudcRCzvVmgXT,Break My Heart,Dua Lipa,67,False,0.729,113.011,0.467,0.73,0.167,1.39e-06,-3.434,0,0.0884,221820,4,Future Nostalgia (The Moonlight Edition),2019
+3pyodt4pb554dMz8fCv7oi,Good In Bed,Dua Lipa,61,True,0.701,94.06,0.649,0.68,0.138,0.000191,-5.001,1,0.0917,218754,5,Future Nostalgia (The Moonlight Edition),2019
+4szI7zRh7kLApCSqiB6R7b,Boys Will Be Boys,Dua Lipa,60,False,0.486,125.021,0.519,0.768,0.408,0.0,-5.954,1,0.0353,166266,3,Future Nostalgia (The Moonlight Edition),2019
+5tFAwDNw4K6KYKCWtta7pe,Fever,Dua Lipa,63,False,0.693,114.999,0.396,0.868,0.0597,0.00399,-7.052,0,0.181,156911,6,Future Nostalgia (The Moonlight Edition),2019
+1diS6nkxMQc3wwC4G1j0bh,We're Good,Dua Lipa,76,False,0.588,134.01,0.59,0.722,0.0319,0.0,-5.932,1,0.0544,165507,6,Future Nostalgia (The Moonlight Edition),2019
+1V4uMdCH6aDZire0vVqnXW,Prisoner (feat. Dua Lipa),Miley Cyrus,64,False,0.659,127.992,0.586,0.769,0.0109,0.0,-3.899,0,0.0442,169338,3,Future Nostalgia (The Moonlight Edition),2019
+1IdDtg7GhWfHYEWDymq3d2,If It Ain’t Me,Dua Lipa,65,False,0.623,114.986,0.57,0.809,0.0185,8.77e-05,-6.254,1,0.145,195352,5,Future Nostalgia (The Moonlight Edition),2019
+4FuZofNMHdtsEdrsqwF3xR,That Kind Of Woman,Dua Lipa,61,False,0.665,113.213,0.42,0.64,0.0045,0.0,-4.966,0,0.0325,200108,11,Future Nostalgia (The Moonlight Edition),2019
+69GVTnxGmUlF2ymLPL2CEp,Not My Problem (feat. JID),Dua Lipa,52,True,0.732,107.926,0.802,0.695,0.442,0.0,-3.308,1,0.317,143176,0,Future Nostalgia (The Moonlight Edition),2019
+0v2boHmWtxMTD2REGN8MbK,Levitating (feat. DaBaby),Dua Lipa,70,False,0.825,102.977,0.915,0.702,0.00883,0.0,-3.787,0,0.0601,203064,6,Future Nostalgia (The Moonlight Edition),2019
+2GPCE96x9Go6acdDt8ex6p,Un Día (One Day),J Balvin,62,False,0.634,168.136,0.432,0.572,0.00547,0.0,-10.599,0,0.0617,231815,6,Future Nostalgia (The Moonlight Edition),2019
+32IAhtEd25UwNFwtHOW2UV,Temporary Insanity,Blanco Brown,20,False,0.321,77.459,0.462,0.731,0.484,1.15e-06,-11.465,1,0.0428,242765,10,Honeysuckle & Lightning Bugs,2019
+6LnAssAUVOl9QHO037ToUt,HeadNod,Blanco Brown,22,False,0.508,106.934,0.268,0.726,0.0611,6.74e-05,-10.475,1,0.0387,164976,11,Honeysuckle & Lightning Bugs,2019
+2FLgJgGDkrccqfq5dS9l3e,Funky Tonk,Blanco Brown,27,False,0.623,140.035,0.715,0.711,0.0338,0.0254,-8.709,1,0.0399,182248,11,Honeysuckle & Lightning Bugs,2019
+0gQ9cOgxi9onXQUzdubuux,CountryTime,Blanco Brown,22,False,0.559,163.861,0.222,0.581,0.0642,6.64e-05,-7.974,1,0.0635,240165,2,Honeysuckle & Lightning Bugs,2019
+240Jj5bFCXbTAQnsKoqt4e,Georgia Power,Blanco Brown,37,False,0.586,140.075,0.412,0.749,0.372,0.0,-9.43,1,0.138,223381,1,Honeysuckle & Lightning Bugs,2019
+3y9oK8zbeGWOeghKXDErY3,Gemini (Damn Right),Blanco Brown,17,False,0.537,114.969,0.374,0.722,0.00977,0.00413,-7.621,1,0.0356,201668,1,Honeysuckle & Lightning Bugs,2019
+5YYPcci5m0FNGKibm8nGMM,Ghett Ol Memories,Blanco Brown,33,False,0.506,79.977,0.344,0.624,0.246,2.71e-06,-9.527,1,0.0424,160232,2,Honeysuckle & Lightning Bugs,2019
+0TTPI9VQjcGLENmMXZckKI,Don't Love Her,Blanco Brown,17,False,0.536,160.999,0.489,0.654,0.564,1.14e-05,-10.197,1,0.134,171823,4,Honeysuckle & Lightning Bugs,2019
+4CAqpZPTTkEeoX4Q3gz9HM,Tn Whiskey,Blanco Brown,35,False,0.458,137.876,0.429,0.669,0.539,1.25e-05,-9.949,1,0.0281,198256,7,Honeysuckle & Lightning Bugs,2019
+2KKijf6Ett4kmVNJze2roh,The Git Up,Blanco Brown,71,False,0.678,97.984,0.811,0.847,0.0669,0.0,-8.635,1,0.109,200594,9,Honeysuckle & Lightning Bugs,2019
+22vgEDb5hykfaTwLuskFGD,Sucker,Jonas Brothers,83,False,0.734,137.958,0.952,0.842,0.0427,0.0,-5.065,0,0.0588,181027,1,Happiness Begins,2019
+7yfi8B8opXjnRh4VZnOkz9,Cool,Jonas Brothers,66,False,0.598,78.969,0.62,0.683,0.00873,0.0,-5.487,1,0.0423,167107,0,Happiness Begins,2019
+0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,74,False,0.496,94.01,0.874,0.795,0.108,0.0,-5.883,1,0.0722,183000,0,Happiness Begins,2019
+1vYh9x8UmFTLbXiizk9Qc5,I Believe,Jonas Brothers,67,False,0.774,99.019,0.35,0.749,0.0857,1.14e-05,-6.221,1,0.12,217533,9,Happiness Begins,2019
+2n6red10oCd6YhlEUp6jXy,Used To Be,Jonas Brothers,56,False,0.517,145.946,0.176,0.71,0.172,0.0,-6.85,1,0.0448,184987,1,Happiness Begins,2019
+76F54HHrw84yqAYqrAJkbr,Every Single Time,Jonas Brothers,55,False,0.685,151.988,0.91,0.756,0.135,0.0,-5.176,0,0.0446,212093,11,Happiness Begins,2019
+24eP9hGnGR6RCQvllQVkCm,Don't Throw it Away,Jonas Brothers,56,False,0.858,102.02,0.732,0.731,0.0245,0.0,-5.082,0,0.0981,172560,1,Happiness Begins,2019
+2hgk8iKN9UdoM4ILlJ9F5N,Love Her,Jonas Brothers,60,False,0.337,103.002,0.56,0.74,0.178,0.0,-6.039,1,0.0282,193133,8,Happiness Begins,2019
+6DibqiBTKMob2SjBwKqRfS,Happy When I'm Sad,Jonas Brothers,53,False,0.793,100.987,0.906,0.782,0.000199,0.000215,-7.054,1,0.0399,158467,7,Happiness Begins,2019
+5MoU7TaAvgBa8W0XVwXAd7,Trust,Jonas Brothers,53,False,0.559,146.041,0.671,0.806,0.0248,1.63e-05,-6.329,1,0.0588,180600,0,Happiness Begins,2019
+5md87aD3pGXRghKUbZdyh8,Strangers,Jonas Brothers,57,False,0.842,129.986,0.573,0.594,0.0312,0.0,-4.892,1,0.072,233853,1,Happiness Begins,2019
+7fiFJADUcHwTdYLmnZeLAy,Hesitate,Jonas Brothers,59,False,0.485,118.051,0.236,0.622,0.227,0.0,-7.259,1,0.0322,208840,2,Happiness Begins,2019
+7dxKdQC9Vo1hDxIUnt1z0Q,Rollercoaster,Jonas Brothers,63,False,0.58,123.977,0.467,0.697,0.0583,0.0,-7.986,0,0.0451,181813,11,Happiness Begins,2019
+064tgRK6FYBwikCdxaHFV1,Comeback,Jonas Brothers,56,False,0.553,145.009,0.185,0.55,0.0913,0.0,-7.34,1,0.0403,155680,0,Happiness Begins,2019
+70eFcWOvlMObDhURTqT4Fv,Beautiful People (feat. Khalid),Ed Sheeran,76,False,0.647,92.979,0.546,0.64,0.124,0.0,-8.114,0,0.186,197867,5,No.6 Collaborations Project,2019
+4vUmTMuQqjdnvlZmAH61Qk,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,77,False,0.621,97.989,0.668,0.857,0.148,0.0,-6.376,0,0.0825,204467,9,No.6 Collaborations Project,2019
+4wuCQX7JvAZLlrcmH4AeZF,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,62,True,0.787,95.005,0.607,0.746,0.212,0.0,-6.373,1,0.12,206187,4,No.6 Collaborations Project,2019
+1AI7UPw3fgwAFkvAlZWhE0,Take Me Back to London (feat. Stormzy),Ed Sheeran,66,True,0.762,138.058,0.605,0.885,0.219,0.0,-5.513,0,0.216,189733,8,No.6 Collaborations Project,2019
+0VsGaRXR5WAzpu51unJTis,Best Part of Me (feat. YEBBA),Ed Sheeran,65,False,0.243,81.655,0.239,0.565,0.758,8.82e-06,-8.367,1,0.0317,243267,2,No.6 Collaborations Project,2019
+0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),Ed Sheeran & Justin Bieber,71,False,0.676,101.956,0.843,0.798,0.0902,0.0,-5.041,1,0.0442,219947,6,No.6 Collaborations Project,2019
+1DhRbox3xkceP64k3JeYfW,Antisocial (with Travis Scott),Ed Sheeran,65,False,0.823,151.957,0.91,0.716,0.132,0.0,-5.313,0,0.0495,161747,5,No.6 Collaborations Project,2019
+0AtP8EkGPn6SwxKDaUuXec,Remember The Name (feat. Eminem & 50 Cent),Ed Sheeran,69,True,0.666,91.046,0.726,0.852,0.135,0.0,-6.923,0,0.184,207760,11,No.6 Collaborations Project,2019
+1Bdptrvb7nQkq8kCw3siE9,Feels (feat. Young Thug & J Hus),Ed Sheeran,54,False,0.68,91.667,0.69,0.665,0.112,0.0,-4.898,1,0.291,150787,2,No.6 Collaborations Project,2019
+5T03itPFOPGGkvVPvPiyla,Put It All on Me (feat. Ella Mai),Ed Sheeran,65,False,0.594,101.007,0.388,0.627,0.256,0.0,-8.306,1,0.0479,197093,7,No.6 Collaborations Project,2019
+2qRN7PWiHRLprw4FpDeI9N,Nothing On You (feat. Paulo Londra & Dave),Ed Sheeran,59,False,0.649,88.011,0.84,0.747,0.333,0.0,-6.218,1,0.218,200733,8,No.6 Collaborations Project,2019
+3FHXUqaUer9o231Je1zxIN,I Don't Want Your Money (feat. H.E.R.),Ed Sheeran,54,False,0.63,91.419,0.762,0.468,0.31,0.0,-6.536,0,0.0843,204507,8,No.6 Collaborations Project,2019
+4vIKzWqtn44umal5jXq4wE,1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie),Ed Sheeran,54,False,0.589,98.001,0.513,0.778,0.467,0.0,-5.548,1,0.269,212307,8,No.6 Collaborations Project,2019
+5d1rmWWF1725tnYjq6rMDB,Way To Break My Heart (feat. Skrillex),Ed Sheeran,55,False,0.731,170.125,0.437,0.726,0.11,3.45e-06,-6.298,0,0.159,190293,1,No.6 Collaborations Project,2019
+7hvO2qCwJVZxiyoA7c9i5d,BLOW (with Chris Stapleton & Bruno Mars),Ed Sheeran,59,False,0.796,92.47,0.596,0.631,0.000245,0.0108,-5.35,1,0.0401,209120,1,No.6 Collaborations Project,2019
+5gkFxBuUuASmNtmq0T5xSu,Cuz I Love You,Lizzo,38,True,0.66,162.159,0.52,0.566,0.0156,0.0,-4.039,1,0.0479,179979,1,Cuz I Love You (Deluxe),2019
+1Dd22oMwd0OlMYqRXGdObE,Like a Girl,Lizzo,36,True,0.807,144.031,0.797,0.694,0.0167,0.0,-3.183,1,0.0888,184858,2,Cuz I Love You (Deluxe),2019
+6EMWT7sZBvG0oxdh9KXbb4,Juice,Lizzo,39,True,0.889,119.93,0.843,0.767,0.00611,0.0,-2.988,1,0.0963,195145,7,Cuz I Love You (Deluxe),2019
+003pNCocnkYPbl8V5pRYIW,Soulmate,Lizzo,33,True,0.849,99.021,0.767,0.693,0.00466,0.00127,-4.517,1,0.0892,175235,7,Cuz I Love You (Deluxe),2019
+4l21VaodybkZaNRqwzSBZl,Jerome,Lizzo,35,False,0.542,150.979,0.534,0.674,0.0476,0.0,-6.983,1,0.253,231571,8,Cuz I Love You (Deluxe),2019
+6N84C07b0GNjLOUfUiW4j4,Crybaby,Lizzo,28,False,0.719,131.027,0.722,0.623,0.0383,0.0,-3.331,0,0.0403,175952,11,Cuz I Love You (Deluxe),2019
+1Q0FDNRgl5sFN5aJctxk2G,Tempo (feat. Missy Elliott),Lizzo,38,True,0.722,107.019,0.588,0.833,0.0573,1.14e-05,-5.563,1,0.136,175343,1,Cuz I Love You (Deluxe),2019
+1IOST4IzZK644vqdEFkPzg,Exactly How I Feel (feat. Gucci Mane),Lizzo,31,True,0.718,112.981,0.833,0.872,0.114,0.0,-3.238,0,0.229,143191,6,Cuz I Love You (Deluxe),2019
+4hh3IoUWPySR2YXz8Gy2pr,Better in Color,Lizzo,33,False,0.928,129.894,0.556,0.702,0.0353,3.02e-06,-2.039,1,0.199,133059,7,Cuz I Love You (Deluxe),2019
+7oJf7PeBwMP7iFwyqfTfXa,Heaven Help Me,Lizzo,30,True,0.725,117.194,0.161,0.67,0.0164,0.0,-6.373,1,0.0972,202321,0,Cuz I Love You (Deluxe),2019
+5H95l4vkOHjGoTBPeav3ou,Lingerie,Lizzo,29,False,0.488,132.077,0.628,0.681,0.215,0.000766,-5.314,1,0.152,201619,0,Cuz I Love You (Deluxe),2019
+1ITsmuChPVC05ogvorAyVu,Boys,Lizzo,60,False,0.587,120.029,0.753,0.891,0.00317,0.000154,-4.281,0,0.115,172630,6,Cuz I Love You (Deluxe),2019
+5qmq61DAAOUaW8AUo8xKhh,Truth Hurts,Lizzo,62,True,0.624,158.087,0.412,0.715,0.11,0.0,-3.046,0,0.114,173325,4,Cuz I Love You (Deluxe),2019
+3rmpb2RKPlbdbMjlc7SOlX,Water Me,Lizzo,38,False,0.966,113.046,0.77,0.67,0.0292,0.0,-1.994,0,0.177,185595,3,Cuz I Love You (Deluxe),2019
+7EROK3PMgkCG3wdwcbeauW,9.13,Khalid,42,False,0.451,131.72,0.59,0.289,0.975,0.942,-15.013,1,0.0538,55720,2,Suncity,2019
+7stcuQtnHL7C6XdPvpwywv,Vertigo,Khalid,55,False,0.458,115.989,0.207,0.487,0.552,0.0257,-7.761,0,0.0371,270413,4,Suncity,2019
+7vGGAJBkHKxKtOnGjQduDV,Saturday Nights,Khalid,61,False,0.439,167.908,0.371,0.54,0.635,1.93e-05,-8.591,1,0.115,209547,10,Suncity,2019
+0v75ti1d2M6pd0sC42UNNN,Salem's Interlude,Khalid,42,True,0.485,80.933,0.457,0.479,0.963,0.658,-12.302,0,0.162,81933,7,Suncity,2019
+65DzdjRWH35DNsBZBjW523,Motion,Khalid,56,False,0.61,80.948,0.497,0.554,0.0982,0.0812,-7.229,1,0.0804,235880,0,Suncity,2019
+2OpBganfGk2GVdSlRdxzaX,Better,Khalid,69,True,0.586,98.035,0.112,0.695,0.102,0.317,-10.315,0,0.0658,229320,0,Suncity,2019
+6SkHm6poyKfzV6kc9any8k,Suncity (feat. Empress Of),Khalid,60,False,0.63,90.045,0.341,0.694,0.0998,0.000635,-6.84,0,0.162,189493,7,Suncity,2019
+7kh95COsNZjnTmc6aF76n7,Homerun (Intro),Paulo Londra,65,False,0.264,135.117,0.672,0.822,0.669,0.0,-9.37,1,0.0593,149505,5,Homerun,2019
+5jW3rF4URMdK7tO2xjS5EI,Tal Vez,Paulo Londra,79,False,0.649,161.986,0.741,0.855,0.25,0.0,-2.443,1,0.151,263899,8,Homerun,2019
+6MbSMSXrSlvsyHf4kcaLQi,No Puedo,Paulo Londra,68,False,0.68,140.041,0.519,0.792,0.361,0.0,-5.392,0,0.119,175029,5,Homerun,2019
+132ALUzVLmqYB4UsBj5qD6,Adan y Eva,Paulo Londra,74,False,0.709,171.993,0.72,0.767,0.323,0.0,-4.47,1,0.336,256972,1,Homerun,2019
+1algWk375QvT1XNJJbRsGM,Demasiado Loco,Paulo Londra,68,False,0.377,85.014,0.403,0.824,0.327,0.0,-8.859,0,0.452,166549,1,Homerun,2019
+2l7CpLcHxJeiWibGWftnew,Maldita Abusadora,Paulo Londra,63,False,0.373,117.98,0.669,0.781,0.619,0.0,-9.35,0,0.121,250297,7,Homerun,2019
+5tCIr5bTv77OTVBvwLtlSM,Y Yo No Sé,Paulo Londra,59,False,0.553,159.983,0.642,0.845,0.0748,0.00584,-2.068,0,0.257,190497,9,Homerun,2019
+4Egu7kAjEmygXrtX2n7AIV,So Fresh,Paulo Londra,58,False,0.681,96.516,0.451,0.812,0.0978,1.07e-06,-6.869,0,0.177,167975,11,Homerun,2019
+34w1ycoersTjtBsRQsKzgT,Querido Amigo,Paulo Londra,66,False,0.505,123.963,0.599,0.916,0.555,0.0,-6.851,0,0.302,228320,8,Homerun,2019
+3lSfq8WiDcQXEn8sqHCTZZ,Romeo y Julieta,Paulo Londra,62,False,0.636,130.051,0.464,0.871,0.0145,0.0,-6.916,0,0.0826,181554,4,Homerun,2019
+5qN1G8fSHq4Sv5FRoOkNGu,Por Eso Vine,Paulo Londra,72,False,0.646,188.009,0.625,0.76,0.233,0.0,-5.048,0,0.433,178534,8,Homerun,2019
+3H9GDhVVTlmFQSmpt51qiP,Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles),Paulo Londra,64,False,0.697,129.978,0.586,0.86,0.102,0.0,-4.727,1,0.0718,268794,1,Homerun,2019
+4b2V2ZuTYELubat4l5qZaE,Forever Alone,Paulo Londra,67,False,0.418,129.965,0.526,0.883,0.337,4.67e-05,-8.095,0,0.0735,214310,7,Homerun,2019
+5VIlWNT4PbYNoZLwVNz4lk,Condenado Para El Millón,Paulo Londra,63,False,0.75,75.3,0.208,0.643,0.00531,0.0,-4.755,0,0.294,222377,11,Homerun,2019
+77dMSg2VHi2wwXjXNrmcrZ,Nena Maldición (feat. Lenny Tavárez),Paulo Londra,78,False,0.531,118.96,0.367,0.566,0.192,0.0,-6.635,1,0.0716,227518,6,Homerun,2019
+4DDrWnqgD1IdMvbpJXdoO9,Dímelo,Paulo Londra,62,False,0.652,135.015,0.442,0.847,0.0752,0.0,-6.79,1,0.224,212516,2,Homerun,2019
+3krzcyMKlRXjVkJFZqMN4t,Chica Paranormal,Paulo Londra,73,False,0.61,139.948,0.699,0.86,0.0605,0.0,-5.93,0,0.0819,221084,6,Homerun,2019
+5Kr3a1wbMDSxdgDZzJhxhy,Sigan Hablando de Mi,Paulo Londra,57,False,0.535,94.956,0.397,0.884,0.0778,6.3e-06,-5.064,1,0.112,160875,7,Homerun,2019
+3jRl9iaoq6BmkkDbFmndpi,Hyperion,Gesaffelstein,30,False,0.877,129.214,0.0764,0.636,0.0812,0.9,-12.505,1,0.0397,173080,1,Hyperion,2019
+3mKuX3jnciGRXRHrV6O3rJ,Reset,Gesaffelstein,34,False,0.418,94.5,0.241,0.735,0.0577,0.222,-13.27,1,0.296,205440,7,Hyperion,2019
+2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Gesaffelstein,85,True,0.671,100.966,0.166,0.658,0.0933,0.000927,-12.21,1,0.0363,202093,2,Hyperion,2019
+3tw38CkaOgncThUwXO80NO,Ever Now,Gesaffelstein,52,False,0.373,107.995,0.0372,0.658,0.197,0.89,-12.473,1,0.0399,98067,1,Hyperion,2019
+5H0kIgpWNZm9HF6VkU4dow,Blast Off (feat. Pharrell Williams),Gesaffelstein,42,False,0.498,99.978,0.138,0.628,0.241,0.027,-12.803,1,0.0522,235200,6,Hyperion,2019
+2qre5YuCk0fuKw0Z60E28W,So Bad (feat. HAIM),Gesaffelstein,43,False,0.348,91.975,0.0315,0.264,0.106,0.213,-16.3,0,0.0637,216560,5,Hyperion,2019
+61aw1V0KLPD4XIjqNsGqo9,Forever (feat. The Hacker & Electric Youth),Gesaffelstein,42,False,0.426,117.985,0.139,0.652,0.00453,0.033,-12.596,0,0.0309,271733,9,Hyperion,2019
+0qtEDu0RYKlSN13TS0c0Uk,Vortex,Gesaffelstein,32,False,0.715,184.014,0.448,0.663,0.0971,0.945,-12.426,1,0.123,157373,1,Hyperion,2019
+2PAwc7JR6ASO6BFuT5jMJE,Memora,Gesaffelstein,35,False,0.494,99.045,0.0393,0.624,0.199,0.808,-12.832,0,0.0321,217107,11,Hyperion,2019
+3pbjoXy4W5Tnh9KVRfSalE,Humanity Gone,Gesaffelstein,34,False,0.306,84.127,0.037,0.131,0.0706,0.762,-15.049,0,0.0357,642187,4,Hyperion,2019
+51RN0kzWd7xeR4th5HsEtW,IGOR'S THEME,"Tyler, The Creator",69,False,0.672,163.1,0.0648,0.467,0.00559,0.243,-7.371,0,0.377,200693,10,IGOR,2019
+5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",82,True,0.498,79.635,0.413,0.554,0.23,5.98e-06,-8.866,1,0.0685,190067,9,IGOR,2019
+4f8Mh5wuWHOsfXtzjrJB3t,I THINK,"Tyler, The Creator",74,True,0.579,121.075,0.431,0.826,0.00881,0.0,-8.241,0,0.0801,212013,8,IGOR,2019
+5e4LIAQI0bClLazNf2gZV0,EXACTLY WHAT YOU RUN FROM YOU END UP CHASING,"Tyler, The Creator",9,False,0.478,0.0,0.0,0.0,0.927,0.0,-16.569,0,0.0,14627,11,IGOR,2019
+5QvBXUm5MglLJ3iBfTX2Wo,RUNNING OUT OF TIME,"Tyler, The Creator",76,True,0.391,84.281,0.162,0.36,0.296,0.000406,-10.6,1,0.0528,177227,6,IGOR,2019
+0fv2KH6hac06J86hBUTcSf,NEW MAGIC WAND,"Tyler, The Creator",83,True,0.73,139.566,0.464,0.621,0.0967,0.000131,-5.414,0,0.107,195320,5,IGOR,2019
+1nXZnTALNXiPlvXotqHm66,A BOY IS A GUN*,"Tyler, The Creator",72,True,0.689,79.568,0.505,0.417,0.575,0.0,-8.302,0,0.178,210253,2,IGOR,2019
+0wEC0GNF74lAqrEFZJMl1m,PUPPET,"Tyler, The Creator",69,True,0.557,77.572,0.199,0.508,0.00235,0.0134,-8.967,0,0.0478,179013,8,IGOR,2019
+6bOkaEXc5CopinGazSLokx,WHAT'S GOOD,"Tyler, The Creator",67,True,0.909,118.227,0.449,0.458,0.0567,4.26e-06,-6.553,1,0.487,205627,1,IGOR,2019
+1hz7SRTGUNAtIQ46qiNv2p,"GONE, GONE / THANK YOU","Tyler, The Creator",78,True,0.492,78.848,0.471,0.518,0.216,0.0012,-8.436,0,0.193,375387,10,IGOR,2019
+5A0M6B0RBSXSNWv0wcppZ9,I DON'T LOVE YOU ANYMORE,"Tyler, The Creator",67,True,0.522,142.952,0.584,0.638,0.352,0.0663,-9.814,1,0.0932,161200,8,IGOR,2019
+5TxRUOsGeWeRl3xOML59Ai,ARE WE STILL FRIENDS?,"Tyler, The Creator",82,True,0.497,187.308,0.313,0.216,0.128,2.39e-06,-8.025,1,0.0371,265480,10,IGOR,2019
+62zOmWi2NvlzQNWP55PPrt,Magnets (feat. Sophie Simmons),Sam Feldt,23,True,0.802,121.991,0.434,0.731,0.022,0.0,-4.763,1,0.0623,179016,5,Magnets EP,2019
+1hZxdv0GKiyH1MzdQWskLY,Hide & Seek (feat. Joe Housley),Sam Feldt,18,False,0.475,119.984,0.685,0.823,0.319,0.0,-7.582,0,0.0979,163250,1,Magnets EP,2019
+6ZT3p9zaO17gyTW6T5UTDW,Lose My Colours (feat. Sam Martin),Sam Feldt,27,False,0.851,107.994,0.194,0.574,0.0209,0.0,-4.748,1,0.036,210000,5,Magnets EP,2019
+3l1dBDNdlmA6X4q8j7B3t8,One Day (feat. ROZES),Sam Feldt,21,False,0.858,122.082,0.332,0.668,0.181,0.0,-4.048,1,0.0431,147541,8,Magnets EP,2019
+0qc4QlcCxVTGyShurEv1UU,Post Malone (feat. RANI),Sam Feldt,68,False,0.642,107.356,0.651,0.59,0.0771,0.0,-3.87,1,0.122,174444,7,Magnets EP,2019
+1KixkQVDUHggZMU9dUobgm,My Head & My Heart,Ava Max,79,False,0.934,116.001,0.436,0.614,0.0697,0.0,-3.709,0,0.07,174760,9,Heaven & Hell,2019
+2Gz6CxFe1GGiRRb8zFJHRv,H.E.A.V.E.N,Ava Max,48,False,0.643,119.971,0.621,0.592,0.296,0.0801,-6.928,0,0.0505,106184,9,Heaven & Hell,2019
+7a53HqqArd4b9NF4XAmlbI,Kings & Queens,Ava Max,82,False,0.69,129.857,0.457,0.637,0.00786,0.0,-4.057,0,0.0405,162399,1,Heaven & Hell,2019
+4gPUnZW8IT1mmF9aj9NLF7,Naked,Ava Max,52,False,0.641,111.955,0.695,0.683,0.0582,0.0,-4.092,0,0.0329,222094,3,Heaven & Hell,2019
+57jayqtClHRLIQ3mAFjvgZ,Tattoo,Ava Max,50,False,0.637,114.994,0.793,0.64,0.129,0.0,-5.228,1,0.0322,159460,6,Heaven & Hell,2019
+11OPriDpmUrTMTji52ta17,OMG What's Happening,Ava Max,58,False,0.854,124.042,0.931,0.698,0.101,0.0,-3.84,0,0.0451,179832,9,Heaven & Hell,2019
+3p866VcBbuggDPXJLuc9hr,Call Me Tonight,Ava Max,51,False,0.699,115.0,0.865,0.775,0.109,0.0,-4.273,0,0.0421,170952,3,Heaven & Hell,2019
+1iatZzgryaJh79PNFq2bi8,Born to the Night,Ava Max,49,False,0.698,139.985,0.406,0.59,0.0352,0.0,-5.891,1,0.0372,199331,9,Heaven & Hell,2019
+6SpVp6ttad3XJOsjKBZwaq,Torn,Ava Max,63,False,0.831,125.057,0.696,0.665,0.111,1.53e-06,-4.472,0,0.0437,198006,2,Heaven & Hell,2019
+0TxOB9JSgYXjPVR6uWAyfM,Take You To Hell,Ava Max,63,False,0.682,173.926,0.503,0.501,0.135,0.0,-4.664,0,0.0684,164537,0,Heaven & Hell,2019
+1Pmp486RrLRkaEkE3HFHXP,Who's Laughing Now,Ava Max,67,False,0.641,184.021,0.505,0.648,0.00565,3.63e-06,-5.521,1,0.0389,180348,7,Heaven & Hell,2019
+0UW7mAWldtWsfVrlFWYYWh,Belladonna,Ava Max,53,False,0.683,136.992,0.255,0.516,0.0383,5.57e-05,-4.849,0,0.0366,203429,1,Heaven & Hell,2019
+6O11gHhPCFNEFkEZYf3ilw,Rumors,Ava Max,49,False,0.738,96.81,0.466,0.537,0.0538,0.0,-5.557,1,0.038,192398,1,Heaven & Hell,2019
+2Xnv3GntqbBH1juvUYSpHG,So Am I,Ava Max,73,False,0.657,130.089,0.628,0.681,0.0748,0.0,-4.671,1,0.0432,183027,6,Heaven & Hell,2019
+5iyZwawawLjHYpX4MxUKVF,Salt,Ava Max,71,False,0.835,128.052,0.744,0.693,0.131,0.0,-3.242,1,0.0624,180283,6,Heaven & Hell,2019
+7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Ava Max,82,False,0.706,133.002,0.62,0.72,0.0684,0.0,-4.719,1,0.0473,187436,1,Heaven & Hell,2019
+5BfMJ6iytQnu1r7iiCYSXe,Intro,Khalid,51,False,0.414,79.556,0.0553,0.213,0.308,0.0257,-9.725,1,0.0339,213253,0,Free Spirit,2019
+2vsuel3g4zaLYSOY0mOMbi,Bad Luck,Khalid,57,False,0.52,164.047,0.303,0.432,0.277,0.371,-5.515,0,0.0548,231653,1,Free Spirit,2019
+2XKFnwB6djxrJCjR3PdeRb,My Bad,Khalid,59,False,0.578,84.963,0.367,0.577,0.547,0.59,-9.146,0,0.0907,163973,0,Free Spirit,2019
+339Y993TrFyWyO438be0RY,Better,Khalid,61,True,0.552,98.028,0.15,0.692,0.0503,0.165,-9.543,0,0.0497,229400,0,Free Spirit,2019
+6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Khalid,73,False,0.4,135.984,0.346,0.9,0.0516,0.0,-8.575,1,0.127,197573,0,Free Spirit,2019
+5A1w94uzc1kO1Zhe8WWxC3,Right Back,Khalid,60,False,0.427,97.03,0.603,0.788,0.0659,3.63e-05,-9.918,0,0.308,215227,5,Free Spirit,2019
+1E6DEDWDKHoOW0fcFuDghV,Don't Pretend,Khalid,58,False,0.551,89.0,0.219,0.697,0.258,0.00551,-8.833,1,0.0815,165840,11,Free Spirit,2019
+6fOOKqQWcSy33ApU1wqkkW,Paradise,Khalid,54,False,0.452,75.046,0.523,0.581,0.206,0.00329,-9.558,1,0.15,173653,11,Free Spirit,2019
+0HEckRWFSknIupbGzavk5d,Hundred,Khalid,56,True,0.483,120.005,0.479,0.772,0.0521,0.000375,-10.06,0,0.0564,277080,6,Free Spirit,2019
+09oZ9eXQ2fo6YDrPzJqAoP,Outta My Head (with John Mayer),Khalid,68,False,0.545,103.012,0.514,0.729,0.0174,0.000274,-7.818,1,0.0316,177067,0,Free Spirit,2019
+2kAIpGWnlFLQh48iut6Zzq,Free Spirit,Khalid,62,False,0.446,139.994,0.11,0.627,0.308,0.00077,-9.477,0,0.0332,182080,2,Free Spirit,2019
+1NgCWYuBLfqBDA3b8MgSVU,Twenty One,Khalid,55,False,0.445,109.981,0.405,0.776,0.212,0.00409,-8.574,1,0.0371,184200,9,Free Spirit,2019
+42w7pX3r1TpLR0i55Ek5ND,Bluffin',Khalid,50,False,0.314,129.666,0.288,0.529,0.354,0.000436,-10.323,1,0.0461,199240,0,Free Spirit,2019
+1WqLtczgKdbHFHhefOU0y7,Self,Khalid,52,False,0.693,143.98,0.439,0.618,0.44,0.759,-7.889,0,0.333,229960,1,Free Spirit,2019
+12VqHHz4wvVcnEdSivjLeQ,Alive,Khalid,53,False,0.406,78.616,0.205,0.386,0.832,0.0597,-10.419,1,0.0425,177413,11,Free Spirit,2019
+0Hgqglypzt6Qs5Duqskcqs,Heaven,Khalid,50,False,0.479,116.989,0.11,0.42,0.613,0.663,-8.881,1,0.0374,213027,8,Free Spirit,2019
+1fHRzxbts9A8J1ergDe7Kz,Saturday Nights,Khalid,59,False,0.37,83.162,0.354,0.574,0.634,9.4e-05,-10.803,1,0.0841,211627,10,Free Spirit,2019
+5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,81,False,0.86,93.989,0.656,0.737,0.11,1.94e-06,-2.652,0,0.0593,193227,8,Con Calma,2019
+2t8yVaLvJ0RenpXUIAC52d,a lot,21 Savage,82,True,0.636,145.972,0.274,0.837,0.0395,0.00125,-7.643,1,0.086,288624,1,i am > i was,2019
+5ZSIExfQuVv69tw5Qw3yDl,break da law,21 Savage,58,True,0.575,141.037,0.359,0.904,0.0493,0.0,-7.823,1,0.346,177748,1,i am > i was,2019
+6ho88pvz4c8WCSFbdVXNia,a&t,21 Savage,54,True,0.567,146.976,0.827,0.924,0.00169,0.0,-5.009,1,0.0961,211588,5,i am > i was,2019
+0ZKKJTv21zJpNrKiL0LYyV,out for the night,21 Savage,59,True,0.695,173.368,0.408,0.841,0.001,4.26e-05,-5.625,1,0.415,137232,9,i am > i was,2019
+4f1XXGjZZ9EkFkrbPJek6X,gun smoke,21 Savage,58,True,0.461,85.992,0.325,0.809,0.000832,4.43e-05,-5.677,0,0.0907,167410,10,i am > i was,2019
+2wOXxtHZgRkkrkEbKLzzqs,1.5,21 Savage,63,True,0.52,84.022,0.306,0.885,0.000244,1.16e-06,-8.353,1,0.359,148656,1,i am > i was,2019
+4paAidoE8VAemwU4jgCc6l,all my friends,21 Savage,62,True,0.62,130.09,0.206,0.713,0.171,1.16e-06,-4.513,1,0.0422,211785,0,i am > i was,2019
+0hPLZrnDgtKxrym1BHjDhd,can't leave without it,21 Savage,75,True,0.591,131.982,0.696,0.872,0.111,0.0,-6.952,0,0.359,205352,6,i am > i was,2019
+2QgfDF0fQ4sskDthP8MG5w,asmr,21 Savage,63,True,0.543,170.067,0.161,0.84,0.0399,0.0,-7.738,1,0.476,171714,1,i am > i was,2019
+50a8bKqlwDEqeiEknrzkTO,ball w/o you,21 Savage,83,True,0.633,137.994,0.459,0.892,0.0467,0.000189,-7.471,1,0.0902,195047,8,i am > i was,2019
+2LqoYvMudv9xoTqNLFKILj,good day,21 Savage,49,True,0.519,122.195,0.119,0.966,0.00359,0.0,-5.682,1,0.306,242448,1,i am > i was,2019
+5stbfxsPi8gcOH2LCuA4Le,pad lock,21 Savage,68,True,0.55,130.024,0.798,0.959,0.0187,0.0,-8.012,0,0.197,191360,5,i am > i was,2019
+2FUNBaa5DwItJtYEBgAblU,monster,21 Savage,61,True,0.607,134.022,0.224,0.89,0.158,0.000228,-6.916,0,0.124,233040,9,i am > i was,2019
+55xNjVrGJxgqcEFqCyejTM,letter 2 my momma,21 Savage,54,True,0.608,80.225,0.963,0.864,0.0531,1.2e-05,-10.567,0,0.275,194810,1,i am > i was,2019
+1uULQtJ8rbsX5TwjPpPc9Q,4L,21 Savage,60,True,0.41,80.011,0.0703,0.879,0.000897,2.09e-05,-9.233,1,0.551,288364,8,i am > i was,2019
+3BDxv4ORzOpXAsa4lWVl4i,(Fuck A) Silver Lining,Panic! At The Disco,54,True,0.939,105.092,0.714,0.577,0.0272,0.0,-1.352,0,0.108,168613,1,Pray for the Wicked,2019
+76vMKwFtdDDCLcM6zXybjB,Say Amen (Saturday Night),Panic! At The Disco,65,False,0.867,167.965,0.602,0.491,0.167,0.0,-2.313,0,0.103,189187,6,Pray for the Wicked,2019
+22oEJW6r2rMb9z4IntfyEa,"Hey Look Ma, I Made It",Panic! At The Disco,70,False,0.833,107.936,0.58,0.577,0.0137,0.0,-3.337,1,0.0695,169667,5,Pray for the Wicked,2019
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,83,False,0.904,82.014,0.681,0.579,0.193,0.0,-2.729,1,0.0618,190947,5,Pray for the Wicked,2019
+0wdV94AXGRphrbkDWLNzVC,Roaring 20s,Panic! At The Disco,60,False,0.948,83.19,0.515,0.271,0.0467,0.0,-2.207,1,0.263,186600,1,Pray for the Wicked,2019
+6PFoEnjp0PAe5siGswjH9i,Dancing's Not a Crime,Panic! At The Disco,54,False,0.891,94.095,0.804,0.526,0.0375,0.0,-1.549,1,0.0482,219467,6,Pray for the Wicked,2019
+5trCWbYtza0QUxdmF9HAPX,One of the Drunks,Panic! At The Disco,54,True,0.892,174.008,0.762,0.424,0.0426,0.0,-3.78,0,0.193,198947,8,Pray for the Wicked,2019
+4hUR3thIs01mQUtVmZFJ8F,The Overpass,Panic! At The Disco,51,False,0.955,132.951,0.61,0.517,0.0224,0.0,-1.848,0,0.167,177800,10,Pray for the Wicked,2019
+50Hv5NZIM0puIUoBttjpfb,King of the Clouds,Panic! At The Disco,58,False,0.922,198.063,0.472,0.285,0.237,0.0,-1.932,0,0.247,160747,2,Pray for the Wicked,2019
+18ULKfQl3KpCnklAKFfO2t,Old Fashioned,Panic! At The Disco,52,False,0.878,168.033,0.783,0.52,0.0133,0.0,-1.768,0,0.0616,166733,6,Pray for the Wicked,2019
+18xmRkPWE0sGUzFyNNAAhN,Dying in LA,Panic! At The Disco,56,False,0.35,126.444,0.315,0.346,0.876,1.98e-06,-4.988,1,0.0328,229053,2,Pray for the Wicked,2019
+2TH65lNHgvLxCKXM3apjxI,Callaita,Bad Bunny,78,True,0.624,176.169,0.244,0.61,0.6,2.12e-06,-4.773,1,0.309,250534,2,Callaita,2019
+6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,72,False,0.682,110.567,0.345,0.477,0.153,0.0,-4.931,0,0.0925,202205,1,How Do You Sleep?,2019
+44ZJ4hLD5onikKsVLQaILr,Vossi Bop,Stormzy,63,True,0.653,188.115,0.428,0.682,0.13,0.00116,-6.062,1,0.339,196267,8,Vossi Bop,2019
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,90,False,0.296,115.284,0.12,0.351,0.934,0.0,-10.109,0,0.0333,200186,4,lovely (with Khalid),2019
+3pOSvuKA8pmBG7Ar9Y5OnK,Drugs & The Internet,Lauv,56,True,0.551,88.794,0.243,0.466,0.361,9.32e-05,-7.043,1,0.131,178560,2,~how i'm feeling~,2019
+2RNsweBBb1a6tAHXQtt2xH,"fuck, i'm lonely",Lauv,69,True,0.547,94.992,0.718,0.809,0.452,0.0,-7.305,1,0.0614,198973,9,~how i'm feeling~,2019
+0r4l1Eco6JEbeexC8dEawI,Lonely Eyes,Lauv,57,False,0.503,95.013,0.385,0.586,0.0403,0.0,-7.002,1,0.0268,196493,2,~how i'm feeling~,2019
+73r3kYaMRJT3nZpsw6xclU,Sims,Lauv,46,True,0.373,99.217,0.502,0.575,0.556,0.0,-9.139,1,0.393,155080,2,~how i'm feeling~,2019
+0Jw7m6p1qyz0VsvjpguMzu,Believed,Lauv,47,True,0.518,149.962,0.49,0.796,0.0766,0.0,-8.09,0,0.0516,169760,11,~how i'm feeling~,2019
+3nRAW6huHTz9zGpH5hE8sk,Billy,Lauv,46,False,0.323,176.793,0.439,0.786,0.0478,0.0,-8.75,1,0.367,180293,2,~how i'm feeling~,2019
+6r3duEAfFTH83DuoywkG20,Feelings,Lauv,71,False,0.394,103.041,0.241,0.7,0.0567,0.0,-8.911,1,0.0328,189907,9,~how i'm feeling~,2019
+5EfNBzwOjAfF9qgsWr9XGP,Canada,Lauv,60,False,0.264,93.252,0.346,0.628,0.623,0.0,-12.783,1,0.0405,184009,9,~how i'm feeling~,2019
+4dORWJfLHYnXkB5PeR4s5b,For Now,Lauv,52,False,0.227,83.57,0.107,0.532,0.776,7.56e-06,-12.184,1,0.0416,189240,7,~how i'm feeling~,2019
+6mXdCcFnPKQznj4CmMRmHC,Mean It,Lauv,71,False,0.45,96.001,0.329,0.747,0.0407,0.0,-8.543,1,0.0919,232853,7,~how i'm feeling~,2019
+1AtkYADVXSwqRaDWbFNu3j,Tell My Mama,Lauv,46,False,0.497,139.977,0.492,0.88,0.191,0.0,-7.023,1,0.0523,166707,0,~how i'm feeling~,2019
+04YCnP86jSUS5h1JNzbW10,Sweatpants,Lauv,46,True,0.495,159.945,0.725,0.722,0.048,0.0,-8.44,1,0.079,196040,10,~how i'm feeling~,2019
+0pSqYDTjY1Xt86usTQslAx,Who,Lauv,74,False,0.337,141.701,0.0982,0.632,0.558,0.0,-8.0,0,0.033,180413,11,~how i'm feeling~,2019
+7LpMG3AEaIJgs62HQhAa91,i'm so tired...,Lauv,77,False,0.735,101.252,0.498,0.548,0.173,0.0,-7.572,1,0.236,162587,11,~how i'm feeling~,2019
+3Wd8txJHeEkEsHvS0jIywR,El Tejano,Lauv,49,True,0.56,134.014,0.945,0.879,0.135,0.0,-6.924,0,0.0514,191427,9,~how i'm feeling~,2019
+3pTHZHX0MRE7xYeiTEWlaM,Tattoos Together,Lauv,66,True,0.401,122.962,0.606,0.863,0.00569,9.14e-06,-7.49,1,0.0748,186613,4,~how i'm feeling~,2019
+45UAiFGe5KssWUbi5s1AOY,Changes,Lauv,58,False,0.454,74.026,0.191,0.604,0.458,0.0,-8.363,1,0.103,160187,2,~how i'm feeling~,2019
+6YQT5luUxB6JwQdd8e7jbf,Sad Forever,Lauv,58,False,0.486,122.025,0.355,0.748,0.457,0.0,-8.926,1,0.0621,203520,5,~how i'm feeling~,2019
+24n8p4vCkwNL9OhvTrwe9z,Invisible Things,Lauv,53,False,0.552,125.194,0.285,0.744,0.0834,8.02e-06,-7.406,1,0.0926,197307,7,~how i'm feeling~,2019
+12YVZ3Tg4LyAJNsMJVtwQq,Julia,Lauv,54,False,0.128,112.53,0.356,0.53,0.905,0.0,-14.564,1,0.06,218000,11,~how i'm feeling~,2019
+18ioFJkxW5B0hOXE0l2ddw,Modern Loneliness,Lauv,61,True,0.507,82.009,0.146,0.701,0.14,0.0,-7.106,1,0.0353,252337,8,~how i'm feeling~,2019
+76B3Vuf0m505PmtfgCKu36,Political Badness,NSG,33,True,0.617,91.052,0.687,0.847,0.173,0.0,-6.237,1,0.223,247640,0,Roots,2019
+17aDzWS0KU09MVWtagw2FI,MCM,NSG,50,True,0.596,199.986,0.775,0.754,0.0212,0.00191,-5.54,0,0.345,191333,10,Roots,2019
+0ibShYbjMMERrW91r5VyoT,Lupita,NSG,52,True,0.492,98.173,0.586,0.75,0.324,0.000139,-6.65,1,0.258,217733,0,Roots,2019
+1qFeRnderUedwI3rLx78ss,Nonsense,NSG,35,True,0.629,98.051,0.69,0.682,0.266,2.43e-06,-8.382,0,0.33,218707,5,Roots,2019
+23VmCwnw95Zqbeapi31iGt,Tinder,NSG,38,True,0.531,99.947,0.588,0.865,0.194,0.0817,-5.688,0,0.32,216520,8,Roots,2019
+0LFDKqXO5cxL5HNKjcC2Pw,Why Stress,NSG,39,True,0.566,100.05,0.716,0.876,0.225,4.38e-06,-8.95,0,0.198,217533,9,Roots,2019
+7s0dhFOfsx5GXbDMhfa5Ks,Zanotti,NSG,33,True,0.477,101.04,0.622,0.815,0.413,2.03e-05,-8.801,1,0.187,175027,10,Roots,2019
+6N8FEVHHn6PlHYVcWp0yaV,Porsche,NSG,35,True,0.487,102.011,0.598,0.946,0.165,0.00061,-8.096,1,0.206,194693,1,Roots,2019
+71NgX2550VskFZR1MyW4kl,Expensive,NSG,29,True,0.664,127.033,0.775,0.832,0.128,8.04e-06,-5.97,0,0.0668,207027,0,Roots,2019
+66LvYgT7NttAPu2asyeOkX,dRuNk gUiTaR,NSG,37,True,0.636,99.019,0.768,0.784,0.0822,0.00136,-6.937,0,0.0659,177800,1,Roots,2019
+3N0fvUT97rcizHNE9pzstf,Jorja,NSG,27,True,0.619,82.709,0.608,0.538,0.341,0.0,-8.739,1,0.153,259067,6,Roots,2019
+4xBZpaCmyOtWhgThrmcv78,Samba,NSG,32,True,0.5,99.988,0.538,0.915,0.0983,2.18e-05,-7.953,1,0.179,183667,1,Roots,2019
+35Q5ldq74wOaAErCmL9OQZ,Grandad,NSG,41,True,0.705,112.026,0.961,0.853,0.0173,0.217,-4.731,0,0.115,191360,11,Roots,2019
+2KY8jCwgvFNWleSfvdjk67,Ourself,NSG,47,True,0.539,103.025,0.657,0.928,0.372,0.000462,-5.589,1,0.187,190893,9,Roots,2019
+115OL2ZaNEl3eXhY5GphtW,Roots,NSG,35,True,0.715,102.846,0.826,0.73,0.422,0.000827,-5.215,1,0.214,190240,8,Roots,2019
+57XA5uPB0JtQTPCyRRrwGp,Trust Issues,NSG,45,True,0.848,73.936,0.814,0.469,0.0688,1.4e-05,-4.556,1,0.338,201600,10,Roots,2019
+4xUtJdXphVWnocUsfW2YhZ,OT Bop,NSG,44,True,0.479,100.999,0.479,0.936,0.112,0.0106,-5.842,1,0.27,185760,8,Roots,2019
+5Jqg1ta5RhBIYuJ1gdHCAt,Options,NSG,58,True,0.621,101.993,0.762,0.836,0.389,9.16e-05,-4.684,0,0.0894,240082,1,Roots,2019
+2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD,J. Cole,84,True,0.364,123.984,0.463,0.837,0.149,0.0,-11.713,1,0.276,213594,8,MIDDLE CHILD,2019
+1FIgFc6wUm2BQ1yrdFuUcs,Soñando Despierto,Sech,44,False,0.495,77.524,0.47,0.618,0.639,0.0,-9.237,1,0.218,135054,3,Sueños,2019
+6ATIufHUOw1R1A4q46BqrN,Falsas Promesas,Sech,63,False,0.737,90.005,0.865,0.441,0.427,0.000871,-5.234,1,0.0665,206607,8,Sueños,2019
+1Ej96GIBCTvgH7tNX1r3qr,Otro Trago,Sech,73,True,0.7,176.044,0.619,0.746,0.136,0.000159,-4.669,1,0.341,225933,0,Sueños,2019
+7AMzFTeQSS2FBjMCYb6zxs,La Niña,Sech,49,True,0.675,113.261,0.579,0.783,0.365,0.0,-5.993,1,0.0939,163211,0,Sueños,2019
+5V4u2EwJZLs03lWJ8PH9DA,Tiene Novio,Sech,54,False,0.716,92.996,0.842,0.711,0.145,4.02e-06,-5.914,1,0.0424,220945,5,Sueños,2019
+65mhesg9E1dT45P5DYX4wV,X Ti,Sech,54,False,0.592,169.873,0.757,0.731,0.273,1.11e-06,-4.017,0,0.099,173993,6,Sueños,2019
+0tJCo71s7HT9Mu5Z4juuLw,Solita,Sech,66,False,0.831,88.793,0.88,0.679,0.159,1.1e-06,-1.866,1,0.109,219520,2,Sueños,2019
+6E8uqptcabNz9ym19FkDye,Boomerang,Sech,62,False,0.658,163.86,0.61,0.714,0.353,0.00766,-4.628,0,0.0614,203392,5,Sueños,2019
+7fODjB7BrQTGqh0hogW6XD,Que Mas Pues - Remix,Sech,72,True,0.661,113.358,0.811,0.647,0.121,2.27e-06,-5.027,1,0.2,305962,11,Sueños,2019
+5mzp5B1FA5e4fsvnkqyvm1,La Discusión,Sech,50,False,0.648,90.062,0.722,0.755,0.112,0.0215,-5.378,1,0.0603,185346,10,Sueños,2019
+1ndlOUUT3Eq1SDCSdKJASw,Miss Lonely - Dimelo Flow Remix,Sech,67,True,0.711,81.907,0.719,0.651,0.176,0.0,-5.461,1,0.164,240366,0,Sueños,2019
+4kIuPsijmLzK11RTCseKh7,Lo Malo,Sech,46,True,0.516,91.918,0.64,0.505,0.209,4.52e-05,-6.807,0,0.183,188205,4,Sueños,2019
+4NSW0Km5ZG60L8FthUebPJ,What I Like About You (feat. Theresa Rex),Jonas Blue,62,False,0.8,102.46,0.553,0.46,0.289,6.16e-06,-3.584,1,0.05,220396,1,What I Like About You (feat. Theresa Rex),2019
+6Gg25EZRbQd4IHiJz2KSY0,Testimony,Kodak Black,54,True,0.667,80.031,0.376,0.814,0.0369,0.0,-4.785,0,0.36,240000,6,Dying to Live,2019
+26FpOENKQstjLRhX1fxUs9,This Forever,Kodak Black,45,True,0.691,80.862,0.573,0.795,0.00385,0.0,-5.193,0,0.328,161115,1,Dying to Live,2019
+48KTGG6wBPpleE5KsTuiwy,Identity Theft,Kodak Black,54,True,0.696,97.988,0.756,0.938,0.0416,0.0,-5.837,1,0.384,127346,1,Dying to Live,2019
+40Rpg3LkZwwzuHJ3GdjMma,Gnarly (feat. Lil Pump),Kodak Black,56,True,0.784,144.981,0.51,0.764,0.469,0.0,-4.003,0,0.0833,186403,10,Dying to Live,2019
+0FZ4Dmg8jJJAPJnvBIzD9z,ZEZE (feat. Travis Scott & Offset),Kodak Black,78,True,0.603,98.043,0.504,0.861,0.0521,0.0,-5.788,0,0.176,228760,8,Dying to Live,2019
+1XJBDDpeuZaj5fvmwhdIMw,Take One,Kodak Black,52,True,0.615,174.034,0.501,0.66,0.114,0.0,-7.2,1,0.47,165517,1,Dying to Live,2019
+4KX8vXbouybtUptEyYxtIk,MoshPit (feat. Juice WRLD),Kodak Black,62,True,0.627,157.938,0.49,0.769,0.394,0.0,-4.064,1,0.262,164038,7,Dying to Live,2019
+52Vrauy7m3EtC1aQqj7Rfp,Transgression,Kodak Black,47,True,0.639,81.465,0.85,0.57,0.625,0.0,-4.892,0,0.293,135441,7,Dying to Live,2019
+6JXFDTCAIe5FfiiQYeMgh3,Malcolm X.X.X.,Kodak Black,46,True,0.721,169.572,0.348,0.47,0.46,0.0,-5.864,1,0.399,195675,5,Dying to Live,2019
+2MShy1GSSgbmGUxADNIao5,Calling My Spirit,Kodak Black,69,True,0.366,119.985,0.74,0.91,0.0996,0.0,-9.954,1,0.0941,152000,1,Dying to Live,2019
+15eaTEZMA2CqOxBvyuosLI,In the Flesh,Kodak Black,47,True,0.521,173.977,0.538,0.735,0.595,0.0,-7.336,1,0.275,188910,1,Dying to Live,2019
+5eMbTELOeo7gEdFAIBix0c,Close to the Grave,Kodak Black,49,True,0.528,129.695,0.368,0.638,0.044,0.0,-6.83,1,0.179,221538,1,Dying to Live,2019
+53iV4HGEGjKtAFrPt0PyfV,From the Cradle,Kodak Black,48,True,0.446,141.013,0.183,0.793,0.212,0.0,-5.926,0,0.0935,191672,2,Dying to Live,2019
+7HdNB8nvJOBwHa8hIkzvxp,"If I'm Lyin', I'm Flyin'",Kodak Black,60,True,0.617,176.117,0.283,0.715,0.0996,3.41e-06,-5.558,0,0.24,130929,11,Dying to Live,2019
+1CjgBZsDOXNUs9aZdzOqSu,Needing Something,Kodak Black,41,True,0.711,119.995,0.445,0.572,0.326,0.0,-4.977,1,0.423,192082,11,Dying to Live,2019
+4VQ46sRJtb6osiD3xfYGHx,Could of Been Different,Kodak Black,52,True,0.823,104.955,0.35,0.883,0.232,0.0,-4.53,1,0.246,192000,0,Dying to Live,2019
+3TKaDPOuVr1W5TmlXUi14q,Intro Envidia,Lunay,34,False,0.667,167.878,0.326,0.424,0.471,0.0,-6.183,0,0.0488,77148,5,Épico,2019
+37zdqI4r1gswIzczSBkRon,Aventura,Lunay,69,False,0.726,92.025,0.876,0.729,0.223,0.0,-3.208,1,0.0422,217130,5,Épico,2019
+0wGoOwOvLGCZqz8mNFMpAC,360,Lunay,47,False,0.633,155.941,0.365,0.641,0.503,0.0,-4.194,1,0.0632,176000,7,Épico,2019
+0OoqRZXnSrgIUAha3iLKG1,La Cama,Lunay,60,False,0.904,173.973,0.816,0.7,0.2,0.000471,-2.826,0,0.0568,189296,2,Épico,2019
+4FWhPJjc9FMRCCFc038uEz,Malas Intenciones,Lunay,39,False,0.685,175.989,0.433,0.622,0.434,0.0,-1.205,1,0.0674,176063,10,Épico,2019
+5CxiDctwwCb40MVA8Lbe17,Remate,Lunay,35,False,0.867,179.913,0.92,0.706,0.108,0.0,-3.374,0,0.049,206500,6,Épico,2019
+4t9a07PAghtQMRAIP9FQ7Z,Soltera (Remix),Lunay,75,False,0.783,92.01,0.799,0.795,0.361,0.0,-4.271,1,0.0432,266087,5,Épico,2019
+439FqaiIK6wg9eIzm4HPgL,Mi Favorita,Lunay,50,False,0.864,169.925,0.589,0.615,0.0691,0.0,-3.269,0,0.0479,229955,1,Épico,2019
+32ACWJVaBtcYbPG4DFQuFy,Todavía,Lunay,36,False,0.612,93.027,0.832,0.771,0.188,0.0,-5.279,0,0.0411,218000,3,Épico,2019
+2UfFPYeWLimTFRC90At4Jd,Por Mi Culpa,Lunay,35,False,0.697,173.957,0.302,0.606,0.257,0.0,-3.398,0,0.0374,202457,6,Épico,2019
+1zuMoycNBmpN4p6X8sJeh5,Amigos Na' Mas,Lunay,45,False,0.842,96.006,0.897,0.765,0.6,8.2e-05,-3.478,0,0.0377,190952,2,Épico,2019
+0mD0bi4kxvKYJh8stjNN8G,Quiero,Lunay,34,False,0.82,90.012,0.531,0.67,0.109,0.0,-4.317,0,0.0392,190333,7,Épico,2019
+1fXEkSum1vbTa3w0yvYzYW,A Solas (Remix),Lunay,66,False,0.744,180.014,0.589,0.62,0.66,5.8e-06,-2.576,0,0.142,273198,6,Épico,2019
+78uXMDNh2W2jZVrc4qBatZ,Soltera,Lunay,61,False,0.73,91.989,0.852,0.778,0.442,0.0,-4.324,1,0.04,213913,5,Épico,2019
+5W83ErFkO3aKAIS1WMi6u0,Secreto,Anuel AA,79,False,0.803,91.987,0.706,0.807,0.602,0.00853,-4.156,1,0.126,258800,11,Secreto,2019
+7DcvwMAiqKJQD1rrdfxSDx,The London (feat. J. Cole & Travis Scott),Young Thug,70,True,0.586,97.981,0.179,0.796,0.0247,0.0,-6.946,0,0.147,200107,4,The London (feat. J. Cole & Travis Scott),2019
+5icOoE6VgqFKohjWWNp0Ac,Here With Me,Marshmello,75,False,0.565,99.961,0.181,0.791,0.0623,0.0,-3.933,0,0.0439,156347,5,Here With Me,2019
+2ksOAxtIxY8yElEWw8RhgK,China,Anuel AA,77,False,0.808,105.027,0.609,0.786,0.0846,0.000289,-3.702,1,0.0882,301714,7,China,2019
+278kSqsZIiYp8p3QjYAqa8,NI BIEN NI MAL,Bad Bunny,73,True,0.449,128.028,0.337,0.826,0.556,1.85e-05,-8.33,0,0.0674,236216,5,X 100PRE,2019
+5jGUJXnELDaDTgiRjD9lsg,200 Mph,Bad Bunny,67,True,0.5,160.02,0.816,0.85,0.0139,0.000384,-6.708,1,0.0665,170509,8,X 100PRE,2019
+6kN06eEOblRAuWI0xUUS91,¿Quien Tu Eres?,Bad Bunny,62,True,0.58,137.048,0.325,0.727,0.185,3.58e-06,-6.804,0,0.136,159229,2,X 100PRE,2019
+6it15CsDlkqB7N4lF0C1qM,Caro,Bad Bunny,68,True,0.575,160.007,0.248,0.651,0.627,0.000202,-7.739,1,0.299,229456,0,X 100PRE,2019
+5VQpJ2AY2iMzrRZKgcvNjh,Tenemos Que Hablar,Bad Bunny,63,True,0.512,146.075,0.144,0.855,0.146,0.000854,-8.165,1,0.0534,224512,11,X 100PRE,2019
+4vCAzANUWDE24URV6wQ4ra,Otra Noche en Miami,Bad Bunny,79,True,0.646,88.661,0.297,0.514,0.197,2.3e-05,-8.833,1,0.275,233128,1,X 100PRE,2019
+4UEuIEv9Wc3wtiWUplGJ7q,Ser Bichote,Bad Bunny,61,True,0.626,154.946,0.183,0.785,0.158,4.6e-06,-8.03,0,0.0675,193211,4,X 100PRE,2019
+35wvL50xvKpCHEJPxLOLPI,Si Estuviésemos Juntos,Bad Bunny,83,True,0.594,171.854,0.158,0.672,0.0626,5.14e-05,-6.813,0,0.0789,169248,1,X 100PRE,2019
+4uP3pUP18ennmz0tb3GphR,Solo de Mi,Bad Bunny,72,True,0.73,179.972,0.15,0.743,0.287,8.1e-05,-4.314,0,0.125,197968,10,X 100PRE,2019
+5mj8WVFcKdGA8p9HWGTSLc,Cuando Perriabas,Bad Bunny,64,True,0.705,81.998,0.499,0.787,0.137,1.06e-06,-7.582,1,0.0695,188654,0,X 100PRE,2019
+1khmgu0pveJbkbpbkyvcQv,La Romana,Bad Bunny,76,True,0.725,125.8,0.326,0.655,0.0327,0.00264,-5.497,1,0.188,300579,0,X 100PRE,2019
+69ZaPBHhRMRDjRpW1ivnOU,Como Antes,Bad Bunny,69,False,0.379,103.956,0.252,0.767,0.668,0.000145,-10.348,1,0.0385,230578,0,X 100PRE,2019
+6pZHZndlo57dPCYnvlYFOE,RLNDT,Bad Bunny,66,True,0.528,108.025,0.142,0.6,0.263,0.0,-6.554,1,0.0308,284853,0,X 100PRE,2019
+2OWVCFTolecLiGZPquvWvT,Estamos Bien,Bad Bunny,73,False,0.536,119.883,0.439,0.759,0.821,4.57e-06,-6.663,0,0.173,208080,9,X 100PRE,2019
+3gE4eQH3K83Sght0ZLvuBK,MIA,Bad Bunny,80,False,0.538,97.054,0.156,0.816,0.0142,0.000496,-6.354,0,0.0617,210368,6,X 100PRE,2019
+3EQ9QP2E7wjYQba8OSPBst,Intro,Meek Mill,55,True,0.76,96.044,0.24,0.678,0.0557,0.0,-5.546,1,0.221,213402,1,Championships,2019
+45CCe4gu08OYG1I4MH8TU6,Trauma,Meek Mill,49,True,0.639,89.09,0.183,0.682,0.0284,0.0,-4.406,1,0.292,238203,8,Championships,2019
+2tnlNVAhuQGgoFJxALVeXx,Uptown Vibes (feat. Fabolous & Anuel AA),Meek Mill,60,True,0.835,91.035,0.165,0.655,0.0459,0.0,-3.451,1,0.059,190412,1,Championships,2019
+3DnZfpfe8wLeJgzc00gKeW,On Me (feat. Cardi B),Meek Mill,51,True,0.666,132.12,0.538,0.864,0.0482,0.0,-5.525,1,0.234,225008,1,Championships,2019
+4iQ5gmTAzWfK8JyFC2LBox,What's Free (feat. Rick Ross & Jay Z),Meek Mill,53,True,0.718,166.42,0.267,0.511,0.000322,0.0,-6.293,0,0.404,362839,11,Championships,2019
+6pUBrvKfJL4qmn95mxU7rC,Respect the Game,Meek Mill,59,True,0.67,89.842,0.159,0.603,0.0871,0.0,-4.809,1,0.25,192099,2,Championships,2019
+6cPnE82DKBLd7sg02ZNg8K,"Splash Warning (feat. Future, Roddy Ricch and Young Thug)",Meek Mill,48,True,0.703,163.06,0.331,0.766,0.00807,0.0,-5.877,0,0.163,168495,10,Championships,2019
+5DTOk0tCrmicVQP4mc6hkr,Championships,Meek Mill,52,True,0.803,167.329,0.319,0.488,0.0786,0.0,-4.165,0,0.205,261743,6,Championships,2019
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Meek Mill,81,True,0.496,86.003,0.544,0.889,0.259,0.0,-6.365,0,0.0905,180522,4,Championships,2019
+1bx4Jw8A7GQtImIQGccI6D,Almost Slipped,Meek Mill,47,True,0.651,164.213,0.46,0.49,0.246,0.0,-6.24,1,0.251,246793,8,Championships,2019
+35J4wXQeRuHNOEArMy6FOe,Tic Tac Toe (feat. Kodak Black),Meek Mill,51,True,0.72,150.039,0.285,0.821,0.00902,7.07e-06,-4.606,0,0.222,185261,10,Championships,2019
+6irE4Fbjbry3czv7mTxVSB,24/7 (feat. Ella Mai),Meek Mill,61,True,0.711,86.957,0.368,0.657,0.0135,0.0,-5.355,1,0.374,221522,0,Championships,2019
+0jqLv5PuEUA0GthFjdtlS1,Oodles O' Noodles Babies,Meek Mill,48,True,0.836,72.099,0.584,0.609,0.593,0.0,-3.442,0,0.264,181274,4,Championships,2019
+0UNeNA0dcfUMsGxvLwf2p3,Pay You Back (feat. 21 Savage),Meek Mill,50,True,0.694,85.047,0.23,0.821,0.03,0.0,-5.169,1,0.229,235263,9,Championships,2019
+3gHLXLJ9JE1oOayo3ar4E5,100 Summers,Meek Mill,47,True,0.483,79.012,0.453,0.481,0.171,0.0,-8.174,0,0.331,163834,4,Championships,2019
+4Kdu9AlfQyu0o6r2ozCMTc,Wit the Shits (W.T.S) [feat. Melii],Meek Mill,45,True,0.814,146.99,0.709,0.756,0.00735,0.0,-5.398,1,0.0416,170539,0,Championships,2019
+0UOF9AAyS8H9iCWmePj29w,Stuck in My Ways,Meek Mill,48,True,0.701,139.944,0.556,0.703,0.147,0.0,-4.764,1,0.159,191486,1,Championships,2019
+3lb5fWSG2p7x8ik8HN9oFR,Dangerous (feat. Jeremih and PnB Rock),Meek Mill,66,True,0.493,86.043,0.562,0.734,0.0467,0.0,-7.528,1,0.308,233750,0,Championships,2019
+75ld9n7watXCD0nHnE931J,Cold Hearted II,Meek Mill,51,True,0.781,77.27,0.367,0.296,0.0377,0.0,-7.148,1,0.451,301870,6,Championships,2019
+3fpVWegR6YOS1Yk5HSMYIq,Paranoid,Post Malone,68,False,0.536,159.914,0.253,0.625,0.038,2.31e-05,-5.428,1,0.0776,221787,0,beerbongs & bentleys,2019
+5VuxWXbt7XENQCtE9TzpTv,Spoil My Night (feat. Swae Lee),Post Malone,68,True,0.717,160.981,0.225,0.672,0.341,2.4e-05,-2.714,1,0.034,194560,1,beerbongs & bentleys,2019
+2VdT56BGpdqNHUgOe1j5vc,Rich & Sad,Post Malone,69,True,0.571,151.974,0.285,0.599,0.198,0.0,-4.998,1,0.0665,206453,2,beerbongs & bentleys,2019
+5lZZmityu9TAjNvSY6GLhR,Zack And Codeine,Post Malone,65,True,0.824,138.039,0.386,0.738,0.15,0.0,-5.165,0,0.0437,204360,5,beerbongs & bentleys,2019
+5ffntNJnJOeFv7b7DCd0Bw,Takin' Shots,Post Malone,63,True,0.621,120.056,0.593,0.762,0.61,0.0,-6.24,1,0.0866,216747,0,beerbongs & bentleys,2019
+0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),Post Malone,86,True,0.52,159.801,0.129,0.585,0.124,7.01e-05,-6.136,0,0.0712,218147,5,beerbongs & bentleys,2019
+09IOPhEh1OMe0HD9b36FJk,Over Now,Post Malone,69,True,0.777,164.027,0.181,0.569,0.139,0.0,-4.041,0,0.0834,246987,4,beerbongs & bentleys,2019
+3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),Post Malone,80,True,0.56,140.06,0.459,0.75,0.546,0.0,-8.094,1,0.105,221440,8,beerbongs & bentleys,2019
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,83,True,0.578,145.038,0.341,0.68,0.331,0.0,-5.804,1,0.04,231267,10,beerbongs & bentleys,2019
+6IaieqiCVvsNvEt6Y7yOFa,Ball For Me (feat. Nicki Minaj),Post Malone,69,True,0.55,134.206,0.543,0.797,0.513,0.0,-4.166,1,0.24,206267,9,beerbongs & bentleys,2019
+4qWCFTuNnmGNdY4egtb4ZY,Otherside,Post Malone,64,True,0.643,104.932,0.109,0.652,0.318,2.87e-06,-5.667,0,0.0353,228227,9,beerbongs & bentleys,2019
+4H7WNRErSbONkM06blBoGc,Stay,Post Malone,77,True,0.48,86.046,0.35,0.507,0.449,0.0,-5.418,1,0.0266,204427,5,beerbongs & bentleys,2019
+1ZemPoaj7LBj1RAQrb89EC,Blame It On Me,Post Malone,64,False,0.591,121.873,0.274,0.652,0.145,5.65e-06,-7.274,0,0.0418,261800,11,beerbongs & bentleys,2019
+688QpQAwqsLdBR6lr13wK1,Same Bitches (feat. G-Eazy & YG),Post Malone,65,True,0.774,100.005,0.219,0.731,0.434,3.34e-06,-5.273,0,0.0555,212467,10,beerbongs & bentleys,2019
+0R6Jlsq25eZB3Wftpxi3oF,Jonestown (Interlude),Post Malone,59,False,0.454,77.592,0.288,0.38,0.755,0.623,-10.271,0,0.0362,112013,0,beerbongs & bentleys,2019
+1D2L6MefbXon28PzIk9I3r,92 Explorer,Post Malone,73,True,0.733,146.046,0.861,0.798,0.265,1.25e-06,-4.811,0,0.0476,211427,7,beerbongs & bentleys,2019
+32lItqlMi4LBhb4k0BaSaC,Candy Paint,Post Malone,78,True,0.667,180.064,0.381,0.664,0.64,1.22e-06,-5.941,1,0.154,227533,4,beerbongs & bentleys,2019
+0MrRAUcB8AZiB9ue2VOBYe,Sugar Wraith,Post Malone,65,True,0.775,164.02,0.307,0.606,0.262,0.0,-4.269,0,0.0671,228147,5,beerbongs & bentleys,2019
+7pT6WSg4PCt4mr5ZFyUfsF,If We Have Each Other,Alec Benjamin,79,False,0.577,173.094,0.861,0.656,0.698,0.0,-5.566,0,0.0802,181522,10,Narrated For You,2019
+4IhKLu7Vk3j2TLmnFPl6To,Water Fountain,Alec Benjamin,78,False,0.504,133.975,0.551,0.723,0.388,7.4e-05,-5.572,1,0.0392,218893,8,Narrated For You,2019
+0DYRjWiFJHvLjxRrywtltC,Annabelle's Homework,Alec Benjamin,56,False,0.634,86.004,0.33,0.676,0.701,1.63e-06,-5.377,1,0.0385,192501,8,Narrated For You,2019
+2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,Alec Benjamin,88,False,0.557,150.073,0.483,0.652,0.74,0.0,-5.714,0,0.0318,169354,1,Narrated For You,2019
+1rMSja8j1k8VRXXztemdLb,Swim,Alec Benjamin,57,False,0.562,160.051,0.532,0.737,0.289,0.000363,-6.117,0,0.0747,144387,11,Narrated For You,2019
+60cYr5uuMoxvyuIx45rGEW,Boy In The Bubble,Alec Benjamin,70,False,0.578,143.982,0.851,0.817,0.224,0.00103,-7.579,0,0.0824,181705,11,Narrated For You,2019
+211LaT5hzPOKolVtgzwWnq,Steve,Alec Benjamin,53,False,0.353,80.558,0.866,0.348,0.845,0.0,-9.012,1,0.0334,173487,10,Narrated For You,2019
+0IrtQ83z9jylZaLEJK2eoy,Gotta Be A Reason,Alec Benjamin,59,False,0.518,79.997,0.277,0.771,0.806,2.48e-05,-7.582,0,0.0404,210354,4,Narrated For You,2019
+2W0AJEbIC2vdZTV2nVSAsg,Outrunning Karma,Alec Benjamin,68,False,0.649,112.482,0.474,0.416,0.655,2.82e-06,-5.271,0,0.0385,188851,11,Narrated For You,2019
+0WHi11uzahqpEtPGYCW6oQ,If I Killed Someone For You,Alec Benjamin,73,False,0.605,120.894,0.409,0.514,0.774,2.91e-06,-5.363,1,0.0337,185123,7,Narrated For You,2019
+3gYK7eEFbp6KzmqYRMyQRm,Death Of A Hero,Alec Benjamin,54,False,0.62,179.8,0.584,0.653,0.634,5.46e-06,-5.797,1,0.28,191560,11,Narrated For You,2019
+5Ys68FZdQFcFw7IgkANVoM,1994,Alec Benjamin,55,False,0.613,87.022,0.862,0.772,0.281,3.52e-06,-6.185,1,0.0692,184121,8,Narrated For You,2019
+23GvTfcGK454ppLsts3W44,Strike a Pose (feat. Aitch),Young T & Bugsey,58,True,0.581,137.776,0.591,0.531,0.0107,1.62e-05,-5.801,1,0.101,214204,1,Strike a Pose (feat. Aitch),2019
+5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Katy Perry,72,False,0.882,99.991,0.385,0.77,0.194,0.0,-4.792,1,0.0602,223523,8,Never Really Over,2019
+2Iov9mHNgKuL1oxePM2hZM,Baby Come Back to Me,Kane Brown,46,False,0.812,81.062,0.484,0.538,0.0193,4.33e-06,-5.776,1,0.0343,226693,7,Experiment Extended,2019
+19kUPdKTp85q9RZNwaXM15,Good as You,Kane Brown,67,False,0.516,153.653,0.769,0.626,0.4,0.0,-6.05,1,0.0388,192053,8,Experiment Extended,2019
+7epGknfpAlH1u33S71Ur1o,Lose It,Kane Brown,65,False,0.854,91.967,0.436,0.545,0.00244,1.2e-06,-4.968,0,0.0289,178987,4,Experiment Extended,2019
+2OdHXtqpzO1Dltkr8z54VH,It Ain't You It's Me,Kane Brown,43,False,0.683,145.968,0.44,0.487,0.0322,0.0,-5.827,0,0.0319,191427,10,Experiment Extended,2019
+6PN7QeNItfzZBpCTQvsLyq,Short Skirt Weather,Kane Brown,62,False,0.893,128.044,0.944,0.699,0.0626,0.0,-5.412,1,0.0431,194147,9,Experiment Extended,2019
+30RZAuEkYeDXvy46Iv6l7E,Homesick,Kane Brown,67,False,0.5,97.028,0.409,0.701,0.46,0.0,-8.82,1,0.0303,205400,8,Experiment Extended,2019
+2xXOBpWKvLx8FzkJ2UuqQH,Weekend,Kane Brown,47,False,0.726,80.013,0.773,0.641,0.356,0.0,-6.298,1,0.049,226720,4,Experiment Extended,2019
+6nLJMeXeU2zhyMzTjNwIrI,Work,Kane Brown,45,False,0.5,82.954,0.434,0.596,0.584,0.0,-8.701,1,0.0335,185760,2,Experiment Extended,2019
+5zAZLEN2BiPYJbcnJBybdL,One Night Only,Kane Brown,43,False,0.595,77.996,0.686,0.649,0.164,0.0,-6.214,0,0.0325,191787,6,Experiment Extended,2019
+4SkYTbhvBotpFZKCspQhN7,My Where I Come From,Kane Brown,41,False,0.872,105.045,0.535,0.574,0.0628,0.000593,-5.733,1,0.0721,182040,8,Experiment Extended,2019
+0gWoC0IaAIiXLjB6BTH3G2,American Bad Dream,Kane Brown,42,False,0.771,140.196,0.609,0.579,0.03,1.63e-06,-5.497,0,0.038,198000,10,Experiment Extended,2019
+0y2Zvt89QMAZ9gEYvB5hpO,Live Forever,Kane Brown,49,False,0.392,106.992,0.347,0.709,0.687,0.0,-8.186,1,0.0271,186347,4,Experiment Extended,2019
+5KfKPfX5cZvOuHoy9io65A,Lost in the Middle of Nowhere (feat. Becky G),Kane Brown,54,False,0.754,85.993,0.438,0.559,0.00184,0.000462,-5.344,0,0.0481,188920,6,Experiment Extended,2019
+7z3dPHwGxeK4fD6fYFDwiS,Like a Rodeo,Kane Brown,61,False,0.661,119.985,0.425,0.67,0.704,0.0,-6.798,0,0.0466,201730,3,Experiment Extended,2019
+2moC0T4mGwmP8dUDostr2g,For My Daughter,Kane Brown,57,False,0.561,139.939,0.35,0.537,0.275,5.78e-05,-8.09,1,0.0287,223923,1,Experiment Extended,2019
+4k6hX9RKD096K1NCjjJZLc,Footsteps (feat. Musiq Soulchild),Kehlani,50,False,0.638,88.546,0.478,0.42,0.817,0.0,-4.212,1,0.209,273349,2,While We Wait,2019
+0aSW5EMeNnQSMJQ8QN3zIW,Too Deep,Kehlani,49,True,0.638,180.216,0.642,0.516,0.614,0.0,-6.673,0,0.0796,167207,7,While We Wait,2019
+0tkmYNfaEaH9HpR59ApRtE,Nunya (feat. Dom Kennedy),Kehlani,56,True,0.71,97.98,0.574,0.675,0.39,0.0,-4.027,1,0.21,244688,1,While We Wait,2019
+0kas95RruYRVqrOb07rgkh,Morning Glory,Kehlani,46,False,0.833,172.037,0.653,0.589,0.0158,0.0,-4.494,0,0.118,179337,0,While We Wait,2019
+4BOikd4oZjOYMde9AXfrTo,Feels,Kehlani,64,True,0.609,80.362,0.381,0.369,0.259,4.1e-05,-4.477,0,0.184,181140,9,While We Wait,2019
+6ZRuF2n1CQxyxxAAWsKJOy,Nights Like This (feat. Ty Dolla $ign),Kehlani,78,True,0.725,146.163,0.291,0.61,0.367,0.0,-5.131,1,0.15,201788,8,While We Wait,2019
+1EGrDTfEuAiRzRdxlblpET,RPG (feat. 6lack),Kehlani,54,False,0.534,132.94,0.719,0.758,0.402,0.0,-7.368,0,0.287,236218,7,While We Wait,2019
+32s2Dn9EVvO2f85MrpRoBV,Butterfly,Kehlani,44,False,0.345,79.107,0.701,0.583,0.886,0.0,-8.044,0,0.0709,163840,5,While We Wait,2019
+4jM3c9KLTO9iZPm9A7neiL,Love Language,Kehlani,51,False,0.586,89.599,0.698,0.582,0.124,0.0,-4.369,0,0.0838,213365,1,While We Wait,2019
+3kCwyvhvVTyehIzYN2I0nF,Omertà,Drake,59,True,0.899,164.119,0.685,0.646,0.0337,0.0,-2.232,1,0.298,219507,6,The Best In The World Pack,2019
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),Drake,79,True,0.502,100.541,0.101,0.831,0.101,0.0,-4.045,0,0.046,205427,10,The Best In The World Pack,2019
+4hPpVbbakQNv8YTHYaOJP4,One Thing Right,Marshmello,74,False,0.625,88.042,0.442,0.659,0.0644,0.0,-2.253,1,0.045,181824,4,One Thing Right,2019
+7HMmFQsKsljwTw8bS7lu19,Rare,Selena Gomez,65,False,0.545,114.998,0.631,0.838,0.208,8.01e-05,-6.713,1,0.0706,220590,5,Rare,2019
+5sK3o66yupTNIK6gWgzGjf,Dance Again,Selena Gomez,56,False,0.552,111.984,0.465,0.784,0.0447,0.0,-7.261,0,0.0871,170498,1,Rare,2019
+7eOkHIcaoUhngxxypM5Ajr,Look At Her Now,Selena Gomez,66,False,0.564,77.342,0.55,0.753,0.114,0.0273,-7.908,0,0.252,162596,10,Rare,2019
+4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Selena Gomez,83,False,0.343,102.819,0.0978,0.488,0.556,0.0,-8.985,1,0.0436,206459,4,Rare,2019
+11Ey4yJVeWEsA73KjACkVY,Ring,Selena Gomez,66,False,0.51,110.953,0.871,0.873,0.565,3.13e-06,-5.35,0,0.0661,148776,3,Rare,2019
+11OwAR3GlBj9E35Cznf7Lj,Vulnerable,Selena Gomez,57,False,0.573,100.031,0.38,0.695,0.132,0.000137,-8.882,1,0.167,192172,10,Rare,2019
+63mdJr3NMY3wReOkNE6c6W,People You Know,Selena Gomez,80,False,0.62,150.032,0.62,0.695,0.0881,5.43e-05,-8.082,0,0.0521,194900,8,Rare,2019
+0uFForNKQPvgSCnxlZIhQy,Let Me Get Me,Selena Gomez,60,False,0.571,121.06,0.475,0.826,0.249,1.66e-05,-9.263,1,0.0426,189145,2,Rare,2019
+2C0hTkdEoikhKzDCJl32QZ,Crowded Room (feat. 6LACK),Selena Gomez,56,False,0.415,89.999,0.328,0.724,0.764,2.51e-06,-8.408,0,0.0518,186459,7,Rare,2019
+59iGOjPSOcPLGl3vqEStUp,Kinda Crazy,Selena Gomez,51,False,0.446,93.03,0.534,0.691,0.484,0.00495,-10.304,0,0.0472,212436,11,Rare,2019
+64kfyGcf5dvbw92Vv4THCj,Fun,Selena Gomez,48,False,0.419,113.866,0.523,0.863,0.076,4.92e-05,-10.144,0,0.437,189382,11,Rare,2019
+4OtHGdb0KqEbaWb6edUnR9,Cut You Off,Selena Gomez,52,True,0.294,139.745,0.842,0.855,0.3,9.22e-05,-8.676,1,0.286,182017,5,Rare,2019
+4bb94wZVF1cX66vQjNeJTX,A Sweeter Place (feat. Kid Cudi),Selena Gomez,52,False,0.777,190.054,0.31,0.583,0.109,0.000509,-6.991,0,0.185,263306,10,Rare,2019
+27nfFMeFGspBX6dJQes8ay,Intro,Flipp Dinero,31,True,0.615,86.038,0.612,0.829,0.0245,0.0,-8.633,0,0.364,166418,8,LOVE FOR GUALA,2019
+14X1WxiHXdVRJ99cMCBzOE,How I Move (feat. Lil Baby),Flipp Dinero,62,True,0.635,119.954,0.808,0.826,0.102,0.0,-5.181,0,0.212,224916,5,LOVE FOR GUALA,2019
+2hCDk75YvOLcNlrdlRtzRO,Fritolays (feat. Jay Critch),Flipp Dinero,36,True,0.538,122.98,0.588,0.948,0.0212,0.0,-7.527,0,0.408,229122,10,LOVE FOR GUALA,2019
+2xi3mhJdVs358bQgqpHt9f,Looking At Me (feat. Rich The Kid),Flipp Dinero,46,True,0.612,95.982,0.443,0.78,0.0566,0.0,-4.469,0,0.268,207517,11,LOVE FOR GUALA,2019
+5siRJCkDV0Nm1kEjt4Ku9q,If I Tell You,Flipp Dinero,41,True,0.867,161.966,0.414,0.711,0.152,0.0,-1.981,0,0.32,214564,11,LOVE FOR GUALA,2019
+44YBUTLrK4AxYKecybC2Vl,Shawty Do You,Flipp Dinero,29,True,0.677,82.51,0.466,0.772,0.0082,0.0,-6.109,0,0.0437,193081,10,LOVE FOR GUALA,2019
+2VMn1viGn2C7Lq4ksPucE0,Take A Lil' Time,Flipp Dinero,30,True,0.426,95.528,0.077,0.859,0.466,0.0,-5.913,0,0.297,179971,5,LOVE FOR GUALA,2019
+6lU7MhNXxqqAMH2pa9MJDX,Not Too Many,Flipp Dinero,29,True,0.659,130.027,0.64,0.906,0.00454,0.0,-5.801,1,0.297,176784,9,LOVE FOR GUALA,2019
+7tvb6TUeR2wAcBLuZVTkgw,Westside,Flipp Dinero,46,True,0.707,179.971,0.45,0.812,0.0571,0.0,-5.014,0,0.394,224023,8,LOVE FOR GUALA,2019
+1rU1OYNaz6h4BXKP0UB2A2,Hills,Flipp Dinero,29,True,0.497,121.999,0.517,0.846,0.0509,0.0,-7.27,1,0.376,157474,1,LOVE FOR GUALA,2019
+3EjB4jZDohTYbVjfiXd4gq,Perry,Flipp Dinero,27,True,0.718,160.088,0.367,0.791,0.0845,8.86e-06,-7.589,0,0.149,167239,10,LOVE FOR GUALA,2019
+6V7g6qM8wheMivMWrzbPTM,Leave Me Alone,Flipp Dinero,72,True,0.743,150.024,0.742,0.792,0.107,0.0,-2.806,1,0.0851,195637,7,LOVE FOR GUALA,2019
+6I0Jucv2KfH32lNp1Acana,Till im Gone (feat. Kodak Black),Flipp Dinero,43,True,0.724,177.914,0.255,0.635,0.183,0.0,-3.229,1,0.366,226069,6,LOVE FOR GUALA,2019
+6lg0Md3xQ7U5EYAcsnysiv,Butterfly Effect,DJ Snake,40,False,0.644,149.822,0.0387,0.224,0.00407,0.252,-7.276,0,0.0386,204800,5,Carte Blanche,2019
+3xBEwwc1zwGpOFtkp5HVkB,Quiet Storm (with Zomboy),DJ Snake,46,False,0.985,150.069,0.358,0.562,0.00124,0.846,-1.869,1,0.0716,225600,1,Carte Blanche,2019
+0pSL76Z9uhRAfFd09VmF24,When The Lights Go Down,DJ Snake,40,False,0.952,159.996,0.59,0.595,0.0269,0.671,-1.892,0,0.042,231037,5,Carte Blanche,2019
+2zzwSQ5xhBsZ5FoYv4IS82,Recognize (feat. Majid Jordan),DJ Snake,38,False,0.681,113.966,0.431,0.735,0.244,0.000517,-7.655,1,0.0947,214737,8,Carte Blanche,2019
+1j4MPw77pRZ77fMBuaRCZl,No More (feat. ZHU),DJ Snake,50,True,0.716,120.046,0.563,0.809,0.0175,0.00102,-8.434,0,0.0459,166000,4,Carte Blanche,2019
+0E3L4BNuUlZyvcZyySTfKr,"Made In France (with Tchami & Malaa, feat. Mercer)",DJ Snake,51,False,0.949,126.007,0.506,0.836,0.00295,0.247,-4.127,0,0.0786,251429,11,Carte Blanche,2019
+5w8wL9IpVlOerzOzOvkjvG,"Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)",DJ Snake,54,True,0.726,119.963,0.181,0.785,0.0739,4.01e-06,-4.209,1,0.0387,248053,2,Carte Blanche,2019
+0qczhh8fOxKyXqnaKouJyZ,Smile (feat. Bryson Tiller),DJ Snake,41,True,0.82,160.055,0.538,0.402,0.142,0.0,-1.887,0,0.113,198303,5,Carte Blanche,2019
+5vTtANNlQK5UhwfooDek5y,Try Me (with Plastic Toy),DJ Snake,49,False,0.703,102.289,0.193,0.68,0.839,0.0218,-3.36,0,0.0439,198405,7,Carte Blanche,2019
+6osaMSJh9NguagEDQcZaKx,Loco Contigo (feat. J. Balvin & Tyga),DJ Snake,77,False,0.758,192.091,0.371,0.694,0.278,1.34e-06,-2.986,1,0.218,185195,11,Carte Blanche,2019
+0KoiMHhqKLoL4xM54rcWYY,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,75,True,0.801,95.881,0.617,0.842,0.157,4.82e-06,-4.167,0,0.228,212500,8,Carte Blanche,2019
+660eekzsNZ7sdATvfIsAkR,"Fuego (with Sean Paul & Anitta, feat. Tainy)",DJ Snake,60,False,0.859,104.906,0.612,0.819,0.0244,0.0,-6.264,1,0.224,195429,8,Carte Blanche,2019
+3dsyqPDiWYYilRZNBxgxHE,Magenta Riddim,DJ Snake,65,False,0.892,102.047,0.57,0.602,0.000393,0.813,-3.66,0,0.0672,194490,10,Carte Blanche,2019
+3SSzqNGH8gRHBXohGx7BcV,Frequency 75,DJ Snake,45,False,0.774,108.023,0.125,0.664,0.0039,0.449,-8.961,1,0.122,266667,1,Carte Blanche,2019
+3qgtGhoCutbBX73cd6ArCW,SouthSide (feat. Eptic),DJ Snake,45,False,0.94,149.959,0.555,0.571,0.0114,0.0128,-3.637,1,0.0883,252800,1,Carte Blanche,2019
+4lDYedHtcFwkMTVwpdSRUN,No Option (feat. Burna Boy),DJ Snake,44,True,0.877,150.162,0.876,0.631,0.00837,1.09e-05,-4.072,0,0.0345,185600,5,Carte Blanche,2019
+5gjsW5lwLen4vTq2kGNoAX,Paris (feat. GASHI),DJ Snake,44,False,0.624,128.045,0.231,0.621,0.226,0.0,-6.745,0,0.0374,225000,10,Carte Blanche,2019
+26t0xoYPRxyHvIN62P85au,Lost Files,Polo G,57,True,0.723,145.067,0.397,0.809,0.335,0.0,-6.145,1,0.352,120907,1,Die A Legend,2019
+2bGEPdcL80FFHQ3VxcYBJQ,Dyin Breed,Polo G,62,True,0.599,159.966,0.427,0.77,0.0131,0.0,-8.663,0,0.661,179773,2,Die A Legend,2019
+3NqCEpT8xsHdzpiRlM1kpS,Through Da Storm,Polo G,74,True,0.49,74.351,0.621,0.71,0.128,0.0,-9.832,1,0.246,195587,1,Die A Legend,2019
+2fyy1r6XBbsiSSpKK20LKX,Effortless,Polo G,58,True,0.445,157.153,0.399,0.792,0.00256,0.0,-7.871,0,0.544,171467,10,Die A Legend,2019
+6uFn47ACjqYkc0jADwEdj1,Pop Out (feat. Lil Tjay),Polo G,80,True,0.639,168.112,0.261,0.772,0.15,0.0,-7.119,1,0.467,166560,1,Die A Legend,2019
+7caP3UAf8ZtIMVpWfEIA4H,Battle Cry,Polo G,58,True,0.597,150.089,0.347,0.754,0.212,0.0,-7.809,1,0.38,192080,7,Die A Legend,2019
+4iIfKs9XOb9D2NJnPctPns,BST,Polo G,57,True,0.603,143.043,0.633,0.876,0.0188,0.0,-9.148,0,0.28,202680,5,Die A Legend,2019
+7oBW80497A8axagr4aC9U6,Finer Things,Polo G,68,True,0.45,177.978,0.131,0.506,0.0683,0.000225,-12.565,1,0.364,182387,2,Die A Legend,2019
+00TYv5NLZkKXq5KJZ6LMDt,Picture This,Polo G,56,True,0.604,87.955,0.406,0.831,0.0316,0.0,-6.741,1,0.273,165720,0,Die A Legend,2019
+40QrLHWdsxyXLAdjJG4Rxs,Chosen 1,Polo G,76,True,0.576,166.162,0.364,0.77,0.138,0.0,-11.845,0,0.339,127200,8,Die A Legend,2019
+1EXgignL7eG2MHErBEAD5d,Deep Wounds,Polo G,63,True,0.572,159.961,0.339,0.661,0.0149,0.0,-7.101,1,0.338,180293,1,Die A Legend,2019
+1w8XCWRzLN75HARAqNQIRY,Last Strike,Polo G,53,True,0.594,81.539,0.477,0.579,0.0249,0.0,-8.461,1,0.468,197320,2,Die A Legend,2019
+1g4zEL3uOnhwvnMEOVAbNM,A King's Nightmare,Polo G,50,True,0.728,81.193,0.321,0.463,0.156,0.0,-7.994,0,0.353,167453,1,Die A Legend,2019
+2VIMXmWUIqhMqg6h5FOFPG,Pop Out Again (feat. Lil Baby & Gunna),Polo G,60,True,0.689,83.964,0.364,0.862,0.118,0.0,-5.68,1,0.323,223787,1,Die A Legend,2019
+5PbAxxkcKnbkdozI7ZvFgZ,Tick Tock (with Clean Bandit ft. 24kGoldn),Clean Bandit,0,False,0.704,101.022,0.95,0.778,0.385,1.29e-05,-3.903,1,0.0338,178200,0,High Expectations,2019
+1rzHuxpjVx8FHy93ep8Aba,West Ten (with AJ Tracey),AJ Tracey,0,True,0.823,129.986,0.867,0.843,0.318,0.0,-4.904,0,0.0571,213693,10,High Expectations,2019
+2JYigZkT6rMUDAIFLrxaNg,High Expectations - Intro,Mabel,26,False,0.371,64.894,0.1,0.186,0.335,0.0,-9.104,1,0.0346,87560,11,High Expectations,2019
+3f7kagozH424YCJRd7UR0x,Bad Behaviour,Mabel,43,False,0.806,106.999,0.41,0.79,0.00479,2.27e-06,-4.342,1,0.0411,205880,0,High Expectations,2019
+5Xc9L411IGVexidbaF7CHG,Don't Call Me Up,Mabel,39,False,0.872,98.891,0.261,0.684,0.31,3.18e-06,-2.85,1,0.124,178493,9,High Expectations,2019
+1sahUqXlmDzjs7wrQdo02E,FML,Mabel,29,True,0.828,107.925,0.445,0.582,0.0215,0.0,-1.982,1,0.0494,192507,5,High Expectations,2019
+155ZVWRnKqcntpi87BjRiZ,We Don't Say...,Mabel,31,False,0.833,92.519,0.766,0.737,0.245,0.0,-6.368,1,0.113,191240,0,High Expectations,2019
+2lVNZd92M1cpApbFlhpFvg,Selfish Love (with Kamille),Mabel,41,False,0.744,107.005,0.33,0.689,0.435,2.91e-06,-5.836,0,0.0572,192227,9,High Expectations,2019
+5k58QiYfH5l4tNS3XJgLiO,Lucky - Interlude,Mabel,29,False,0.421,169.31,0.156,0.349,0.36,1.17e-05,-8.199,0,0.055,74387,2,High Expectations,2019
+6ImEBuxsbuTowuHmg3Z2FO,Mad Love,Mabel,67,False,0.796,197.524,0.607,0.623,0.659,0.0,-2.981,0,0.199,169813,0,High Expectations,2019
+7GIklx0mbw8KGvfoSib9h4,Trouble,Mabel,30,False,0.699,156.001,0.649,0.671,0.057,0.0,-4.14,1,0.0629,208520,5,High Expectations,2019
+2tHXZdcG34gRqBRkt1FKJN,Put Your Name On It,Mabel,34,False,0.724,105.448,0.531,0.655,0.252,0.0,-4.466,1,0.0386,221907,0,High Expectations,2019
+0FfMUgbHv92oZSU74gCBfb,Stckhlm Syndrome - Interlude,Mabel,26,True,0.573,107.954,0.464,0.724,0.0457,0.0,-5.492,1,0.0394,145827,1,High Expectations,2019
+6bW7xROpvstfDvXdOnH96p,OK (Anxiety Anthem),Mabel,50,False,0.79,99.086,0.499,0.674,0.269,0.0,-3.857,0,0.114,216533,8,High Expectations,2019
+2BrDIsFZeJv4tGWmk8IhDb,I Belong To Me,Mabel,26,True,0.525,80.098,0.0905,0.497,0.699,0.0,-6.019,1,0.0481,158067,1,High Expectations,2019
+1GcBC8MXnpNcXCBzNiFHl7,High Expectations - Outro,Mabel,22,False,0.399,134.179,0.134,0.313,0.523,0.0,-8.216,1,0.032,144787,11,High Expectations,2019
+0i2xIlZCO0H3mSpxr2HzgK,Boyfriend,Mabel,56,False,0.848,99.977,0.691,0.795,0.0569,0.0,-3.128,1,0.0543,225707,7,High Expectations,2019
+61V4MMGxwJK6AnixVevD63,Finders Keepers (feat. Kojo Funds),Mabel,28,False,0.583,108.038,0.619,0.834,0.0415,2.79e-06,-6.531,0,0.114,268640,4,High Expectations,2019
+6k4tasgeCEvSvI43RuSnQp,Fine Line (with Not3s),Mabel,26,True,0.619,76.658,0.94,0.72,0.237,0.0,-4.95,0,0.0561,212013,3,High Expectations,2019
+71xTDzNV4aufQe6InpbjZf,My Lover (with Not3s),Not3s,0,False,0.569,106.044,0.621,0.823,0.188,1.85e-05,-7.112,0,0.257,192627,6,High Expectations,2019
+2rJEQBrFAJJ5CdRxdBMSCP,Ring Ring (with Jax Jones feat. Rich The Kid),Jax Jones,25,True,0.649,106.709,0.624,0.703,0.185,1.6e-06,-4.877,0,0.146,218133,1,High Expectations,2019
+5XMD0fEFq3Dbz80cOMCP3q,Cigarette (with RAYE & Stefflon Don),RAYE,23,True,0.691,115.025,0.579,0.816,0.106,3.57e-05,-4.665,1,0.0656,188307,2,High Expectations,2019
+7rZ65wb5wApv23m8GpO2Ul,Not Sayin',Mabel,27,False,0.795,110.02,0.864,0.709,0.0059,0.000236,-4.195,0,0.0385,224427,10,High Expectations,2019
+4s1UA2GZTGpjKfhGAPSVER,God Is A Dancer (Tiësto & Mabel),Tiësto,34,False,0.749,119.995,0.815,0.79,0.0322,2.19e-06,-3.915,0,0.0795,168293,1,High Expectations,2019
+5367lywm1ux2wROgM16U4l,Intro (feat. 1takejay),Mustard,51,True,0.503,102.042,0.259,0.917,0.0792,0.0,-8.389,1,0.323,112956,1,Perfect Ten,2019
+3j84U36KvLeXNDPv4t5pI8,Pure Water (with Migos),Mustard,76,True,0.559,202.015,0.137,0.682,0.174,0.0,-5.545,1,0.127,192471,0,Perfect Ten,2019
+3O7lxdQoe1aNWs93VSHsJg,On GOD (with YG & Tyga feat. A$AP Ferg & A$AP Rocky),Mustard,51,True,0.676,103.998,0.339,0.857,0.218,0.0,-5.359,1,0.192,263127,1,Perfect Ten,2019
+2zjGJ0dChMR0KxBZS15aqo,"Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",Mustard,68,True,0.525,99.978,0.312,0.883,0.189,0.0,-8.054,0,0.0633,174100,2,Perfect Ten,2019
+4j13h3sia1FhQG18bjSXEC,Interstate 10 (feat. Future),Mustard,47,True,0.489,101.985,0.0676,0.83,0.167,0.0,-7.212,1,0.343,197668,2,Perfect Ten,2019
+16ZzQo8IFilZ2gHizvGB5A,"100 Bands (feat. Quavo, YG & Meek Mill)",Mustard,41,True,0.486,92.976,0.126,0.86,0.00755,0.0,-6.533,0,0.401,135547,1,Perfect Ten,2019
+4FIk3t81hjVgiZCA5hLtP0,Woah Woah (feat. Young Thug & Gunna),Mustard,48,True,0.486,91.99,0.204,0.775,0.357,0.0,-7.12,0,0.0518,231943,6,Perfect Ten,2019
+0y1lLLaSzHIVQZKHEfwOrm,Surface,Mustard,48,True,0.475,89.554,0.482,0.425,0.129,0.0,-7.57,0,0.075,194195,5,Perfect Ten,2019
+3QzAOrNlsabgbMwlZt7TAY,Ballin' (with Roddy Ricch),Mustard,82,True,0.545,97.008,0.244,0.809,0.392,0.0,-6.678,1,0.0735,180435,7,Perfect Ten,2019
+6GQ82BpN60dzztUWzYojc7,Perfect Ten (feat. Nipsey Hussle),Mustard,56,True,0.437,99.948,0.228,0.683,0.781,0.000115,-9.267,0,0.0375,252021,5,Perfect Ten,2019
+0Veyvc3n9AcLSoK3r1dA12,Voices in My Head,A Boogie Wit da Hoodie,56,True,0.663,90.195,0.207,0.754,0.0555,0.0,-6.311,0,0.427,142301,6,Hoodie SZN,2019
+77JzXZonNumWsuXKy9vr3U,Beasty,A Boogie Wit da Hoodie,56,True,0.418,126.023,0.374,0.86,0.292,0.0,-9.061,0,0.158,152829,7,Hoodie SZN,2019
+18yllZD0TdF7ykcREib8Z1,I Did It,A Boogie Wit da Hoodie,51,True,0.454,89.483,0.196,0.718,0.153,4.6e-05,-9.012,1,0.127,215305,8,Hoodie SZN,2019
+1wJRveJZLSb1rjhnUHQiv6,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,76,True,0.662,93.023,0.434,0.581,0.0153,0.0,-5.239,1,0.303,189487,9,Hoodie SZN,2019
+0jAfdqv18goRTUxm3ilRjb,Startender (feat. Offset and Tyga),A Boogie Wit da Hoodie,65,True,0.622,191.971,0.506,0.736,0.0235,0.0,-4.653,0,0.133,192779,6,Hoodie SZN,2019
+3L19besdNQzd342qL78xqm,Demons and Angels (feat. Juice WRLD),A Boogie Wit da Hoodie,69,True,0.55,76.503,0.183,0.81,0.0114,5.69e-06,-7.46,0,0.17,214593,2,Hoodie SZN,2019
+1Gno5IBUHh6vUKp4nxu2Yd,Love Drugs and Sex,A Boogie Wit da Hoodie,68,True,0.553,119.973,0.773,0.762,0.55,0.0,-7.207,0,0.112,157863,5,Hoodie SZN,2019
+2A4vCndSkZ3jd5nfh3a8gc,Skeezers,A Boogie Wit da Hoodie,64,True,0.484,140.019,0.353,0.792,0.558,0.0,-7.801,0,0.155,198054,7,Hoodie SZN,2019
+1srm5YnZiu7Ksnd2UTTmmk,Savage,A Boogie Wit da Hoodie,56,True,0.402,160.046,0.483,0.78,0.188,0.0,-9.255,0,0.149,169046,5,Hoodie SZN,2019
+3UhRsQVrELOATEiY7E9X2T,Come Closer (feat. Queen Naija),A Boogie Wit da Hoodie,62,True,0.556,140.056,0.616,0.741,0.22,0.0,-6.647,0,0.0947,156512,7,Hoodie SZN,2019
+3Ol2xnObFdKV9pmRD2t9x8,Look Back at It,A Boogie Wit da Hoodie,78,True,0.587,96.057,0.536,0.791,0.407,0.0,-5.075,0,0.0413,179449,3,Hoodie SZN,2019
+0uH6JssU7mWkTT9mqeqEvL,Just Like Me (feat. Young Thug),A Boogie Wit da Hoodie,67,True,0.623,128.661,0.393,0.774,0.156,0.0,-7.871,1,0.245,220888,5,Hoodie SZN,2019
+02CQH5capUYovYSiSiwKgX,Bosses and Workers (feat. Don Q and Trap Manny),A Boogie Wit da Hoodie,50,True,0.605,130.027,0.591,0.842,0.358,0.0,-6.293,0,0.0559,207223,1,Hoodie SZN,2019
+0sSl9LFCzQAunHx9T1Un3O,Need a Best Friend (feat. Lil Quee and Quando Rondo),A Boogie Wit da Hoodie,49,True,0.52,165.105,0.359,0.696,0.06,0.0,-6.361,1,0.294,204329,0,Hoodie SZN,2019
+3TwzcgoO6mbgX3E7Bn1RAy,The Reaper,A Boogie Wit da Hoodie,52,True,0.61,141.955,0.479,0.761,0.379,0.0,-7.039,1,0.094,176533,6,Hoodie SZN,2019
+3mUk1wiSBpiuK4oSSyDmTQ,Uptown / Bustdown (feat. PnB Rock and Lil Durk),A Boogie Wit da Hoodie,51,True,0.751,90.04,0.324,0.503,0.215,0.0,-5.785,0,0.35,177763,6,Hoodie SZN,2019
+0OAyZn9pGuuL2FJih1PM58,Billie Jean,A Boogie Wit da Hoodie,52,True,0.536,139.961,0.375,0.83,0.0919,0.0,-6.324,0,0.152,138014,4,Hoodie SZN,2019
+5h66wqaGklsSa8eSxTwcJT,4 Min Convo (Favorite Song),A Boogie Wit da Hoodie,59,True,0.65,91.053,0.658,0.705,0.359,0.0,-5.654,0,0.212,257274,7,Hoodie SZN,2019
+7MuhbSNErlmQAGRzhnnIjT,Odee,A Boogie Wit da Hoodie,58,True,0.48,86.049,0.293,0.854,0.208,0.0,-7.388,0,0.293,160868,9,Hoodie SZN,2019
+76vviJBqmRdMMb9u9npgfj,Pull Up (feat. NAV),A Boogie Wit da Hoodie,50,True,0.37,149.95,0.557,0.828,0.487,0.0,-7.446,0,0.264,193575,7,Hoodie SZN,2019
+1oLSje4Ot5qRUq8FqYeXOl,Don’t Feel Like Crying,Sigrid,46,False,0.814,119.964,0.715,0.749,0.156,0.0,-3.769,0,0.0404,157010,5,Don't Feel Like Crying,2019

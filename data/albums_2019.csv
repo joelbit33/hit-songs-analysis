@@ -1,0 +1,101 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X,79,False,0.619,136.041,0.639,0.878,0.0533,0,-5.56,1,0.102,157067,6,7 EP,2019
+6fTt0CH2t0mdeB2N9XFG5r,Panini,Lil Nas X,62,False,0.594,153.848,0.475,0.703,0.342,0,-6.146,0,0.0752,114893,5,7 EP,2019
+1ABQT5SxlUTNapSbSzblGx,F9mily (You & Me),Lil Nas X,48,False,0.534,170.054,0.408,0.556,0.019,0.00063,-7.75,1,0.0332,162720,0,7 EP,2019
+3qIV7Rnj3ZxLs2JcLPUbFV,Kick It,Lil Nas X,53,True,0.484,151.878,0.523,0.739,0.138,0,-9.646,1,0.226,141987,9,7 EP,2019
+4ak7xjvBeBOcJGWFDX9w5n,Rodeo,Lil Nas X,67,True,0.679,140.081,0.657,0.706,0.139,6.98e-05,-5.614,1,0.0324,158707,9,7 EP,2019
+3fsH9s00dbn9mSgUu7Yi9D,Bring U Down,Lil Nas X,53,False,0.511,120.05,0.482,0.676,0.0759,0,-6.83,0,0.0449,131707,9,7 EP,2019
+4no0eHn4fEB7tN1yZSXMma,C7osure (You Like),Lil Nas X,58,False,0.742,133.989,0.56,0.847,0.397,0,-5.515,0,0.247,148653,8,7 EP,2019
+0F7FA14euOIX8KcbEturGH,Old Town Road,Lil Nas X,78,False,0.53,135.998,0.507,0.907,0.0578,2.23e-06,-6.112,1,0.127,113000,1,7 EP,2019
+0rQtoQXQfwpDW0c7Fw1NeM,!!!!!!!,Billie Eilish,20,False,0.278,0,0,0,0.768,0,-21.63,1,0,13578,1,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,85,False,0.425,135.128,0.562,0.701,0.328,0.13,-10.965,1,0.375,194088,7,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+4QIo4oxwzzafcBWkKjDpXY,xanny,Billie Eilish,74,False,0.125,111.554,0.0528,0.521,0.751,0.00207,-17.832,1,0.239,243725,9,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,79,False,0.533,150.455,0.323,0.678,0.462,0.219,-10.485,1,0.186,180953,4,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6IRdLKIyS4p7XNiP8r6rsx,all the good girls go to hell,Billie Eilish,77,False,0.444,185.044,0.569,0.726,0.283,0.143,-8.922,0,0.372,168840,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3Fj47GNK2kUF0uaEDgXLaD,wish you were gay,Billie Eilish,77,False,0.351,118.028,0.282,0.853,0.39,9.38e-06,-10.198,1,0.241,221543,7,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,85,False,0.111,82.642,0.198,0.367,0.978,3.97e-05,-14.084,1,0.0972,196077,4,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6X29iaaazwho3ab7GNue5r,8,Billie Eilish,71,False,0.235,62.446,0.462,0.735,0.698,0.00604,-13.239,1,0.315,173202,3,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3Tc57t9l2O8FwQZtQOvPXK,my strange addiction,Billie Eilish,75,False,0.305,100.029,0.563,0.939,0.35,0.000169,-10.952,0,0.354,179889,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,76,False,0.389,120.046,0.196,0.905,0.74,0.162,-14.505,1,0.332,193143,8,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+7qEKqBCD2vE5vIBsrUitpD,ilomilo,Billie Eilish,74,False,0.423,120.02,0.572,0.855,0.724,0.469,-15.044,0,0.0585,156371,5,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+0tMSssfxAL2oV8Vri0mFHE,listen before i go,Billie Eilish,78,False,0.0561,79.764,0.082,0.319,0.935,0.00384,-23.023,1,0.045,242652,0,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,81,False,0.131,137.446,0.12,0.421,0.952,0.00453,-18.435,1,0.0382,291796,0,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+3LgWsmilsrWXiPYQFRD0T7,goodbye,Billie Eilish,71,False,0.138,74.318,0.0503,0.153,0.837,0.55,-21.877,0,0.0503,119410,6,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes,82,False,0.548,116.967,0.749,0.759,0.0392,0,-6.049,0,0.029,190800,9,Shawn Mendes (Deluxe),2019
+0TFpGNlWslRQO4oyTtJq6K,Lost In Japan,Shawn Mendes,53,False,0.738,105.049,0.381,0.711,0.264,0,-6.908,1,0.356,200840,10,Shawn Mendes (Deluxe),2019
+2bT1PH7Cw3J9p3t7nlXCdh,If I Can't Have You,Shawn Mendes,75,False,0.823,123.935,0.87,0.691,0.487,0,-4.197,1,0.0623,191467,2,Shawn Mendes (Deluxe),2019
+2SFnIqRWyHt9MUNeXkykii,In My Blood,Shawn Mendes,52,False,0.712,140.022,0.459,0.625,0.0542,0,-7.355,1,0.0537,211293,5,Shawn Mendes (Deluxe),2019
+49u62ZMTXz91U8V4uXaJ4q,Fallin' All In You,Shawn Mendes,51,False,0.481,92.031,0.761,0.856,0.414,0,-6.761,1,0.038,235760,8,Shawn Mendes (Deluxe),2019
+2UCYrYM83sowbj1OG6qsVn,Where Were You In The Morning?,Shawn Mendes,48,False,0.507,87.989,0.479,0.717,0.557,0,-7.525,1,0.0495,200587,7,Shawn Mendes (Deluxe),2019
+3J3AQ7NSo0p3RX8U2gnC4v,Nervous,Shawn Mendes,47,False,0.627,121.96,0.732,0.844,0.0376,0,-6.753,1,0.0741,164213,0,Shawn Mendes (Deluxe),2019
+5VQBZPF4L2VrR7aMfAdRq3,Like To Be You (feat. Julia Michaels),Shawn Mendes,46,False,0.444,153.754,0.628,0.737,0.799,0,-9.382,1,0.264,159533,2,Shawn Mendes (Deluxe),2019
+3isPczLtjVuERmr5hpSvIl,Particular Taste,Shawn Mendes,45,False,0.351,111.954,0.585,0.968,0.0455,8.48e-05,-7.084,1,0.129,175573,9,Shawn Mendes (Deluxe),2019
+1RL042HeY9ln1Bwu2ODyJJ,Because I Had You,Shawn Mendes,46,False,0.323,203.709,0.713,0.633,0.305,0,-9.723,1,0.411,142533,7,Shawn Mendes (Deluxe),2019
+6oZk0lzaP7RcwKjyZrIJBV,Why,Shawn Mendes,47,False,0.426,127.022,0.213,0.693,0.659,0,-9.226,0,0.0513,238093,5,Shawn Mendes (Deluxe),2019
+5cWIKVqSpJQiRmG59sfii5,Youth (feat. Khalid),Shawn Mendes,47,False,0.596,100.028,0.325,0.618,0.558,0,-6.663,0,0.0805,190827,11,Shawn Mendes (Deluxe),2019
+1UWbBNuBIB9wYg82aaWRvN,Perfectly Wrong,Shawn Mendes,46,False,0.307,77.724,0.318,0.447,0.87,0,-11.773,0,0.0368,212773,2,Shawn Mendes (Deluxe),2019
+2d3zTjEWyOzKDPOLjDSRlR,Mutual,Shawn Mendes,45,False,0.476,115.012,0.814,0.917,0.242,0,-6.689,0,0.154,148173,11,Shawn Mendes (Deluxe),2019
+2eKH2typXktOBTgWrOHnni,Queen,Shawn Mendes,43,False,0.682,131.024,0.931,0.881,0.202,0,-7.297,1,0.105,204053,1,Shawn Mendes (Deluxe),2019
+2s6BVlw41U03QdFaMeT5FQ,When You're Ready,Shawn Mendes,45,False,0.479,171.218,0.662,0.438,0.777,0,-8.888,1,0.0947,169596,5,Shawn Mendes (Deluxe),2019
+39LmTF9RgyakzSYX8txrow,imagine,Ariana Grande,70,True,0.475,62.52,0.371,0.729,0.378,0,-4.985,1,0.0364,212267,8,"thank u, next",2019
+1TEL6MlSSVLSdhOSddidlJ,needy,Ariana Grande,73,True,0.309,87.045,0.195,0.647,0.78,7.41e-06,-7.948,0,0.0366,171573,7,"thank u, next",2019
+4uTvPEr01pjTbZgl7jcKBD,NASA,Ariana Grande,66,False,0.458,75.029,0.47,0.747,0.451,0,-6.891,1,0.303,182000,6,"thank u, next",2019
+2hloaUoRonYssMuqLCBLTX,bloodline,Ariana Grande,71,True,0.665,151.976,0.643,0.758,0.0815,0.000157,-5.188,0,0.0774,216893,2,"thank u, next",2019
+3wFLWP0FcIqHK1wb1CPthQ,fake smile,Ariana Grande,66,True,0.619,83.3,0.427,0.45,0.329,0,-7.412,1,0.372,208880,9,"thank u, next",2019
+5Il6Oe7lr5XM7A0cWbVQtr,bad idea,Ariana Grande,68,False,0.579,137.998,0.569,0.847,0.0268,0.0545,-5.314,1,0.0719,267107,1,"thank u, next",2019
+27356GVuMPFWiJSZCragoM,make up,Ariana Grande,64,True,0.714,105.137,0.477,0.671,0.0844,1.48e-06,-5.373,1,0.21,140693,7,"thank u, next",2019
+2vdBo4ALPYbHRUPKgtE5iC,ghostin,Ariana Grande,69,False,0.364,103.777,0.11,0.287,0.418,1.8e-05,-8.295,1,0.0306,271467,9,"thank u, next",2019
+4T652DlATVHe0jdLKaN3Bw,in my head,Ariana Grande,72,True,0.6,134.979,0.331,0.662,0.173,0.000137,-6.402,1,0.0703,222947,0,"thank u, next",2019
+6ocbgoVGwYJhOv1GgI9NsF,7 rings,Ariana Grande,86,True,0.317,140.048,0.327,0.778,0.592,0,-10.732,0,0.334,178627,1,"thank u, next",2019
+3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next",Ariana Grande,83,True,0.653,106.966,0.412,0.717,0.229,0,-5.634,1,0.0658,207320,1,"thank u, next",2019
+4kV4N9D1iKVxx1KLvtTpjS,"break up with your girlfriend, i'm bored",Ariana Grande,78,True,0.554,169.999,0.335,0.726,0.0421,0,-5.29,0,0.0917,190440,5,"thank u, next",2019
+7sWRlDoTDX8geTR8zzr2vt,Hollywood's Bleeding,Post Malone,78,False,0.646,130.218,0.17,0.405,0.331,0,-3.206,0,0.0476,156267,4,Hollywood's Bleeding,2019
+05mDaV9Vb3wrzjF6OPZnhq,Saint-Tropez,Post Malone,75,True,0.684,132.113,0.295,0.617,0.0545,0,-3.618,1,0.0439,150867,0,Hollywood's Bleeding,2019
+0Xek5rqai2jcOWCYWJfVCF,Enemies (feat. DaBaby),Post Malone,71,True,0.674,76.388,0.667,0.542,0.0588,0,-4.169,1,0.21,196760,6,Hollywood's Bleeding,2019
+1YscJ7yVTlFxW3eF6pv5ba,Allergic,Post Malone,65,True,0.741,144.968,0.57,0.665,0.154,3.02e-05,-3.694,1,0.0787,156893,0,Hollywood's Bleeding,2019
+2J0NXdHr6MYvKDSxB7k3V2,A Thousand Bad Times,Post Malone,69,True,0.732,159.0,0.317,0.632,0.105,1.15e-05,-3.498,1,0.092,221173,6,Hollywood's Bleeding,2019
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,89,False,0.762,120.042,0.553,0.695,0.192,0.00244,-3.497,1,0.0395,215280,0,Hollywood's Bleeding,2019
+2C6WXnmZ66tHhHlnvwePiK,Die For Me (feat. Future & Halsey),Post Malone,72,True,0.66,145.01,0.452,0.614,0.19,0,-2.848,1,0.0441,245267,0,Hollywood's Bleeding,2019
+12Fkyg9lpmaz2zmKOfw2Y2,On The Road (feat. Meek Mill & Lil Baby),Post Malone,70,True,0.737,112.93,0.21,0.442,0.0589,0,-5.046,1,0.109,218320,7,Hollywood's Bleeding,2019
+7CZyCXKG6d5ALeq41sLzbw,Take What You Want (feat. Ozzy Osbourne & Travis Scott),Post Malone,77,False,0.8,139.919,0.272,0.499,0.0906,0,-2.665,0,0.0502,229573,1,Hollywood's Bleeding,2019
+1ckLp8lCl8LipXI0ypX72m,I'm Gonna Be,Post Malone,68,True,0.559,117.943,0.368,0.746,0.703,0,-4.008,1,0.0316,200680,5,Hollywood's Bleeding,2019
+5KE9b4x7Zj2A8XtbkqhqTe,Staring At The Sun (feat. SZA),Post Malone,69,True,0.772,95.074,0.347,0.724,0.25,0,-4.389,0,0.184,168280,6,Hollywood's Bleeding,2019
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,87,False,0.522,89.96,0.925,0.755,0.533,0,-4.368,1,0.0575,157560,2,Hollywood's Bleeding,2019
+0KAzP1Rbp0Vz5pw8i1KDDI,Internet,Post Malone,61,True,0.489,74.013,0.201,0.469,0.841,0,-6.071,1,0.0314,123387,0,Hollywood's Bleeding,2019
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Post Malone,82,True,0.653,150.068,0.163,0.548,0.456,0,-3.875,1,0.081,174853,5,Hollywood's Bleeding,2019
+2cvOfKHOHgwQlLiuLKP2xR,Myself,Post Malone,66,True,0.701,163.882,0.405,0.476,0.102,0,-4.234,1,0.0349,158120,0,Hollywood's Bleeding,2019
+6b2mfHMqWCA74XmUuVJm8r,I Know,Post Malone,68,True,0.603,102.94,0.262,0.666,0.497,0,-5.671,1,0.0763,141413,1,Hollywood's Bleeding,2019
+7xQAfvXzm3AkraOtGPWIZg,Wow.,Post Malone,84,True,0.539,99.96,0.388,0.829,0.136,1.78e-06,-7.359,0,0.208,149547,11,Hollywood's Bleeding,2019
+6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,77,False,0.678,103.952,0.404,0.693,0.0151,5.71e-06,-7.159,1,0.0324,228267,8,Higher Love,2019
+55ZcA6PazdlXjE1jO5GrzJ,Ashley,Halsey,49,True,0.531,125.014,0.366,0.663,0.137,0,-6.339,1,0.0827,186188,7,Manic,2019
+66c7n8ZXmYQQeXyNVfiArc,clementine,Halsey,47,False,0.437,143.263,0.48,0.533,0.885,0,-7.659,0,0.162,234411,3,Manic,2019
+2ufmtcIFdFpuUYBPXK5f67,Graveyard,Halsey,68,False,0.583,92.043,0.187,0.667,0.231,4.48e-05,-5.127,0,0.0747,181806,11,Manic,2019
+7lidXGPXPYLNThITAOTlkK,You should be sad,Halsey,73,True,0.585,110.94,0.324,0.591,0.143,0,-6.35,1,0.0277,205473,2,Manic,2019
+6BORJ0ZazxMBpM3cWg79Id,Forever ... (is a long time),Halsey,45,False,0.265,70.028,0.291,0.509,0.746,1.08e-06,-9.716,0,0.0344,167904,2,Manic,2019
+2sOOXgEGB7nhKO8mmc1GhI,Dominic’s Interlude,Halsey,59,False,0.368,157.885,0.707,0.406,0.784,0,-6.31,1,0.0296,76480,10,Manic,2019
+35FjZytt5TukIgJD86UybL,I HATE EVERYBODY,Halsey,49,False,0.197,79.504,0.559,0.679,0.137,0,-7.078,1,0.0331,171016,5,Manic,2019
+1OfLNb6dQ9dra1B58iT9Ex,3am,Halsey,56,True,0.871,189.76,0.538,0.385,0.00906,0,-4.604,0,0.0795,234858,0,Manic,2019
+6FZDfxM3a3UCqtzo5pxSLZ,Without Me,Halsey,84,True,0.488,136.041,0.533,0.752,0.297,9.11e-06,-7.05,1,0.0705,201661,6,Manic,2019
+42SOtYBdnfj9zEdZSlAq5k,Finally // beautiful stranger,Halsey,56,False,0.55,133.976,0.123,0.626,0.051,0,-5.105,0,0.029,221096,9,Manic,2019
+6ZmwwHYtun94UOdFWWgdif,Alanis’ Interlude,Halsey,48,True,0.89,94.013,0.45,0.705,0.00947,0,-4.356,1,0.0555,161156,0,Manic,2019
+1H3Okhf16ttAICZF7zgDko,killing boys,Halsey,54,True,0.898,139.993,0.684,0.685,0.243,0.000103,-5.796,1,0.186,143364,11,Manic,2019
+1ZoQVu9XBssJBdeKMgF2eV,SUGA's Interlude,Halsey,66,False,0.732,153.836,0.246,0.55,0.0864,0,-6.88,1,0.105,138205,0,Manic,2019
+3jgHKbpswygyOMipFz06RQ,More,Halsey,50,False,0.224,170.795,0.172,0.399,0.635,0,-11.19,1,0.119,153089,11,Manic,2019
+2Mfv5HaqnI18Q9JRv9hqnn,Still Learning,Halsey,57,False,0.661,102.046,0.317,0.708,0.0396,0.000244,-6.543,0,0.0546,211784,0,Manic,2019
+1ed6Wdjk7gkxI2lIYjAoJ2,929,Halsey,48,True,0.317,150.152,0.617,0.642,0.935,0,-9.325,1,0.155,174806,9,Manic,2019
+5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,74,False,0.887,122.015,0.606,0.807,0.016,0.000503,-4.311,0,0.0361,229184,1,Giant (with Rag'n'Bone Man),2019
+69iiDrtnLNPWviEvaaRuvC,Intro,Cast,16,False,0.925,101.225,0.0426,0.232,0.908,0.576,-19.327,0,0.329,20413,9,A Star Is Born Soundtrack,2019
+4HUqrGAZ5f0gHRor7z9BFc,Black Eyes,Bradley Cooper,56,False,0.937,150.242,0.46,0.373,0.000811,6.37e-05,-2.133,0,0.0834,183773,11,A Star Is Born Soundtrack,2019
+4fIdH1l3SS0qdYRJiHwUnO,Somewhere Over The Rainbow - Dialogue,Cast,49,False,0.22,150.884,0.334,0.283,0.953,2.35e-06,-22.951,1,0.443,42040,5,A Star Is Born Soundtrack,2019
+4ta4r7V0QkZ15H4uyFCKGs,Fabulous French - Dialogue,Cast,8,False,0.7,101.59,0.863,0.514,0.807,0,-11.251,1,0.724,19493,7,A Star Is Born Soundtrack,2019
+3WKnfkgwrARwElktHSU5Ik,La Vie En Rose,Lady Gaga,57,False,0.405,76.18,0.335,0.276,0.758,0,-7.296,1,0.0329,179760,8,A Star Is Born Soundtrack,2019
+1dm7A3ofkewH84XwajxF1F,I'll Wait For You - Dialogue,Cast,8,False,0.128,116.575,0.648,0.718,0.858,0,-21.699,1,0.877,19133,6,A Star Is Born Soundtrack,2019
+6jMbPsH6lTOLs5n8Af26AG,Maybe It's Time,Bradley Cooper,59,False,0.282,79.776,0.359,0.699,0.798,1.23e-06,-7.65,1,0.0374,159293,7,A Star Is Born Soundtrack,2019
+3i4jlS5TlVjRovgq1ENgaJ,Parking Lot - Dialogue,Cast,49,False,0.384,133.153,0.386,0.535,0.766,0,-21.937,1,0.814,31427,8,A Star Is Born Soundtrack,2019
+2ue0yHbKwnsj8HXLLgMzVi,Out Of Time,Bradley Cooper,51,False,0.915,99.983,0.359,0.584,0.173,0.822,-7.339,1,0.0579,172320,0,A Star Is Born Soundtrack,2019
+05Eq6SWneoZYvKQbm2xN25,Alibi,Bradley Cooper,52,False,0.787,175.693,0.636,0.285,0.0145,0.00043,-3.641,0,0.036,183227,9,A Star Is Born Soundtrack,2019
+2FO4bI9MqGN7NQZIr3ROHs,Trust Me - Dialogue,Cast,46,True,0.545,90.836,0.832,0.423,0.895,6.25e-05,-14.211,0,0.508,32333,0,A Star Is Born Soundtrack,2019
+2VxeLyX666F8uXCJ0dZF8B,Shallow,Lady Gaga,86,False,0.385,95.799,0.323,0.572,0.371,0,-6.362,1,0.0308,215733,7,A Star Is Born Soundtrack,2019
+7A5uLkZbEOzHiAlhD2Hr2L,"First Stop, Arizona - Dialogue",Cast,7,False,0.23,0,0,0,0.878,0,-23.413,1,0,10760,6,A Star Is Born Soundtrack,2019
+4Z2s8VRI8WEZyU0xeqnlJD,Music To My Eyes,Lady Gaga,56,False,0.356,114.805,0.325,0.625,0.392,0.00129,-9.044,1,0.0319,199200,2,A Star Is Born Soundtrack,2019
+0eUwuRuPBzxhU9ApFIcDl2,Diggin' My Grave,Lady Gaga,53,False,0.612,93.964,0.561,0.684,0.171,1.53e-05,-4.653,0,0.0287,237307,9,A Star Is Born Soundtrack,2019

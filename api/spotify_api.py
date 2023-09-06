@@ -29,7 +29,7 @@ pop_playlists = [
 "https://open.spotify.com/playlist/4Ni1b2rQAtpURFDM1MLzbJ?si=8bd60e59cbb54c31", # 2019
 ]
 """
-top_playlists = [
+"""top_playlists = [
 "https://open.spotify.com/playlist/37i9dQZF1DWXQyLTHGuTIz?si=9a6895d3be5a4222", # 1970
 "https://open.spotify.com/playlist/37i9dQZF1DX43B4ApmA3Ee?si=f2621aafd77a4723", # 1971
 "https://open.spotify.com/playlist/37i9dQZF1DXaQBa5hAMckp?si=ae3e48da7443408d", # 1972
@@ -80,7 +80,9 @@ top_playlists = [
 "https://open.spotify.com/playlist/37i9dQZF1DWTE7dVUebpUW?si=fe723feb4feb4594", # 2017
 "https://open.spotify.com/playlist/37i9dQZF1DXe2bobNYDtW8?si=e0524141064445b3", # 2018
 "https://open.spotify.com/playlist/37i9dQZF1DWVRSukIED0e9?si=eea9506b3df946fe", # 2019
-]
+]"""
+
+albums_2019 = ["https://open.spotify.com/playlist/76ivjBRvdxln13aq7HHgOX?si=970726796ed749f0"]
 
 
 def get_playlist_tracks(token, playlist_id):
@@ -201,8 +203,8 @@ def get_track_info(token, playlist_tracks):
     return playlist_tracks
 
 
-playlist_ids = [i[34:] for i in top_playlists] # <- Change playlist name to correct playlist!
-years = list(range(1970, 2020)) # list of years corresponding to the order of playlists
+playlist_ids = [i[34:] for i in albums_2019] # <- Change playlist name to correct playlist!
+years = list(range(2019, 2020)) # list of years corresponding to the order of playlists
 all_playlist_data = [] # list to store data from all playlists
 
 
@@ -236,4 +238,4 @@ def export_to_csv(data, filename):
         writer.writeheader()
         writer.writerows(data)
 
-export_to_csv(all_playlist_data, '../data/top_hits_1970_to_2019_real.csv') # <- Change csv filename
+export_to_csv(all_playlist_data, '../data/albums_2019_7.csv') # <- Change csv filename

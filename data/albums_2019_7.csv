@@ -1,0 +1,88 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+6I0Jucv2KfH32lNp1Acana,Till im Gone (feat. Kodak Black),Flipp Dinero,43,True,0.724,177.914,0.255,0.635,0.183,0,-3.229,1,0.366,226069,6,LOVE FOR GUALA,2019
+6lg0Md3xQ7U5EYAcsnysiv,Butterfly Effect,DJ Snake,40,False,0.644,149.822,0.0387,0.224,0.00407,0.252,-7.276,0,0.0386,204800,5,Carte Blanche,2019
+3xBEwwc1zwGpOFtkp5HVkB,Quiet Storm (with Zomboy),DJ Snake,46,False,0.985,150.069,0.358,0.562,0.00124,0.846,-1.869,1,0.0716,225600,1,Carte Blanche,2019
+0pSL76Z9uhRAfFd09VmF24,When The Lights Go Down,DJ Snake,40,False,0.952,159.996,0.59,0.595,0.0269,0.671,-1.892,0,0.042,231037,5,Carte Blanche,2019
+2zzwSQ5xhBsZ5FoYv4IS82,Recognize (feat. Majid Jordan),DJ Snake,38,False,0.681,113.966,0.431,0.735,0.244,0.000517,-7.655,1,0.0947,214737,8,Carte Blanche,2019
+1j4MPw77pRZ77fMBuaRCZl,No More (feat. ZHU),DJ Snake,50,True,0.716,120.046,0.563,0.809,0.0175,0.00102,-8.434,0,0.0459,166000,4,Carte Blanche,2019
+0E3L4BNuUlZyvcZyySTfKr,"Made In France (with Tchami & Malaa, feat. Mercer)",DJ Snake,51,False,0.949,126.007,0.506,0.836,0.00295,0.247,-4.127,0,0.0786,251429,11,Carte Blanche,2019
+5w8wL9IpVlOerzOzOvkjvG,"Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)",DJ Snake,54,True,0.726,119.963,0.181,0.785,0.0739,4.01e-06,-4.209,1,0.0387,248053,2,Carte Blanche,2019
+0qczhh8fOxKyXqnaKouJyZ,Smile (feat. Bryson Tiller),DJ Snake,41,True,0.82,160.055,0.538,0.402,0.142,0,-1.887,0,0.113,198303,5,Carte Blanche,2019
+5vTtANNlQK5UhwfooDek5y,Try Me (with Plastic Toy),DJ Snake,49,False,0.703,102.289,0.193,0.68,0.839,0.0218,-3.36,0,0.0439,198405,7,Carte Blanche,2019
+6osaMSJh9NguagEDQcZaKx,Loco Contigo (feat. J. Balvin & Tyga),DJ Snake,77,False,0.758,192.091,0.371,0.694,0.278,1.34e-06,-2.986,1,0.218,185195,11,Carte Blanche,2019
+0KoiMHhqKLoL4xM54rcWYY,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,75,True,0.801,95.881,0.617,0.842,0.157,4.82e-06,-4.167,0,0.228,212500,8,Carte Blanche,2019
+660eekzsNZ7sdATvfIsAkR,"Fuego (with Sean Paul & Anitta, feat. Tainy)",DJ Snake,60,False,0.859,104.906,0.612,0.819,0.0244,0,-6.264,1,0.224,195429,8,Carte Blanche,2019
+3dsyqPDiWYYilRZNBxgxHE,Magenta Riddim,DJ Snake,65,False,0.892,102.047,0.57,0.602,0.000393,0.813,-3.66,0,0.0672,194490,10,Carte Blanche,2019
+3SSzqNGH8gRHBXohGx7BcV,Frequency 75,DJ Snake,45,False,0.774,108.023,0.125,0.664,0.0039,0.449,-8.961,1,0.122,266667,1,Carte Blanche,2019
+3qgtGhoCutbBX73cd6ArCW,SouthSide (feat. Eptic),DJ Snake,45,False,0.94,149.959,0.555,0.571,0.0114,0.0128,-3.637,1,0.0883,252800,1,Carte Blanche,2019
+4lDYedHtcFwkMTVwpdSRUN,No Option (feat. Burna Boy),DJ Snake,44,True,0.877,150.162,0.876,0.631,0.00837,1.09e-05,-4.072,0,0.0345,185600,5,Carte Blanche,2019
+5gjsW5lwLen4vTq2kGNoAX,Paris (feat. GASHI),DJ Snake,44,False,0.624,128.045,0.231,0.621,0.226,0,-6.745,0,0.0374,225000,10,Carte Blanche,2019
+26t0xoYPRxyHvIN62P85au,Lost Files,Polo G,57,True,0.723,145.067,0.397,0.809,0.335,0,-6.145,1,0.352,120907,1,Die A Legend,2019
+2bGEPdcL80FFHQ3VxcYBJQ,Dyin Breed,Polo G,62,True,0.599,159.966,0.427,0.77,0.0131,0,-8.663,0,0.661,179773,2,Die A Legend,2019
+3NqCEpT8xsHdzpiRlM1kpS,Through Da Storm,Polo G,74,True,0.49,74.351,0.621,0.71,0.128,0,-9.832,1,0.246,195587,1,Die A Legend,2019
+2fyy1r6XBbsiSSpKK20LKX,Effortless,Polo G,58,True,0.445,157.153,0.399,0.792,0.00256,0,-7.871,0,0.544,171467,10,Die A Legend,2019
+6uFn47ACjqYkc0jADwEdj1,Pop Out (feat. Lil Tjay),Polo G,80,True,0.639,168.112,0.261,0.772,0.15,0,-7.119,1,0.467,166560,1,Die A Legend,2019
+7caP3UAf8ZtIMVpWfEIA4H,Battle Cry,Polo G,58,True,0.597,150.089,0.347,0.754,0.212,0,-7.809,1,0.38,192080,7,Die A Legend,2019
+4iIfKs9XOb9D2NJnPctPns,BST,Polo G,57,True,0.603,143.043,0.633,0.876,0.0188,0,-9.148,0,0.28,202680,5,Die A Legend,2019
+7oBW80497A8axagr4aC9U6,Finer Things,Polo G,68,True,0.45,177.978,0.131,0.506,0.0683,0.000225,-12.565,1,0.364,182387,2,Die A Legend,2019
+00TYv5NLZkKXq5KJZ6LMDt,Picture This,Polo G,56,True,0.604,87.955,0.406,0.831,0.0316,0,-6.741,1,0.273,165720,0,Die A Legend,2019
+40QrLHWdsxyXLAdjJG4Rxs,Chosen 1,Polo G,76,True,0.576,166.162,0.364,0.77,0.138,0,-11.845,0,0.339,127200,8,Die A Legend,2019
+1EXgignL7eG2MHErBEAD5d,Deep Wounds,Polo G,63,True,0.572,159.961,0.339,0.661,0.0149,0,-7.101,1,0.338,180293,1,Die A Legend,2019
+1w8XCWRzLN75HARAqNQIRY,Last Strike,Polo G,53,True,0.594,81.539,0.477,0.579,0.0249,0,-8.461,1,0.468,197320,2,Die A Legend,2019
+1g4zEL3uOnhwvnMEOVAbNM,A King's Nightmare,Polo G,50,True,0.728,81.193,0.321,0.463,0.156,0,-7.994,0,0.353,167453,1,Die A Legend,2019
+2VIMXmWUIqhMqg6h5FOFPG,Pop Out Again (feat. Lil Baby & Gunna),Polo G,60,True,0.689,83.964,0.364,0.862,0.118,0,-5.68,1,0.323,223787,1,Die A Legend,2019
+5PbAxxkcKnbkdozI7ZvFgZ,Tick Tock (with Clean Bandit ft. 24kGoldn),Clean Bandit,0,False,0.704,101.022,0.95,0.778,0.385,1.29e-05,-3.903,1,0.0338,178200,0,High Expectations,2019
+1rzHuxpjVx8FHy93ep8Aba,West Ten (with AJ Tracey),AJ Tracey,0,True,0.823,129.986,0.867,0.843,0.318,0,-4.904,0,0.0571,213693,10,High Expectations,2019
+2JYigZkT6rMUDAIFLrxaNg,High Expectations - Intro,Mabel,26,False,0.371,64.894,0.1,0.186,0.335,0,-9.104,1,0.0346,87560,11,High Expectations,2019
+3f7kagozH424YCJRd7UR0x,Bad Behaviour,Mabel,43,False,0.806,106.999,0.41,0.79,0.00479,2.27e-06,-4.342,1,0.0411,205880,0,High Expectations,2019
+5Xc9L411IGVexidbaF7CHG,Don't Call Me Up,Mabel,39,False,0.872,98.891,0.261,0.684,0.31,3.18e-06,-2.85,1,0.124,178493,9,High Expectations,2019
+1sahUqXlmDzjs7wrQdo02E,FML,Mabel,29,True,0.828,107.925,0.445,0.582,0.0215,0,-1.982,1,0.0494,192507,5,High Expectations,2019
+155ZVWRnKqcntpi87BjRiZ,We Don't Say...,Mabel,31,False,0.833,92.519,0.766,0.737,0.245,0,-6.368,1,0.113,191240,0,High Expectations,2019
+2lVNZd92M1cpApbFlhpFvg,Selfish Love (with Kamille),Mabel,41,False,0.744,107.005,0.33,0.689,0.435,2.91e-06,-5.836,0,0.0572,192227,9,High Expectations,2019
+5k58QiYfH5l4tNS3XJgLiO,Lucky - Interlude,Mabel,29,False,0.421,169.31,0.156,0.349,0.36,1.17e-05,-8.199,0,0.055,74387,2,High Expectations,2019
+6ImEBuxsbuTowuHmg3Z2FO,Mad Love,Mabel,67,False,0.796,197.524,0.607,0.623,0.659,0,-2.981,0,0.199,169813,0,High Expectations,2019
+7GIklx0mbw8KGvfoSib9h4,Trouble,Mabel,30,False,0.699,156.001,0.649,0.671,0.057,0,-4.14,1,0.0629,208520,5,High Expectations,2019
+2tHXZdcG34gRqBRkt1FKJN,Put Your Name On It,Mabel,34,False,0.724,105.448,0.531,0.655,0.252,0,-4.466,1,0.0386,221907,0,High Expectations,2019
+0FfMUgbHv92oZSU74gCBfb,Stckhlm Syndrome - Interlude,Mabel,26,True,0.573,107.954,0.464,0.724,0.0457,0,-5.492,1,0.0394,145827,1,High Expectations,2019
+6bW7xROpvstfDvXdOnH96p,OK (Anxiety Anthem),Mabel,50,False,0.79,99.086,0.499,0.674,0.269,0,-3.857,0,0.114,216533,8,High Expectations,2019
+2BrDIsFZeJv4tGWmk8IhDb,I Belong To Me,Mabel,26,True,0.525,80.098,0.0905,0.497,0.699,0,-6.019,1,0.0481,158067,1,High Expectations,2019
+1GcBC8MXnpNcXCBzNiFHl7,High Expectations - Outro,Mabel,22,False,0.399,134.179,0.134,0.313,0.523,0,-8.216,1,0.032,144787,11,High Expectations,2019
+0i2xIlZCO0H3mSpxr2HzgK,Boyfriend,Mabel,56,False,0.848,99.977,0.691,0.795,0.0569,0,-3.128,1,0.0543,225707,7,High Expectations,2019
+61V4MMGxwJK6AnixVevD63,Finders Keepers (feat. Kojo Funds),Mabel,28,False,0.583,108.038,0.619,0.834,0.0415,2.79e-06,-6.531,0,0.114,268640,4,High Expectations,2019
+6k4tasgeCEvSvI43RuSnQp,Fine Line (with Not3s),Mabel,26,True,0.619,76.658,0.94,0.72,0.237,0,-4.95,0,0.0561,212013,3,High Expectations,2019
+71xTDzNV4aufQe6InpbjZf,My Lover (with Not3s),Not3s,0,False,0.569,106.044,0.621,0.823,0.188,1.85e-05,-7.112,0,0.257,192627,6,High Expectations,2019
+2rJEQBrFAJJ5CdRxdBMSCP,Ring Ring (with Jax Jones feat. Rich The Kid),Jax Jones,25,True,0.649,106.709,0.624,0.703,0.185,1.6e-06,-4.877,0,0.146,218133,1,High Expectations,2019
+5XMD0fEFq3Dbz80cOMCP3q,Cigarette (with RAYE & Stefflon Don),RAYE,23,True,0.691,115.025,0.579,0.816,0.106,3.57e-05,-4.665,1,0.0656,188307,2,High Expectations,2019
+7rZ65wb5wApv23m8GpO2Ul,Not Sayin',Mabel,27,False,0.795,110.02,0.864,0.709,0.0059,0.000236,-4.195,0,0.0385,224427,10,High Expectations,2019
+4s1UA2GZTGpjKfhGAPSVER,God Is A Dancer (Tiësto & Mabel),Tiësto,34,False,0.749,119.995,0.815,0.79,0.0322,2.19e-06,-3.915,0,0.0795,168293,1,High Expectations,2019
+5367lywm1ux2wROgM16U4l,Intro (feat. 1takejay),Mustard,51,True,0.503,102.042,0.259,0.917,0.0792,0,-8.389,1,0.323,112956,1,Perfect Ten,2019
+3j84U36KvLeXNDPv4t5pI8,Pure Water (with Migos),Mustard,76,True,0.559,202.015,0.137,0.682,0.174,0,-5.545,1,0.127,192471,0,Perfect Ten,2019
+3O7lxdQoe1aNWs93VSHsJg,On GOD (with YG & Tyga feat. A$AP Ferg & A$AP Rocky),Mustard,51,True,0.676,103.998,0.339,0.857,0.218,0,-5.359,1,0.192,263127,1,Perfect Ten,2019
+2zjGJ0dChMR0KxBZS15aqo,"Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",Mustard,68,True,0.525,99.978,0.312,0.883,0.189,0,-8.054,0,0.0633,174100,2,Perfect Ten,2019
+4j13h3sia1FhQG18bjSXEC,Interstate 10 (feat. Future),Mustard,47,True,0.489,101.985,0.0676,0.83,0.167,0,-7.212,1,0.343,197668,2,Perfect Ten,2019
+16ZzQo8IFilZ2gHizvGB5A,"100 Bands (feat. Quavo, YG & Meek Mill)",Mustard,41,True,0.486,92.976,0.126,0.86,0.00755,0,-6.533,0,0.401,135547,1,Perfect Ten,2019
+4FIk3t81hjVgiZCA5hLtP0,Woah Woah (feat. Young Thug & Gunna),Mustard,48,True,0.486,91.99,0.204,0.775,0.357,0,-7.12,0,0.0518,231943,6,Perfect Ten,2019
+0y1lLLaSzHIVQZKHEfwOrm,Surface,Mustard,48,True,0.475,89.554,0.482,0.425,0.129,0,-7.57,0,0.075,194195,5,Perfect Ten,2019
+3QzAOrNlsabgbMwlZt7TAY,Ballin' (with Roddy Ricch),Mustard,82,True,0.545,97.008,0.244,0.809,0.392,0,-6.678,1,0.0735,180435,7,Perfect Ten,2019
+6GQ82BpN60dzztUWzYojc7,Perfect Ten (feat. Nipsey Hussle),Mustard,56,True,0.437,99.948,0.228,0.683,0.781,0.000115,-9.267,0,0.0375,252021,5,Perfect Ten,2019
+0Veyvc3n9AcLSoK3r1dA12,Voices in My Head,A Boogie Wit da Hoodie,56,True,0.663,90.195,0.207,0.754,0.0555,0,-6.311,0,0.427,142301,6,Hoodie SZN,2019
+77JzXZonNumWsuXKy9vr3U,Beasty,A Boogie Wit da Hoodie,56,True,0.418,126.023,0.374,0.86,0.292,0,-9.061,0,0.158,152829,7,Hoodie SZN,2019
+18yllZD0TdF7ykcREib8Z1,I Did It,A Boogie Wit da Hoodie,51,True,0.454,89.483,0.196,0.718,0.153,4.6e-05,-9.012,1,0.127,215305,8,Hoodie SZN,2019
+1wJRveJZLSb1rjhnUHQiv6,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,76,True,0.662,93.023,0.434,0.581,0.0153,0,-5.239,1,0.303,189487,9,Hoodie SZN,2019
+0jAfdqv18goRTUxm3ilRjb,Startender (feat. Offset and Tyga),A Boogie Wit da Hoodie,65,True,0.622,191.971,0.506,0.736,0.0235,0,-4.653,0,0.133,192779,6,Hoodie SZN,2019
+3L19besdNQzd342qL78xqm,Demons and Angels (feat. Juice WRLD),A Boogie Wit da Hoodie,69,True,0.55,76.503,0.183,0.81,0.0114,5.69e-06,-7.46,0,0.17,214593,2,Hoodie SZN,2019
+1Gno5IBUHh6vUKp4nxu2Yd,Love Drugs and Sex,A Boogie Wit da Hoodie,68,True,0.553,119.973,0.773,0.762,0.55,0,-7.207,0,0.112,157863,5,Hoodie SZN,2019
+2A4vCndSkZ3jd5nfh3a8gc,Skeezers,A Boogie Wit da Hoodie,64,True,0.484,140.019,0.353,0.792,0.558,0,-7.801,0,0.155,198054,7,Hoodie SZN,2019
+1srm5YnZiu7Ksnd2UTTmmk,Savage,A Boogie Wit da Hoodie,56,True,0.402,160.046,0.483,0.78,0.188,0,-9.255,0,0.149,169046,5,Hoodie SZN,2019
+3UhRsQVrELOATEiY7E9X2T,Come Closer (feat. Queen Naija),A Boogie Wit da Hoodie,62,True,0.556,140.056,0.616,0.741,0.22,0,-6.647,0,0.0947,156512,7,Hoodie SZN,2019
+3Ol2xnObFdKV9pmRD2t9x8,Look Back at It,A Boogie Wit da Hoodie,78,True,0.587,96.057,0.536,0.791,0.407,0,-5.075,0,0.0413,179449,3,Hoodie SZN,2019
+0uH6JssU7mWkTT9mqeqEvL,Just Like Me (feat. Young Thug),A Boogie Wit da Hoodie,67,True,0.623,128.661,0.393,0.774,0.156,0,-7.871,1,0.245,220888,5,Hoodie SZN,2019
+02CQH5capUYovYSiSiwKgX,Bosses and Workers (feat. Don Q and Trap Manny),A Boogie Wit da Hoodie,50,True,0.605,130.027,0.591,0.842,0.358,0,-6.293,0,0.0559,207223,1,Hoodie SZN,2019
+0sSl9LFCzQAunHx9T1Un3O,Need a Best Friend (feat. Lil Quee and Quando Rondo),A Boogie Wit da Hoodie,49,True,0.52,165.105,0.359,0.696,0.06,0,-6.361,1,0.294,204329,0,Hoodie SZN,2019
+3TwzcgoO6mbgX3E7Bn1RAy,The Reaper,A Boogie Wit da Hoodie,52,True,0.61,141.955,0.479,0.761,0.379,0,-7.039,1,0.094,176533,6,Hoodie SZN,2019
+3mUk1wiSBpiuK4oSSyDmTQ,Uptown / Bustdown (feat. PnB Rock and Lil Durk),A Boogie Wit da Hoodie,51,True,0.751,90.04,0.324,0.503,0.215,0,-5.785,0,0.35,177763,6,Hoodie SZN,2019
+0OAyZn9pGuuL2FJih1PM58,Billie Jean,A Boogie Wit da Hoodie,52,True,0.536,139.961,0.375,0.83,0.0919,0,-6.324,0,0.152,138014,4,Hoodie SZN,2019
+5h66wqaGklsSa8eSxTwcJT,4 Min Convo (Favorite Song),A Boogie Wit da Hoodie,59,True,0.65,91.053,0.658,0.705,0.359,0,-5.654,0,0.212,257274,7,Hoodie SZN,2019
+7MuhbSNErlmQAGRzhnnIjT,Odee,A Boogie Wit da Hoodie,58,True,0.48,86.049,0.293,0.854,0.208,0,-7.388,0,0.293,160868,9,Hoodie SZN,2019
+76vviJBqmRdMMb9u9npgfj,Pull Up (feat. NAV),A Boogie Wit da Hoodie,50,True,0.37,149.95,0.557,0.828,0.487,0,-7.446,0,0.264,193575,7,Hoodie SZN,2019
+1oLSje4Ot5qRUq8FqYeXOl,Don’t Feel Like Crying,Sigrid,46,False,0.814,119.964,0.715,0.749,0.156,0,-3.769,0,0.0404,157010,5,Don't Feel Like Crying,2019

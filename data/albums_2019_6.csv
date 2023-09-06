@@ -1,0 +1,101 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+3DnZfpfe8wLeJgzc00gKeW,On Me (feat. Cardi B),Meek Mill,51,True,0.666,132.12,0.538,0.864,0.0482,0,-5.525,1,0.234,225008,1,Championships,2019
+4iQ5gmTAzWfK8JyFC2LBox,What's Free (feat. Rick Ross & Jay Z),Meek Mill,53,True,0.718,166.42,0.267,0.511,0.000322,0,-6.293,0,0.404,362839,11,Championships,2019
+6pUBrvKfJL4qmn95mxU7rC,Respect the Game,Meek Mill,59,True,0.67,89.842,0.159,0.603,0.0871,0,-4.809,1,0.25,192099,2,Championships,2019
+6cPnE82DKBLd7sg02ZNg8K,"Splash Warning (feat. Future, Roddy Ricch and Young Thug)",Meek Mill,48,True,0.703,163.06,0.331,0.766,0.00807,0,-5.877,0,0.163,168495,10,Championships,2019
+5DTOk0tCrmicVQP4mc6hkr,Championships,Meek Mill,52,True,0.803,167.329,0.319,0.488,0.0786,0,-4.165,0,0.205,261743,6,Championships,2019
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Meek Mill,81,True,0.496,86.003,0.544,0.889,0.259,0,-6.365,0,0.0905,180522,4,Championships,2019
+1bx4Jw8A7GQtImIQGccI6D,Almost Slipped,Meek Mill,47,True,0.651,164.213,0.46,0.49,0.246,0,-6.24,1,0.251,246793,8,Championships,2019
+35J4wXQeRuHNOEArMy6FOe,Tic Tac Toe (feat. Kodak Black),Meek Mill,51,True,0.72,150.039,0.285,0.821,0.00902,7.07e-06,-4.606,0,0.222,185261,10,Championships,2019
+6irE4Fbjbry3czv7mTxVSB,24/7 (feat. Ella Mai),Meek Mill,61,True,0.711,86.957,0.368,0.657,0.0135,0,-5.355,1,0.374,221522,0,Championships,2019
+0jqLv5PuEUA0GthFjdtlS1,Oodles O' Noodles Babies,Meek Mill,48,True,0.836,72.099,0.584,0.609,0.593,0,-3.442,0,0.264,181274,4,Championships,2019
+0UNeNA0dcfUMsGxvLwf2p3,Pay You Back (feat. 21 Savage),Meek Mill,50,True,0.694,85.047,0.23,0.821,0.03,0,-5.169,1,0.229,235263,9,Championships,2019
+3gHLXLJ9JE1oOayo3ar4E5,100 Summers,Meek Mill,47,True,0.483,79.012,0.453,0.481,0.171,0,-8.174,0,0.331,163834,4,Championships,2019
+4Kdu9AlfQyu0o6r2ozCMTc,Wit the Shits (W.T.S) [feat. Melii],Meek Mill,45,True,0.814,146.99,0.709,0.756,0.00735,0,-5.398,1,0.0416,170539,0,Championships,2019
+0UOF9AAyS8H9iCWmePj29w,Stuck in My Ways,Meek Mill,48,True,0.701,139.944,0.556,0.703,0.147,0,-4.764,1,0.159,191486,1,Championships,2019
+3lb5fWSG2p7x8ik8HN9oFR,Dangerous (feat. Jeremih and PnB Rock),Meek Mill,66,True,0.493,86.043,0.562,0.734,0.0467,0,-7.528,1,0.308,233750,0,Championships,2019
+75ld9n7watXCD0nHnE931J,Cold Hearted II,Meek Mill,51,True,0.781,77.27,0.367,0.296,0.0377,0,-7.148,1,0.451,301870,6,Championships,2019
+3fpVWegR6YOS1Yk5HSMYIq,Paranoid,Post Malone,68,False,0.536,159.914,0.253,0.625,0.038,2.31e-05,-5.428,1,0.0776,221787,0,beerbongs & bentleys,2019
+5VuxWXbt7XENQCtE9TzpTv,Spoil My Night (feat. Swae Lee),Post Malone,68,True,0.717,160.981,0.225,0.672,0.341,2.4e-05,-2.714,1,0.034,194560,1,beerbongs & bentleys,2019
+2VdT56BGpdqNHUgOe1j5vc,Rich & Sad,Post Malone,69,True,0.571,151.974,0.285,0.599,0.198,0,-4.998,1,0.0665,206453,2,beerbongs & bentleys,2019
+5lZZmityu9TAjNvSY6GLhR,Zack And Codeine,Post Malone,65,True,0.824,138.039,0.386,0.738,0.15,0,-5.165,0,0.0437,204360,5,beerbongs & bentleys,2019
+5ffntNJnJOeFv7b7DCd0Bw,Takin' Shots,Post Malone,63,True,0.621,120.056,0.593,0.762,0.61,0,-6.24,1,0.0866,216747,0,beerbongs & bentleys,2019
+0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),Post Malone,86,True,0.52,159.801,0.129,0.585,0.124,7.01e-05,-6.136,0,0.0712,218147,5,beerbongs & bentleys,2019
+09IOPhEh1OMe0HD9b36FJk,Over Now,Post Malone,69,True,0.777,164.027,0.181,0.569,0.139,0,-4.041,0,0.0834,246987,4,beerbongs & bentleys,2019
+3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),Post Malone,80,True,0.56,140.06,0.459,0.75,0.546,0,-8.094,1,0.105,221440,8,beerbongs & bentleys,2019
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,83,True,0.578,145.038,0.341,0.68,0.331,0,-5.804,1,0.04,231267,10,beerbongs & bentleys,2019
+6IaieqiCVvsNvEt6Y7yOFa,Ball For Me (feat. Nicki Minaj),Post Malone,69,True,0.55,134.206,0.543,0.797,0.513,0,-4.166,1,0.24,206267,9,beerbongs & bentleys,2019
+4qWCFTuNnmGNdY4egtb4ZY,Otherside,Post Malone,64,True,0.643,104.932,0.109,0.652,0.318,2.87e-06,-5.667,0,0.0353,228227,9,beerbongs & bentleys,2019
+4H7WNRErSbONkM06blBoGc,Stay,Post Malone,77,True,0.48,86.046,0.35,0.507,0.449,0,-5.418,1,0.0266,204427,5,beerbongs & bentleys,2019
+1ZemPoaj7LBj1RAQrb89EC,Blame It On Me,Post Malone,64,False,0.591,121.873,0.274,0.652,0.145,5.65e-06,-7.274,0,0.0418,261800,11,beerbongs & bentleys,2019
+688QpQAwqsLdBR6lr13wK1,Same Bitches (feat. G-Eazy & YG),Post Malone,65,True,0.774,100.005,0.219,0.731,0.434,3.34e-06,-5.273,0,0.0555,212467,10,beerbongs & bentleys,2019
+0R6Jlsq25eZB3Wftpxi3oF,Jonestown (Interlude),Post Malone,59,False,0.454,77.592,0.288,0.38,0.755,0.623,-10.271,0,0.0362,112013,0,beerbongs & bentleys,2019
+1D2L6MefbXon28PzIk9I3r,92 Explorer,Post Malone,73,True,0.733,146.046,0.861,0.798,0.265,1.25e-06,-4.811,0,0.0476,211427,7,beerbongs & bentleys,2019
+32lItqlMi4LBhb4k0BaSaC,Candy Paint,Post Malone,78,True,0.667,180.064,0.381,0.664,0.64,1.22e-06,-5.941,1,0.154,227533,4,beerbongs & bentleys,2019
+0MrRAUcB8AZiB9ue2VOBYe,Sugar Wraith,Post Malone,65,True,0.775,164.02,0.307,0.606,0.262,0,-4.269,0,0.0671,228147,5,beerbongs & bentleys,2019
+7pT6WSg4PCt4mr5ZFyUfsF,If We Have Each Other,Alec Benjamin,79,False,0.577,173.094,0.861,0.656,0.698,0,-5.566,0,0.0802,181522,10,Narrated For You,2019
+4IhKLu7Vk3j2TLmnFPl6To,Water Fountain,Alec Benjamin,78,False,0.504,133.975,0.551,0.723,0.388,7.4e-05,-5.572,1,0.0392,218893,8,Narrated For You,2019
+0DYRjWiFJHvLjxRrywtltC,Annabelle's Homework,Alec Benjamin,56,False,0.634,86.004,0.33,0.676,0.701,1.63e-06,-5.377,1,0.0385,192501,8,Narrated For You,2019
+2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,Alec Benjamin,88,False,0.557,150.073,0.483,0.652,0.74,0,-5.714,0,0.0318,169354,1,Narrated For You,2019
+1rMSja8j1k8VRXXztemdLb,Swim,Alec Benjamin,57,False,0.562,160.051,0.532,0.737,0.289,0.000363,-6.117,0,0.0747,144387,11,Narrated For You,2019
+60cYr5uuMoxvyuIx45rGEW,Boy In The Bubble,Alec Benjamin,70,False,0.578,143.982,0.851,0.817,0.224,0.00103,-7.579,0,0.0824,181705,11,Narrated For You,2019
+211LaT5hzPOKolVtgzwWnq,Steve,Alec Benjamin,53,False,0.353,80.558,0.866,0.348,0.845,0,-9.012,1,0.0334,173487,10,Narrated For You,2019
+0IrtQ83z9jylZaLEJK2eoy,Gotta Be A Reason,Alec Benjamin,59,False,0.518,79.997,0.277,0.771,0.806,2.48e-05,-7.582,0,0.0404,210354,4,Narrated For You,2019
+2W0AJEbIC2vdZTV2nVSAsg,Outrunning Karma,Alec Benjamin,68,False,0.649,112.482,0.474,0.416,0.655,2.82e-06,-5.271,0,0.0385,188851,11,Narrated For You,2019
+0WHi11uzahqpEtPGYCW6oQ,If I Killed Someone For You,Alec Benjamin,73,False,0.605,120.894,0.409,0.514,0.774,2.91e-06,-5.363,1,0.0337,185123,7,Narrated For You,2019
+3gYK7eEFbp6KzmqYRMyQRm,Death Of A Hero,Alec Benjamin,54,False,0.62,179.8,0.584,0.653,0.634,5.46e-06,-5.797,1,0.28,191560,11,Narrated For You,2019
+5Ys68FZdQFcFw7IgkANVoM,1994,Alec Benjamin,55,False,0.613,87.022,0.862,0.772,0.281,3.52e-06,-6.185,1,0.0692,184121,8,Narrated For You,2019
+23GvTfcGK454ppLsts3W44,Strike a Pose (feat. Aitch),Young T & Bugsey,58,True,0.581,137.776,0.591,0.531,0.0107,1.62e-05,-5.801,1,0.101,214204,1,Strike a Pose (feat. Aitch),2019
+5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Katy Perry,72,False,0.882,99.991,0.385,0.77,0.194,0,-4.792,1,0.0602,223523,8,Never Really Over,2019
+2Iov9mHNgKuL1oxePM2hZM,Baby Come Back to Me,Kane Brown,46,False,0.812,81.062,0.484,0.538,0.0193,4.33e-06,-5.776,1,0.0343,226693,7,Experiment Extended,2019
+19kUPdKTp85q9RZNwaXM15,Good as You,Kane Brown,67,False,0.516,153.653,0.769,0.626,0.4,0,-6.05,1,0.0388,192053,8,Experiment Extended,2019
+7epGknfpAlH1u33S71Ur1o,Lose It,Kane Brown,65,False,0.854,91.967,0.436,0.545,0.00244,1.2e-06,-4.968,0,0.0289,178987,4,Experiment Extended,2019
+2OdHXtqpzO1Dltkr8z54VH,It Ain't You It's Me,Kane Brown,43,False,0.683,145.968,0.44,0.487,0.0322,0,-5.827,0,0.0319,191427,10,Experiment Extended,2019
+6PN7QeNItfzZBpCTQvsLyq,Short Skirt Weather,Kane Brown,62,False,0.893,128.044,0.944,0.699,0.0626,0,-5.412,1,0.0431,194147,9,Experiment Extended,2019
+30RZAuEkYeDXvy46Iv6l7E,Homesick,Kane Brown,67,False,0.5,97.028,0.409,0.701,0.46,0,-8.82,1,0.0303,205400,8,Experiment Extended,2019
+2xXOBpWKvLx8FzkJ2UuqQH,Weekend,Kane Brown,47,False,0.726,80.013,0.773,0.641,0.356,0,-6.298,1,0.049,226720,4,Experiment Extended,2019
+6nLJMeXeU2zhyMzTjNwIrI,Work,Kane Brown,45,False,0.5,82.954,0.434,0.596,0.584,0,-8.701,1,0.0335,185760,2,Experiment Extended,2019
+5zAZLEN2BiPYJbcnJBybdL,One Night Only,Kane Brown,43,False,0.595,77.996,0.686,0.649,0.164,0,-6.214,0,0.0325,191787,6,Experiment Extended,2019
+4SkYTbhvBotpFZKCspQhN7,My Where I Come From,Kane Brown,41,False,0.872,105.045,0.535,0.574,0.0628,0.000593,-5.733,1,0.0721,182040,8,Experiment Extended,2019
+0gWoC0IaAIiXLjB6BTH3G2,American Bad Dream,Kane Brown,42,False,0.771,140.196,0.609,0.579,0.03,1.63e-06,-5.497,0,0.038,198000,10,Experiment Extended,2019
+0y2Zvt89QMAZ9gEYvB5hpO,Live Forever,Kane Brown,49,False,0.392,106.992,0.347,0.709,0.687,0,-8.186,1,0.0271,186347,4,Experiment Extended,2019
+5KfKPfX5cZvOuHoy9io65A,Lost in the Middle of Nowhere (feat. Becky G),Kane Brown,54,False,0.754,85.993,0.438,0.559,0.00184,0.000462,-5.344,0,0.0481,188920,6,Experiment Extended,2019
+7z3dPHwGxeK4fD6fYFDwiS,Like a Rodeo,Kane Brown,61,False,0.661,119.985,0.425,0.67,0.704,0,-6.798,0,0.0466,201730,3,Experiment Extended,2019
+2moC0T4mGwmP8dUDostr2g,For My Daughter,Kane Brown,57,False,0.561,139.939,0.35,0.537,0.275,5.78e-05,-8.09,1,0.0287,223923,1,Experiment Extended,2019
+4k6hX9RKD096K1NCjjJZLc,Footsteps (feat. Musiq Soulchild),Kehlani,50,False,0.638,88.546,0.478,0.42,0.817,0,-4.212,1,0.209,273349,2,While We Wait,2019
+0aSW5EMeNnQSMJQ8QN3zIW,Too Deep,Kehlani,49,True,0.638,180.216,0.642,0.516,0.614,0,-6.673,0,0.0796,167207,7,While We Wait,2019
+0tkmYNfaEaH9HpR59ApRtE,Nunya (feat. Dom Kennedy),Kehlani,56,True,0.71,97.98,0.574,0.675,0.39,0,-4.027,1,0.21,244688,1,While We Wait,2019
+0kas95RruYRVqrOb07rgkh,Morning Glory,Kehlani,46,False,0.833,172.037,0.653,0.589,0.0158,0,-4.494,0,0.118,179337,0,While We Wait,2019
+4BOikd4oZjOYMde9AXfrTo,Feels,Kehlani,64,True,0.609,80.362,0.381,0.369,0.259,4.1e-05,-4.477,0,0.184,181140,9,While We Wait,2019
+6ZRuF2n1CQxyxxAAWsKJOy,Nights Like This (feat. Ty Dolla $ign),Kehlani,78,True,0.725,146.163,0.291,0.61,0.367,0,-5.131,1,0.15,201788,8,While We Wait,2019
+1EGrDTfEuAiRzRdxlblpET,RPG (feat. 6lack),Kehlani,54,False,0.534,132.94,0.719,0.758,0.402,0,-7.368,0,0.287,236218,7,While We Wait,2019
+32s2Dn9EVvO2f85MrpRoBV,Butterfly,Kehlani,44,False,0.345,79.107,0.701,0.583,0.886,0,-8.044,0,0.0709,163840,5,While We Wait,2019
+4jM3c9KLTO9iZPm9A7neiL,Love Language,Kehlani,51,False,0.586,89.599,0.698,0.582,0.124,0,-4.369,0,0.0838,213365,1,While We Wait,2019
+3kCwyvhvVTyehIzYN2I0nF,Omertà,Drake,59,True,0.899,164.119,0.685,0.646,0.0337,0,-2.232,1,0.298,219507,6,The Best In The World Pack,2019
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),Drake,79,True,0.502,100.541,0.101,0.831,0.101,0,-4.045,0,0.046,205427,10,The Best In The World Pack,2019
+4hPpVbbakQNv8YTHYaOJP4,One Thing Right,Marshmello,74,False,0.625,88.042,0.442,0.659,0.0644,0,-2.253,1,0.045,181824,4,One Thing Right,2019
+7HMmFQsKsljwTw8bS7lu19,Rare,Selena Gomez,65,False,0.545,114.998,0.631,0.838,0.208,8.01e-05,-6.713,1,0.0706,220590,5,Rare,2019
+5sK3o66yupTNIK6gWgzGjf,Dance Again,Selena Gomez,56,False,0.552,111.984,0.465,0.784,0.0447,0,-7.261,0,0.0871,170498,1,Rare,2019
+7eOkHIcaoUhngxxypM5Ajr,Look At Her Now,Selena Gomez,66,False,0.564,77.342,0.55,0.753,0.114,0.0273,-7.908,0,0.252,162596,10,Rare,2019
+4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Selena Gomez,83,False,0.343,102.819,0.0978,0.488,0.556,0,-8.985,1,0.0436,206459,4,Rare,2019
+11Ey4yJVeWEsA73KjACkVY,Ring,Selena Gomez,66,False,0.51,110.953,0.871,0.873,0.565,3.13e-06,-5.35,0,0.0661,148776,3,Rare,2019
+11OwAR3GlBj9E35Cznf7Lj,Vulnerable,Selena Gomez,57,False,0.573,100.031,0.38,0.695,0.132,0.000137,-8.882,1,0.167,192172,10,Rare,2019
+63mdJr3NMY3wReOkNE6c6W,People You Know,Selena Gomez,80,False,0.62,150.032,0.62,0.695,0.0881,5.43e-05,-8.082,0,0.0521,194900,8,Rare,2019
+0uFForNKQPvgSCnxlZIhQy,Let Me Get Me,Selena Gomez,60,False,0.571,121.06,0.475,0.826,0.249,1.66e-05,-9.263,1,0.0426,189145,2,Rare,2019
+2C0hTkdEoikhKzDCJl32QZ,Crowded Room (feat. 6LACK),Selena Gomez,56,False,0.415,89.999,0.328,0.724,0.764,2.51e-06,-8.408,0,0.0518,186459,7,Rare,2019
+59iGOjPSOcPLGl3vqEStUp,Kinda Crazy,Selena Gomez,51,False,0.446,93.03,0.534,0.691,0.484,0.00495,-10.304,0,0.0472,212436,11,Rare,2019
+64kfyGcf5dvbw92Vv4THCj,Fun,Selena Gomez,48,False,0.419,113.866,0.523,0.863,0.076,4.92e-05,-10.144,0,0.437,189382,11,Rare,2019
+4OtHGdb0KqEbaWb6edUnR9,Cut You Off,Selena Gomez,52,True,0.294,139.745,0.842,0.855,0.3,9.22e-05,-8.676,1,0.286,182017,5,Rare,2019
+4bb94wZVF1cX66vQjNeJTX,A Sweeter Place (feat. Kid Cudi),Selena Gomez,52,False,0.777,190.054,0.31,0.583,0.109,0.000509,-6.991,0,0.185,263306,10,Rare,2019
+27nfFMeFGspBX6dJQes8ay,Intro,Flipp Dinero,31,True,0.615,86.038,0.612,0.829,0.0245,0,-8.633,0,0.364,166418,8,LOVE FOR GUALA,2019
+14X1WxiHXdVRJ99cMCBzOE,How I Move (feat. Lil Baby),Flipp Dinero,62,True,0.635,119.954,0.808,0.826,0.102,0,-5.181,0,0.212,224916,5,LOVE FOR GUALA,2019
+2hCDk75YvOLcNlrdlRtzRO,Fritolays (feat. Jay Critch),Flipp Dinero,36,True,0.538,122.98,0.588,0.948,0.0212,0,-7.527,0,0.408,229122,10,LOVE FOR GUALA,2019
+2xi3mhJdVs358bQgqpHt9f,Looking At Me (feat. Rich The Kid),Flipp Dinero,46,True,0.612,95.982,0.443,0.78,0.0566,0,-4.469,0,0.268,207517,11,LOVE FOR GUALA,2019
+5siRJCkDV0Nm1kEjt4Ku9q,If I Tell You,Flipp Dinero,41,True,0.867,161.966,0.414,0.711,0.152,0,-1.981,0,0.32,214564,11,LOVE FOR GUALA,2019
+44YBUTLrK4AxYKecybC2Vl,Shawty Do You,Flipp Dinero,29,True,0.677,82.51,0.466,0.772,0.0082,0,-6.109,0,0.0437,193081,10,LOVE FOR GUALA,2019
+2VMn1viGn2C7Lq4ksPucE0,Take A Lil' Time,Flipp Dinero,30,True,0.426,95.528,0.077,0.859,0.466,0,-5.913,0,0.297,179971,5,LOVE FOR GUALA,2019
+6lU7MhNXxqqAMH2pa9MJDX,Not Too Many,Flipp Dinero,29,True,0.659,130.027,0.64,0.906,0.00454,0,-5.801,1,0.297,176784,9,LOVE FOR GUALA,2019
+7tvb6TUeR2wAcBLuZVTkgw,Westside,Flipp Dinero,46,True,0.707,179.971,0.45,0.812,0.0571,0,-5.014,0,0.394,224023,8,LOVE FOR GUALA,2019
+1rU1OYNaz6h4BXKP0UB2A2,Hills,Flipp Dinero,29,True,0.497,121.999,0.517,0.846,0.0509,0,-7.27,1,0.376,157474,1,LOVE FOR GUALA,2019
+3EjB4jZDohTYbVjfiXd4gq,Perry,Flipp Dinero,27,True,0.718,160.088,0.367,0.791,0.0845,8.86e-06,-7.589,0,0.149,167239,10,LOVE FOR GUALA,2019
+6V7g6qM8wheMivMWrzbPTM,Leave Me Alone,Flipp Dinero,72,True,0.743,150.024,0.742,0.792,0.107,0,-2.806,1,0.0851,195637,7,LOVE FOR GUALA,2019

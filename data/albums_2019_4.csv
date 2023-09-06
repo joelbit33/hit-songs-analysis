@@ -1,0 +1,101 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+77dMSg2VHi2wwXjXNrmcrZ,Nena Maldición (feat. Lenny Tavárez),Paulo Londra,78,False,0.531,118.96,0.367,0.566,0.192,0,-6.635,1,0.0716,227518,6,Homerun,2019
+4DDrWnqgD1IdMvbpJXdoO9,Dímelo,Paulo Londra,62,False,0.652,135.015,0.442,0.847,0.0752,0,-6.79,1,0.224,212516,2,Homerun,2019
+3krzcyMKlRXjVkJFZqMN4t,Chica Paranormal,Paulo Londra,73,False,0.61,139.948,0.699,0.86,0.0605,0,-5.93,0,0.0819,221084,6,Homerun,2019
+5Kr3a1wbMDSxdgDZzJhxhy,Sigan Hablando de Mi,Paulo Londra,57,False,0.535,94.956,0.397,0.884,0.0778,6.3e-06,-5.064,1,0.112,160875,7,Homerun,2019
+3jRl9iaoq6BmkkDbFmndpi,Hyperion,Gesaffelstein,30,False,0.877,129.214,0.0764,0.636,0.0812,0.9,-12.505,1,0.0397,173080,1,Hyperion,2019
+3mKuX3jnciGRXRHrV6O3rJ,Reset,Gesaffelstein,34,False,0.418,94.5,0.241,0.735,0.0577,0.222,-13.27,1,0.296,205440,7,Hyperion,2019
+2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Gesaffelstein,85,True,0.671,100.966,0.166,0.658,0.0933,0.000927,-12.21,1,0.0363,202093,2,Hyperion,2019
+3tw38CkaOgncThUwXO80NO,Ever Now,Gesaffelstein,52,False,0.373,107.995,0.0372,0.658,0.197,0.89,-12.473,1,0.0399,98067,1,Hyperion,2019
+5H0kIgpWNZm9HF6VkU4dow,Blast Off (feat. Pharrell Williams),Gesaffelstein,42,False,0.498,99.978,0.138,0.628,0.241,0.027,-12.803,1,0.0522,235200,6,Hyperion,2019
+2qre5YuCk0fuKw0Z60E28W,So Bad (feat. HAIM),Gesaffelstein,43,False,0.348,91.975,0.0315,0.264,0.106,0.213,-16.3,0,0.0637,216560,5,Hyperion,2019
+61aw1V0KLPD4XIjqNsGqo9,Forever (feat. The Hacker & Electric Youth),Gesaffelstein,42,False,0.426,117.985,0.139,0.652,0.00453,0.033,-12.596,0,0.0309,271733,9,Hyperion,2019
+0qtEDu0RYKlSN13TS0c0Uk,Vortex,Gesaffelstein,32,False,0.715,184.014,0.448,0.663,0.0971,0.945,-12.426,1,0.123,157373,1,Hyperion,2019
+2PAwc7JR6ASO6BFuT5jMJE,Memora,Gesaffelstein,35,False,0.494,99.045,0.0393,0.624,0.199,0.808,-12.832,0,0.0321,217107,11,Hyperion,2019
+3pbjoXy4W5Tnh9KVRfSalE,Humanity Gone,Gesaffelstein,34,False,0.306,84.127,0.037,0.131,0.0706,0.762,-15.049,0,0.0357,642187,4,Hyperion,2019
+51RN0kzWd7xeR4th5HsEtW,IGOR'S THEME,"Tyler, The Creator",69,False,0.672,163.1,0.0648,0.467,0.00559,0.243,-7.371,0,0.377,200693,10,IGOR,2019
+5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",82,True,0.498,79.635,0.413,0.554,0.23,5.98e-06,-8.866,1,0.0685,190067,9,IGOR,2019
+4f8Mh5wuWHOsfXtzjrJB3t,I THINK,"Tyler, The Creator",74,True,0.579,121.075,0.431,0.826,0.00881,0,-8.241,0,0.0801,212013,8,IGOR,2019
+5e4LIAQI0bClLazNf2gZV0,EXACTLY WHAT YOU RUN FROM YOU END UP CHASING,"Tyler, The Creator",9,False,0.478,0,0,0,0.927,0,-16.569,0,0,14627,11,IGOR,2019
+5QvBXUm5MglLJ3iBfTX2Wo,RUNNING OUT OF TIME,"Tyler, The Creator",76,True,0.391,84.281,0.162,0.36,0.296,0.000406,-10.6,1,0.0528,177227,6,IGOR,2019
+0fv2KH6hac06J86hBUTcSf,NEW MAGIC WAND,"Tyler, The Creator",83,True,0.73,139.566,0.464,0.621,0.0967,0.000131,-5.414,0,0.107,195320,5,IGOR,2019
+1nXZnTALNXiPlvXotqHm66,A BOY IS A GUN*,"Tyler, The Creator",72,True,0.689,79.568,0.505,0.417,0.575,0,-8.302,0,0.178,210253,2,IGOR,2019
+0wEC0GNF74lAqrEFZJMl1m,PUPPET,"Tyler, The Creator",69,True,0.557,77.572,0.199,0.508,0.00235,0.0134,-8.967,0,0.0478,179013,8,IGOR,2019
+6bOkaEXc5CopinGazSLokx,WHAT'S GOOD,"Tyler, The Creator",67,True,0.909,118.227,0.449,0.458,0.0567,4.26e-06,-6.553,1,0.487,205627,1,IGOR,2019
+1hz7SRTGUNAtIQ46qiNv2p,"GONE, GONE / THANK YOU","Tyler, The Creator",78,True,0.492,78.848,0.471,0.518,0.216,0.0012,-8.436,0,0.193,375387,10,IGOR,2019
+5A0M6B0RBSXSNWv0wcppZ9,I DON'T LOVE YOU ANYMORE,"Tyler, The Creator",67,True,0.522,142.952,0.584,0.638,0.352,0.0663,-9.814,1,0.0932,161200,8,IGOR,2019
+5TxRUOsGeWeRl3xOML59Ai,ARE WE STILL FRIENDS?,"Tyler, The Creator",82,True,0.497,187.308,0.313,0.216,0.128,2.39e-06,-8.025,1,0.0371,265480,10,IGOR,2019
+62zOmWi2NvlzQNWP55PPrt,Magnets (feat. Sophie Simmons),Sam Feldt,23,True,0.802,121.991,0.434,0.731,0.022,0,-4.763,1,0.0623,179016,5,Magnets EP,2019
+1hZxdv0GKiyH1MzdQWskLY,Hide & Seek (feat. Joe Housley),Sam Feldt,18,False,0.475,119.984,0.685,0.823,0.319,0,-7.582,0,0.0979,163250,1,Magnets EP,2019
+6ZT3p9zaO17gyTW6T5UTDW,Lose My Colours (feat. Sam Martin),Sam Feldt,27,False,0.851,107.994,0.194,0.574,0.0209,0,-4.748,1,0.036,210000,5,Magnets EP,2019
+3l1dBDNdlmA6X4q8j7B3t8,One Day (feat. ROZES),Sam Feldt,21,False,0.858,122.082,0.332,0.668,0.181,0,-4.048,1,0.0431,147541,8,Magnets EP,2019
+0qc4QlcCxVTGyShurEv1UU,Post Malone (feat. RANI),Sam Feldt,68,False,0.642,107.356,0.651,0.59,0.0771,0,-3.87,1,0.122,174444,7,Magnets EP,2019
+1KixkQVDUHggZMU9dUobgm,My Head & My Heart,Ava Max,79,False,0.934,116.001,0.436,0.614,0.0697,0,-3.709,0,0.07,174760,9,Heaven & Hell,2019
+2Gz6CxFe1GGiRRb8zFJHRv,H.E.A.V.E.N,Ava Max,48,False,0.643,119.971,0.621,0.592,0.296,0.0801,-6.928,0,0.0505,106184,9,Heaven & Hell,2019
+7a53HqqArd4b9NF4XAmlbI,Kings & Queens,Ava Max,82,False,0.69,129.857,0.457,0.637,0.00786,0,-4.057,0,0.0405,162399,1,Heaven & Hell,2019
+4gPUnZW8IT1mmF9aj9NLF7,Naked,Ava Max,52,False,0.641,111.955,0.695,0.683,0.0582,0,-4.092,0,0.0329,222094,3,Heaven & Hell,2019
+57jayqtClHRLIQ3mAFjvgZ,Tattoo,Ava Max,50,False,0.637,114.994,0.793,0.64,0.129,0,-5.228,1,0.0322,159460,6,Heaven & Hell,2019
+11OPriDpmUrTMTji52ta17,OMG What's Happening,Ava Max,58,False,0.854,124.042,0.931,0.698,0.101,0,-3.84,0,0.0451,179832,9,Heaven & Hell,2019
+3p866VcBbuggDPXJLuc9hr,Call Me Tonight,Ava Max,51,False,0.699,115.0,0.865,0.775,0.109,0,-4.273,0,0.0421,170952,3,Heaven & Hell,2019
+1iatZzgryaJh79PNFq2bi8,Born to the Night,Ava Max,49,False,0.698,139.985,0.406,0.59,0.0352,0,-5.891,1,0.0372,199331,9,Heaven & Hell,2019
+6SpVp6ttad3XJOsjKBZwaq,Torn,Ava Max,63,False,0.831,125.057,0.696,0.665,0.111,1.53e-06,-4.472,0,0.0437,198006,2,Heaven & Hell,2019
+0TxOB9JSgYXjPVR6uWAyfM,Take You To Hell,Ava Max,63,False,0.682,173.926,0.503,0.501,0.135,0,-4.664,0,0.0684,164537,0,Heaven & Hell,2019
+1Pmp486RrLRkaEkE3HFHXP,Who's Laughing Now,Ava Max,67,False,0.641,184.021,0.505,0.648,0.00565,3.63e-06,-5.521,1,0.0389,180348,7,Heaven & Hell,2019
+0UW7mAWldtWsfVrlFWYYWh,Belladonna,Ava Max,53,False,0.683,136.992,0.255,0.516,0.0383,5.57e-05,-4.849,0,0.0366,203429,1,Heaven & Hell,2019
+6O11gHhPCFNEFkEZYf3ilw,Rumors,Ava Max,49,False,0.738,96.81,0.466,0.537,0.0538,0,-5.557,1,0.038,192398,1,Heaven & Hell,2019
+2Xnv3GntqbBH1juvUYSpHG,So Am I,Ava Max,73,False,0.657,130.089,0.628,0.681,0.0748,0,-4.671,1,0.0432,183027,6,Heaven & Hell,2019
+5iyZwawawLjHYpX4MxUKVF,Salt,Ava Max,71,False,0.835,128.052,0.744,0.693,0.131,0,-3.242,1,0.0624,180283,6,Heaven & Hell,2019
+7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Ava Max,82,False,0.706,133.002,0.62,0.72,0.0684,0,-4.719,1,0.0473,187436,1,Heaven & Hell,2019
+5BfMJ6iytQnu1r7iiCYSXe,Intro,Khalid,51,False,0.414,79.556,0.0553,0.213,0.308,0.0257,-9.725,1,0.0339,213253,0,Free Spirit,2019
+2vsuel3g4zaLYSOY0mOMbi,Bad Luck,Khalid,57,False,0.52,164.047,0.303,0.432,0.277,0.371,-5.515,0,0.0548,231653,1,Free Spirit,2019
+2XKFnwB6djxrJCjR3PdeRb,My Bad,Khalid,59,False,0.578,84.963,0.367,0.577,0.547,0.59,-9.146,0,0.0907,163973,0,Free Spirit,2019
+339Y993TrFyWyO438be0RY,Better,Khalid,61,True,0.552,98.028,0.15,0.692,0.0503,0.165,-9.543,0,0.0497,229400,0,Free Spirit,2019
+6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Khalid,73,False,0.4,135.984,0.346,0.9,0.0516,0,-8.575,1,0.127,197573,0,Free Spirit,2019
+5A1w94uzc1kO1Zhe8WWxC3,Right Back,Khalid,60,False,0.427,97.03,0.603,0.788,0.0659,3.63e-05,-9.918,0,0.308,215227,5,Free Spirit,2019
+1E6DEDWDKHoOW0fcFuDghV,Don't Pretend,Khalid,58,False,0.551,89.0,0.219,0.697,0.258,0.00551,-8.833,1,0.0815,165840,11,Free Spirit,2019
+6fOOKqQWcSy33ApU1wqkkW,Paradise,Khalid,54,False,0.452,75.046,0.523,0.581,0.206,0.00329,-9.558,1,0.15,173653,11,Free Spirit,2019
+0HEckRWFSknIupbGzavk5d,Hundred,Khalid,56,True,0.483,120.005,0.479,0.772,0.0521,0.000375,-10.06,0,0.0564,277080,6,Free Spirit,2019
+09oZ9eXQ2fo6YDrPzJqAoP,Outta My Head (with John Mayer),Khalid,68,False,0.545,103.012,0.514,0.729,0.0174,0.000274,-7.818,1,0.0316,177067,0,Free Spirit,2019
+2kAIpGWnlFLQh48iut6Zzq,Free Spirit,Khalid,62,False,0.446,139.994,0.11,0.627,0.308,0.00077,-9.477,0,0.0332,182080,2,Free Spirit,2019
+1NgCWYuBLfqBDA3b8MgSVU,Twenty One,Khalid,55,False,0.445,109.981,0.405,0.776,0.212,0.00409,-8.574,1,0.0371,184200,9,Free Spirit,2019
+42w7pX3r1TpLR0i55Ek5ND,Bluffin',Khalid,50,False,0.314,129.666,0.288,0.529,0.354,0.000436,-10.323,1,0.0461,199240,0,Free Spirit,2019
+1WqLtczgKdbHFHhefOU0y7,Self,Khalid,52,False,0.693,143.98,0.439,0.618,0.44,0.759,-7.889,0,0.333,229960,1,Free Spirit,2019
+12VqHHz4wvVcnEdSivjLeQ,Alive,Khalid,53,False,0.406,78.616,0.205,0.386,0.832,0.0597,-10.419,1,0.0425,177413,11,Free Spirit,2019
+0Hgqglypzt6Qs5Duqskcqs,Heaven,Khalid,50,False,0.479,116.989,0.11,0.42,0.613,0.663,-8.881,1,0.0374,213027,8,Free Spirit,2019
+1fHRzxbts9A8J1ergDe7Kz,Saturday Nights,Khalid,59,False,0.37,83.162,0.354,0.574,0.634,9.4e-05,-10.803,1,0.0841,211627,10,Free Spirit,2019
+5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,81,False,0.86,93.989,0.656,0.737,0.11,1.94e-06,-2.652,0,0.0593,193227,8,Con Calma,2019
+2t8yVaLvJ0RenpXUIAC52d,a lot,21 Savage,82,True,0.636,145.972,0.274,0.837,0.0395,0.00125,-7.643,1,0.086,288624,1,i am > i was,2019
+5ZSIExfQuVv69tw5Qw3yDl,break da law,21 Savage,58,True,0.575,141.037,0.359,0.904,0.0493,0,-7.823,1,0.346,177748,1,i am > i was,2019
+6ho88pvz4c8WCSFbdVXNia,a&t,21 Savage,54,True,0.567,146.976,0.827,0.924,0.00169,0,-5.009,1,0.0961,211588,5,i am > i was,2019
+0ZKKJTv21zJpNrKiL0LYyV,out for the night,21 Savage,59,True,0.695,173.368,0.408,0.841,0.001,4.26e-05,-5.625,1,0.415,137232,9,i am > i was,2019
+4f1XXGjZZ9EkFkrbPJek6X,gun smoke,21 Savage,58,True,0.461,85.992,0.325,0.809,0.000832,4.43e-05,-5.677,0,0.0907,167410,10,i am > i was,2019
+2wOXxtHZgRkkrkEbKLzzqs,1.5,21 Savage,63,True,0.52,84.022,0.306,0.885,0.000244,1.16e-06,-8.353,1,0.359,148656,1,i am > i was,2019
+4paAidoE8VAemwU4jgCc6l,all my friends,21 Savage,62,True,0.62,130.09,0.206,0.713,0.171,1.16e-06,-4.513,1,0.0422,211785,0,i am > i was,2019
+0hPLZrnDgtKxrym1BHjDhd,can't leave without it,21 Savage,75,True,0.591,131.982,0.696,0.872,0.111,0,-6.952,0,0.359,205352,6,i am > i was,2019
+2QgfDF0fQ4sskDthP8MG5w,asmr,21 Savage,63,True,0.543,170.067,0.161,0.84,0.0399,0,-7.738,1,0.476,171714,1,i am > i was,2019
+50a8bKqlwDEqeiEknrzkTO,ball w/o you,21 Savage,83,True,0.633,137.994,0.459,0.892,0.0467,0.000189,-7.471,1,0.0902,195047,8,i am > i was,2019
+2LqoYvMudv9xoTqNLFKILj,good day,21 Savage,49,True,0.519,122.195,0.119,0.966,0.00359,0,-5.682,1,0.306,242448,1,i am > i was,2019
+5stbfxsPi8gcOH2LCuA4Le,pad lock,21 Savage,68,True,0.55,130.024,0.798,0.959,0.0187,0,-8.012,0,0.197,191360,5,i am > i was,2019
+2FUNBaa5DwItJtYEBgAblU,monster,21 Savage,61,True,0.607,134.022,0.224,0.89,0.158,0.000228,-6.916,0,0.124,233040,9,i am > i was,2019
+55xNjVrGJxgqcEFqCyejTM,letter 2 my momma,21 Savage,54,True,0.608,80.225,0.963,0.864,0.0531,1.2e-05,-10.567,0,0.275,194810,1,i am > i was,2019
+1uULQtJ8rbsX5TwjPpPc9Q,4L,21 Savage,60,True,0.41,80.011,0.0703,0.879,0.000897,2.09e-05,-9.233,1,0.551,288364,8,i am > i was,2019
+3BDxv4ORzOpXAsa4lWVl4i,(Fuck A) Silver Lining,Panic! At The Disco,54,True,0.939,105.092,0.714,0.577,0.0272,0,-1.352,0,0.108,168613,1,Pray for the Wicked,2019
+76vMKwFtdDDCLcM6zXybjB,Say Amen (Saturday Night),Panic! At The Disco,65,False,0.867,167.965,0.602,0.491,0.167,0,-2.313,0,0.103,189187,6,Pray for the Wicked,2019
+22oEJW6r2rMb9z4IntfyEa,"Hey Look Ma, I Made It",Panic! At The Disco,70,False,0.833,107.936,0.58,0.577,0.0137,0,-3.337,1,0.0695,169667,5,Pray for the Wicked,2019
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,83,False,0.904,82.014,0.681,0.579,0.193,0,-2.729,1,0.0618,190947,5,Pray for the Wicked,2019
+0wdV94AXGRphrbkDWLNzVC,Roaring 20s,Panic! At The Disco,60,False,0.948,83.19,0.515,0.271,0.0467,0,-2.207,1,0.263,186600,1,Pray for the Wicked,2019
+6PFoEnjp0PAe5siGswjH9i,Dancing's Not a Crime,Panic! At The Disco,54,False,0.891,94.095,0.804,0.526,0.0375,0,-1.549,1,0.0482,219467,6,Pray for the Wicked,2019
+5trCWbYtza0QUxdmF9HAPX,One of the Drunks,Panic! At The Disco,54,True,0.892,174.008,0.762,0.424,0.0426,0,-3.78,0,0.193,198947,8,Pray for the Wicked,2019
+4hUR3thIs01mQUtVmZFJ8F,The Overpass,Panic! At The Disco,51,False,0.955,132.951,0.61,0.517,0.0224,0,-1.848,0,0.167,177800,10,Pray for the Wicked,2019
+50Hv5NZIM0puIUoBttjpfb,King of the Clouds,Panic! At The Disco,58,False,0.922,198.063,0.472,0.285,0.237,0,-1.932,0,0.247,160747,2,Pray for the Wicked,2019
+18ULKfQl3KpCnklAKFfO2t,Old Fashioned,Panic! At The Disco,52,False,0.878,168.033,0.783,0.52,0.0133,0,-1.768,0,0.0616,166733,6,Pray for the Wicked,2019
+18xmRkPWE0sGUzFyNNAAhN,Dying in LA,Panic! At The Disco,56,False,0.35,126.444,0.315,0.346,0.876,1.98e-06,-4.988,1,0.0328,229053,2,Pray for the Wicked,2019
+2TH65lNHgvLxCKXM3apjxI,Callaita,Bad Bunny,78,True,0.624,176.169,0.244,0.61,0.6,2.12e-06,-4.773,1,0.309,250534,2,Callaita,2019
+6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,72,False,0.682,110.567,0.345,0.477,0.153,0,-4.931,0,0.0925,202205,1,How Do You Sleep?,2019
+44ZJ4hLD5onikKsVLQaILr,Vossi Bop,Stormzy,63,True,0.653,188.115,0.428,0.682,0.13,0.00116,-6.062,1,0.339,196267,8,Vossi Bop,2019
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,90,False,0.296,115.284,0.12,0.351,0.934,0,-10.109,0,0.0333,200186,4,lovely (with Khalid),2019
+3pOSvuKA8pmBG7Ar9Y5OnK,Drugs & The Internet,Lauv,56,True,0.551,88.794,0.243,0.466,0.361,9.32e-05,-7.043,1,0.131,178560,2,~how i'm feeling~,2019
+2RNsweBBb1a6tAHXQtt2xH,"fuck, i'm lonely",Lauv,69,True,0.547,94.992,0.718,0.809,0.452,0,-7.305,1,0.0614,198973,9,~how i'm feeling~,2019
+0r4l1Eco6JEbeexC8dEawI,Lonely Eyes,Lauv,57,False,0.503,95.013,0.385,0.586,0.0403,0,-7.002,1,0.0268,196493,2,~how i'm feeling~,2019
+73r3kYaMRJT3nZpsw6xclU,Sims,Lauv,46,True,0.373,99.217,0.502,0.575,0.556,0,-9.139,1,0.393,155080,2,~how i'm feeling~,2019
+0Jw7m6p1qyz0VsvjpguMzu,Believed,Lauv,47,True,0.518,149.962,0.49,0.796,0.0766,0,-8.09,0,0.0516,169760,11,~how i'm feeling~,2019

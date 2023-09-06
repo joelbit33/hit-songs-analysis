@@ -1,0 +1,101 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+2XU5287vVqMNdeouc9kn1i,Come Over,Mabel,28,True,0.607,153.925,0.623,0.724,0.0383,1.42e-06,-6.381,0,0.0411,252840,5,Ivy To Roses (Mixtape),2019
+4oigXpK1310jmYkUyLh5Gu,Begging,Mabel,31,False,0.656,94.448,0.358,0.422,0.0342,0,-5.059,0,0.189,197480,2,Ivy To Roses (Mixtape),2019
+7KIqSSebfTCniRi6kBQkxL,Low Key,Mabel,32,False,0.693,96.041,0.705,0.754,0.0307,1.93e-06,-5.083,1,0.0933,226987,0,Ivy To Roses (Mixtape),2019
+2HBn3oRiQFP5Bmpz9GyOaL,Passionfruit,Mabel,40,False,0.409,109.992,0.269,0.606,0.475,0.000622,-6.678,0,0.158,180227,8,Ivy To Roses (Mixtape),2019
+47SqclXuJCA1LTNPznk0yf,Roses,Mabel,28,True,0.512,86.638,0.332,0.524,0.383,0,-7.15,0,0.178,228987,4,Ivy To Roses (Mixtape),2019
+6bqY5p8LZjuQxWRjMviOxu,Weapon,Mabel,27,True,0.484,137.881,0.239,0.63,0.0846,0,-7.606,0,0.107,181640,1,Ivy To Roses (Mixtape),2019
+2hbMLNr8C555alIZPBNMiO,Finders Keepers - Remix,Mabel,37,False,0.683,107.937,0.564,0.77,0.0832,0,-5.652,0,0.162,268293,4,Ivy To Roses (Mixtape),2019
+3iYNJX4FTRGlfMQySjlGNr,Future Nostalgia,Dua Lipa,61,False,0.813,114.993,0.859,0.875,0.00618,0,-4.502,1,0.0579,184882,7,Future Nostalgia (The Moonlight Edition),2019
+2FlcxnvybdwpaMmMhaRtSN,Don't Start Now,Dua Lipa,71,False,0.793,123.95,0.679,0.793,0.0123,0,-4.521,0,0.083,183290,11,Future Nostalgia (The Moonlight Edition),2019
+4Ulqu89XempybuL8ApUeqL,Cool,Dua Lipa,62,False,0.785,89.719,0.79,0.469,0.133,1.55e-06,-4.015,0,0.0664,209583,5,Future Nostalgia (The Moonlight Edition),2019
+5UncbfPKpWlxsWWyhmM87l,Physical,Dua Lipa,69,False,0.844,146.967,0.746,0.647,0.0137,0.000658,-3.756,1,0.0457,193829,0,Future Nostalgia (The Moonlight Edition),2019
+41z2bSbbtJ9wiIee4RXdi5,Levitating,Dua Lipa,60,False,0.884,103.014,0.914,0.695,0.0561,0,-2.278,0,0.0753,203808,6,Future Nostalgia (The Moonlight Edition),2019
+6boViHmG6c8ubzxTvcMoJY,Pretty Please,Dua Lipa,64,False,0.474,106.976,0.656,0.906,0.0311,5.5e-06,-6.124,1,0.194,194607,1,Future Nostalgia (The Moonlight Edition),2019
+6pbKWWP8WwTaP5TbSq1vCA,Hallucinate,Dua Lipa,66,False,0.69,122.053,0.627,0.627,0.033,0,-5.396,0,0.139,208505,10,Future Nostalgia (The Moonlight Edition),2019
+5CSKbHjpqborGnlzagyaDo,Love Again,Dua Lipa,70,False,0.667,115.982,0.468,0.659,0.00173,2.85e-05,-4.668,0,0.0339,258004,11,Future Nostalgia (The Moonlight Edition),2019
+4PULMUg3AwudcRCzvVmgXT,Break My Heart,Dua Lipa,67,False,0.729,113.011,0.467,0.73,0.167,1.39e-06,-3.434,0,0.0884,221820,4,Future Nostalgia (The Moonlight Edition),2019
+3pyodt4pb554dMz8fCv7oi,Good In Bed,Dua Lipa,61,True,0.701,94.06,0.649,0.68,0.138,0.000191,-5.001,1,0.0917,218754,5,Future Nostalgia (The Moonlight Edition),2019
+4szI7zRh7kLApCSqiB6R7b,Boys Will Be Boys,Dua Lipa,60,False,0.486,125.021,0.519,0.768,0.408,0,-5.954,1,0.0353,166266,3,Future Nostalgia (The Moonlight Edition),2019
+5tFAwDNw4K6KYKCWtta7pe,Fever,Dua Lipa,63,False,0.693,114.999,0.396,0.868,0.0597,0.00399,-7.052,0,0.181,156911,6,Future Nostalgia (The Moonlight Edition),2019
+1diS6nkxMQc3wwC4G1j0bh,We're Good,Dua Lipa,76,False,0.588,134.01,0.59,0.722,0.0319,0,-5.932,1,0.0544,165507,6,Future Nostalgia (The Moonlight Edition),2019
+1V4uMdCH6aDZire0vVqnXW,Prisoner (feat. Dua Lipa),Miley Cyrus,64,False,0.659,127.992,0.586,0.769,0.0109,0,-3.899,0,0.0442,169338,3,Future Nostalgia (The Moonlight Edition),2019
+1IdDtg7GhWfHYEWDymq3d2,If It Ain’t Me,Dua Lipa,65,False,0.623,114.986,0.57,0.809,0.0185,8.77e-05,-6.254,1,0.145,195352,5,Future Nostalgia (The Moonlight Edition),2019
+4FuZofNMHdtsEdrsqwF3xR,That Kind Of Woman,Dua Lipa,61,False,0.665,113.213,0.42,0.64,0.0045,0,-4.966,0,0.0325,200108,11,Future Nostalgia (The Moonlight Edition),2019
+69GVTnxGmUlF2ymLPL2CEp,Not My Problem (feat. JID),Dua Lipa,52,True,0.732,107.926,0.802,0.695,0.442,0,-3.308,1,0.317,143176,0,Future Nostalgia (The Moonlight Edition),2019
+0v2boHmWtxMTD2REGN8MbK,Levitating (feat. DaBaby),Dua Lipa,70,False,0.825,102.977,0.915,0.702,0.00883,0,-3.787,0,0.0601,203064,6,Future Nostalgia (The Moonlight Edition),2019
+2GPCE96x9Go6acdDt8ex6p,Un Día (One Day),J Balvin,62,False,0.634,168.136,0.432,0.572,0.00547,0,-10.599,0,0.0617,231815,6,Future Nostalgia (The Moonlight Edition),2019
+32IAhtEd25UwNFwtHOW2UV,Temporary Insanity,Blanco Brown,20,False,0.321,77.459,0.462,0.731,0.484,1.15e-06,-11.465,1,0.0428,242765,10,Honeysuckle & Lightning Bugs,2019
+6LnAssAUVOl9QHO037ToUt,HeadNod,Blanco Brown,22,False,0.508,106.934,0.268,0.726,0.0611,6.74e-05,-10.475,1,0.0387,164976,11,Honeysuckle & Lightning Bugs,2019
+2FLgJgGDkrccqfq5dS9l3e,Funky Tonk,Blanco Brown,27,False,0.623,140.035,0.715,0.711,0.0338,0.0254,-8.709,1,0.0399,182248,11,Honeysuckle & Lightning Bugs,2019
+0gQ9cOgxi9onXQUzdubuux,CountryTime,Blanco Brown,22,False,0.559,163.861,0.222,0.581,0.0642,6.64e-05,-7.974,1,0.0635,240165,2,Honeysuckle & Lightning Bugs,2019
+240Jj5bFCXbTAQnsKoqt4e,Georgia Power,Blanco Brown,37,False,0.586,140.075,0.412,0.749,0.372,0,-9.43,1,0.138,223381,1,Honeysuckle & Lightning Bugs,2019
+3y9oK8zbeGWOeghKXDErY3,Gemini (Damn Right),Blanco Brown,17,False,0.537,114.969,0.374,0.722,0.00977,0.00413,-7.621,1,0.0356,201668,1,Honeysuckle & Lightning Bugs,2019
+5YYPcci5m0FNGKibm8nGMM,Ghett Ol Memories,Blanco Brown,33,False,0.506,79.977,0.344,0.624,0.246,2.71e-06,-9.527,1,0.0424,160232,2,Honeysuckle & Lightning Bugs,2019
+0TTPI9VQjcGLENmMXZckKI,Don't Love Her,Blanco Brown,17,False,0.536,160.999,0.489,0.654,0.564,1.14e-05,-10.197,1,0.134,171823,4,Honeysuckle & Lightning Bugs,2019
+4CAqpZPTTkEeoX4Q3gz9HM,Tn Whiskey,Blanco Brown,35,False,0.458,137.876,0.429,0.669,0.539,1.25e-05,-9.949,1,0.0281,198256,7,Honeysuckle & Lightning Bugs,2019
+2KKijf6Ett4kmVNJze2roh,The Git Up,Blanco Brown,71,False,0.678,97.984,0.811,0.847,0.0669,0,-8.635,1,0.109,200594,9,Honeysuckle & Lightning Bugs,2019
+22vgEDb5hykfaTwLuskFGD,Sucker,Jonas Brothers,83,False,0.734,137.958,0.952,0.842,0.0427,0,-5.065,0,0.0588,181027,1,Happiness Begins,2019
+7yfi8B8opXjnRh4VZnOkz9,Cool,Jonas Brothers,66,False,0.598,78.969,0.62,0.683,0.00873,0,-5.487,1,0.0423,167107,0,Happiness Begins,2019
+0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,74,False,0.496,94.01,0.874,0.795,0.108,0,-5.883,1,0.0722,183000,0,Happiness Begins,2019
+1vYh9x8UmFTLbXiizk9Qc5,I Believe,Jonas Brothers,67,False,0.774,99.019,0.35,0.749,0.0857,1.14e-05,-6.221,1,0.12,217533,9,Happiness Begins,2019
+2n6red10oCd6YhlEUp6jXy,Used To Be,Jonas Brothers,56,False,0.517,145.946,0.176,0.71,0.172,0,-6.85,1,0.0448,184987,1,Happiness Begins,2019
+76F54HHrw84yqAYqrAJkbr,Every Single Time,Jonas Brothers,55,False,0.685,151.988,0.91,0.756,0.135,0,-5.176,0,0.0446,212093,11,Happiness Begins,2019
+24eP9hGnGR6RCQvllQVkCm,Don't Throw it Away,Jonas Brothers,56,False,0.858,102.02,0.732,0.731,0.0245,0,-5.082,0,0.0981,172560,1,Happiness Begins,2019
+2hgk8iKN9UdoM4ILlJ9F5N,Love Her,Jonas Brothers,60,False,0.337,103.002,0.56,0.74,0.178,0,-6.039,1,0.0282,193133,8,Happiness Begins,2019
+6DibqiBTKMob2SjBwKqRfS,Happy When I'm Sad,Jonas Brothers,53,False,0.793,100.987,0.906,0.782,0.000199,0.000215,-7.054,1,0.0399,158467,7,Happiness Begins,2019
+5MoU7TaAvgBa8W0XVwXAd7,Trust,Jonas Brothers,53,False,0.559,146.041,0.671,0.806,0.0248,1.63e-05,-6.329,1,0.0588,180600,0,Happiness Begins,2019
+5md87aD3pGXRghKUbZdyh8,Strangers,Jonas Brothers,57,False,0.842,129.986,0.573,0.594,0.0312,0,-4.892,1,0.072,233853,1,Happiness Begins,2019
+7fiFJADUcHwTdYLmnZeLAy,Hesitate,Jonas Brothers,59,False,0.485,118.051,0.236,0.622,0.227,0,-7.259,1,0.0322,208840,2,Happiness Begins,2019
+7dxKdQC9Vo1hDxIUnt1z0Q,Rollercoaster,Jonas Brothers,63,False,0.58,123.977,0.467,0.697,0.0583,0,-7.986,0,0.0451,181813,11,Happiness Begins,2019
+064tgRK6FYBwikCdxaHFV1,Comeback,Jonas Brothers,56,False,0.553,145.009,0.185,0.55,0.0913,0,-7.34,1,0.0403,155680,0,Happiness Begins,2019
+70eFcWOvlMObDhURTqT4Fv,Beautiful People (feat. Khalid),Ed Sheeran,76,False,0.647,92.979,0.546,0.64,0.124,0,-8.114,0,0.186,197867,5,No.6 Collaborations Project,2019
+4vUmTMuQqjdnvlZmAH61Qk,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,77,False,0.621,97.989,0.668,0.857,0.148,0,-6.376,0,0.0825,204467,9,No.6 Collaborations Project,2019
+4wuCQX7JvAZLlrcmH4AeZF,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,62,True,0.787,95.005,0.607,0.746,0.212,0,-6.373,1,0.12,206187,4,No.6 Collaborations Project,2019
+1AI7UPw3fgwAFkvAlZWhE0,Take Me Back to London (feat. Stormzy),Ed Sheeran,66,True,0.762,138.058,0.605,0.885,0.219,0,-5.513,0,0.216,189733,8,No.6 Collaborations Project,2019
+0VsGaRXR5WAzpu51unJTis,Best Part of Me (feat. YEBBA),Ed Sheeran,65,False,0.243,81.655,0.239,0.565,0.758,8.82e-06,-8.367,1,0.0317,243267,2,No.6 Collaborations Project,2019
+0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),Ed Sheeran & Justin Bieber,71,False,0.676,101.956,0.843,0.798,0.0902,0,-5.041,1,0.0442,219947,6,No.6 Collaborations Project,2019
+1DhRbox3xkceP64k3JeYfW,Antisocial (with Travis Scott),Ed Sheeran,65,False,0.823,151.957,0.91,0.716,0.132,0,-5.313,0,0.0495,161747,5,No.6 Collaborations Project,2019
+0AtP8EkGPn6SwxKDaUuXec,Remember The Name (feat. Eminem & 50 Cent),Ed Sheeran,69,True,0.666,91.046,0.726,0.852,0.135,0,-6.923,0,0.184,207760,11,No.6 Collaborations Project,2019
+1Bdptrvb7nQkq8kCw3siE9,Feels (feat. Young Thug & J Hus),Ed Sheeran,54,False,0.68,91.667,0.69,0.665,0.112,0,-4.898,1,0.291,150787,2,No.6 Collaborations Project,2019
+5T03itPFOPGGkvVPvPiyla,Put It All on Me (feat. Ella Mai),Ed Sheeran,65,False,0.594,101.007,0.388,0.627,0.256,0,-8.306,1,0.0479,197093,7,No.6 Collaborations Project,2019
+2qRN7PWiHRLprw4FpDeI9N,Nothing On You (feat. Paulo Londra & Dave),Ed Sheeran,59,False,0.649,88.011,0.84,0.747,0.333,0,-6.218,1,0.218,200733,8,No.6 Collaborations Project,2019
+3FHXUqaUer9o231Je1zxIN,I Don't Want Your Money (feat. H.E.R.),Ed Sheeran,54,False,0.63,91.419,0.762,0.468,0.31,0,-6.536,0,0.0843,204507,8,No.6 Collaborations Project,2019
+4vIKzWqtn44umal5jXq4wE,1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie),Ed Sheeran,54,False,0.589,98.001,0.513,0.778,0.467,0,-5.548,1,0.269,212307,8,No.6 Collaborations Project,2019
+5d1rmWWF1725tnYjq6rMDB,Way To Break My Heart (feat. Skrillex),Ed Sheeran,55,False,0.731,170.125,0.437,0.726,0.11,3.45e-06,-6.298,0,0.159,190293,1,No.6 Collaborations Project,2019
+7hvO2qCwJVZxiyoA7c9i5d,BLOW (with Chris Stapleton & Bruno Mars),Ed Sheeran,59,False,0.796,92.47,0.596,0.631,0.000245,0.0108,-5.35,1,0.0401,209120,1,No.6 Collaborations Project,2019
+5gkFxBuUuASmNtmq0T5xSu,Cuz I Love You,Lizzo,38,True,0.66,162.159,0.52,0.566,0.0156,0,-4.039,1,0.0479,179979,1,Cuz I Love You (Deluxe),2019
+1Dd22oMwd0OlMYqRXGdObE,Like a Girl,Lizzo,36,True,0.807,144.031,0.797,0.694,0.0167,0,-3.183,1,0.0888,184858,2,Cuz I Love You (Deluxe),2019
+6EMWT7sZBvG0oxdh9KXbb4,Juice,Lizzo,39,True,0.889,119.93,0.843,0.767,0.00611,0,-2.988,1,0.0963,195145,7,Cuz I Love You (Deluxe),2019
+003pNCocnkYPbl8V5pRYIW,Soulmate,Lizzo,33,True,0.849,99.021,0.767,0.693,0.00466,0.00127,-4.517,1,0.0892,175235,7,Cuz I Love You (Deluxe),2019
+4l21VaodybkZaNRqwzSBZl,Jerome,Lizzo,35,False,0.542,150.979,0.534,0.674,0.0476,0,-6.983,1,0.253,231571,8,Cuz I Love You (Deluxe),2019
+6N84C07b0GNjLOUfUiW4j4,Crybaby,Lizzo,28,False,0.719,131.027,0.722,0.623,0.0383,0,-3.331,0,0.0403,175952,11,Cuz I Love You (Deluxe),2019
+1Q0FDNRgl5sFN5aJctxk2G,Tempo (feat. Missy Elliott),Lizzo,38,True,0.722,107.019,0.588,0.833,0.0573,1.14e-05,-5.563,1,0.136,175343,1,Cuz I Love You (Deluxe),2019
+1IOST4IzZK644vqdEFkPzg,Exactly How I Feel (feat. Gucci Mane),Lizzo,31,True,0.718,112.981,0.833,0.872,0.114,0,-3.238,0,0.229,143191,6,Cuz I Love You (Deluxe),2019
+4hh3IoUWPySR2YXz8Gy2pr,Better in Color,Lizzo,33,False,0.928,129.894,0.556,0.702,0.0353,3.02e-06,-2.039,1,0.199,133059,7,Cuz I Love You (Deluxe),2019
+7oJf7PeBwMP7iFwyqfTfXa,Heaven Help Me,Lizzo,30,True,0.725,117.194,0.161,0.67,0.0164,0,-6.373,1,0.0972,202321,0,Cuz I Love You (Deluxe),2019
+5H95l4vkOHjGoTBPeav3ou,Lingerie,Lizzo,29,False,0.488,132.077,0.628,0.681,0.215,0.000766,-5.314,1,0.152,201619,0,Cuz I Love You (Deluxe),2019
+1ITsmuChPVC05ogvorAyVu,Boys,Lizzo,60,False,0.587,120.029,0.753,0.891,0.00317,0.000154,-4.281,0,0.115,172630,6,Cuz I Love You (Deluxe),2019
+5qmq61DAAOUaW8AUo8xKhh,Truth Hurts,Lizzo,62,True,0.624,158.087,0.412,0.715,0.11,0,-3.046,0,0.114,173325,4,Cuz I Love You (Deluxe),2019
+3rmpb2RKPlbdbMjlc7SOlX,Water Me,Lizzo,38,False,0.966,113.046,0.77,0.67,0.0292,0,-1.994,0,0.177,185595,3,Cuz I Love You (Deluxe),2019
+7EROK3PMgkCG3wdwcbeauW,9.13,Khalid,42,False,0.451,131.72,0.59,0.289,0.975,0.942,-15.013,1,0.0538,55720,2,Suncity,2019
+7stcuQtnHL7C6XdPvpwywv,Vertigo,Khalid,55,False,0.458,115.989,0.207,0.487,0.552,0.0257,-7.761,0,0.0371,270413,4,Suncity,2019
+7vGGAJBkHKxKtOnGjQduDV,Saturday Nights,Khalid,61,False,0.439,167.908,0.371,0.54,0.635,1.93e-05,-8.591,1,0.115,209547,10,Suncity,2019
+0v75ti1d2M6pd0sC42UNNN,Salem's Interlude,Khalid,42,True,0.485,80.933,0.457,0.479,0.963,0.658,-12.302,0,0.162,81933,7,Suncity,2019
+65DzdjRWH35DNsBZBjW523,Motion,Khalid,56,False,0.61,80.948,0.497,0.554,0.0982,0.0812,-7.229,1,0.0804,235880,0,Suncity,2019
+2OpBganfGk2GVdSlRdxzaX,Better,Khalid,69,True,0.586,98.035,0.112,0.695,0.102,0.317,-10.315,0,0.0658,229320,0,Suncity,2019
+6SkHm6poyKfzV6kc9any8k,Suncity (feat. Empress Of),Khalid,60,False,0.63,90.045,0.341,0.694,0.0998,0.000635,-6.84,0,0.162,189493,7,Suncity,2019
+7kh95COsNZjnTmc6aF76n7,Homerun (Intro),Paulo Londra,65,False,0.264,135.117,0.672,0.822,0.669,0,-9.37,1,0.0593,149505,5,Homerun,2019
+5jW3rF4URMdK7tO2xjS5EI,Tal Vez,Paulo Londra,79,False,0.649,161.986,0.741,0.855,0.25,0,-2.443,1,0.151,263899,8,Homerun,2019
+6MbSMSXrSlvsyHf4kcaLQi,No Puedo,Paulo Londra,68,False,0.68,140.041,0.519,0.792,0.361,0,-5.392,0,0.119,175029,5,Homerun,2019
+132ALUzVLmqYB4UsBj5qD6,Adan y Eva,Paulo Londra,74,False,0.709,171.993,0.72,0.767,0.323,0,-4.47,1,0.336,256972,1,Homerun,2019
+1algWk375QvT1XNJJbRsGM,Demasiado Loco,Paulo Londra,68,False,0.377,85.014,0.403,0.824,0.327,0,-8.859,0,0.452,166549,1,Homerun,2019
+2l7CpLcHxJeiWibGWftnew,Maldita Abusadora,Paulo Londra,63,False,0.373,117.98,0.669,0.781,0.619,0,-9.35,0,0.121,250297,7,Homerun,2019
+5tCIr5bTv77OTVBvwLtlSM,Y Yo No Sé,Paulo Londra,59,False,0.553,159.983,0.642,0.845,0.0748,0.00584,-2.068,0,0.257,190497,9,Homerun,2019
+4Egu7kAjEmygXrtX2n7AIV,So Fresh,Paulo Londra,58,False,0.681,96.516,0.451,0.812,0.0978,1.07e-06,-6.869,0,0.177,167975,11,Homerun,2019
+34w1ycoersTjtBsRQsKzgT,Querido Amigo,Paulo Londra,66,False,0.505,123.963,0.599,0.916,0.555,0,-6.851,0,0.302,228320,8,Homerun,2019
+3lSfq8WiDcQXEn8sqHCTZZ,Romeo y Julieta,Paulo Londra,62,False,0.636,130.051,0.464,0.871,0.0145,0,-6.916,0,0.0826,181554,4,Homerun,2019
+5qN1G8fSHq4Sv5FRoOkNGu,Por Eso Vine,Paulo Londra,72,False,0.646,188.009,0.625,0.76,0.233,0,-5.048,0,0.433,178534,8,Homerun,2019
+3H9GDhVVTlmFQSmpt51qiP,Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles),Paulo Londra,64,False,0.697,129.978,0.586,0.86,0.102,0,-4.727,1,0.0718,268794,1,Homerun,2019
+4b2V2ZuTYELubat4l5qZaE,Forever Alone,Paulo Londra,67,False,0.418,129.965,0.526,0.883,0.337,4.67e-05,-8.095,0,0.0735,214310,7,Homerun,2019
+5VIlWNT4PbYNoZLwVNz4lk,Condenado Para El Millón,Paulo Londra,63,False,0.75,75.3,0.208,0.643,0.00531,0,-4.755,0,0.294,222377,11,Homerun,2019
