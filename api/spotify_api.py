@@ -84,6 +84,8 @@ pop_playlists = [
 
 albums_2019 = ["https://open.spotify.com/playlist/76ivjBRvdxln13aq7HHgOX?si=970726796ed749f0"]
 
+albums_to_compare = ["https://open.spotify.com/playlist/6kfcsGPIFlF4caqKv2r3pD?si=85c96af88d3a4ad2"]
+
 
 def get_playlist_tracks(token, playlist_id):
     # COPY LAST PART AFTER playlist/ FOR PLAYLIST ID
@@ -203,7 +205,7 @@ def get_track_info(token, playlist_tracks):
     return playlist_tracks
 
 
-playlist_ids = [i[34:] for i in albums_2019] # <- Change playlist name to correct playlist!
+playlist_ids = [i[34:] for i in albums_to_compare] # <- Change playlist name to correct playlist!
 years = list(range(2019, 2020)) # list of years corresponding to the order of playlists
 all_playlist_data = [] # list to store data from all playlists
 
@@ -238,4 +240,4 @@ def export_to_csv(data, filename):
         writer.writeheader()
         writer.writerows(data)
 
-export_to_csv(all_playlist_data, '../data/albums_2019_7.csv') # <- Change csv filename
+export_to_csv(all_playlist_data, '../data/albums_to_compare.csv') # <- Change csv filename

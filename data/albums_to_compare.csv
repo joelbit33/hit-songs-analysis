@@ -1,0 +1,82 @@
+id,name,artist,popularity,explicit,energy,tempo,positiveness,danceability,acousticness,instrumentalness,loudness,mode,speechiness,duration_ms,key,album_name,year
+1XpYodsD36XN7ygcdF7mJJ,The A Team,Ed Sheeran,69,False,0.289,84.996,0.407,0.642,0.669,0,-9.918,1,0.0367,258373,9,+,2019
+4RnCPWlBsY7oUDdyruod7Y,Drunk,Ed Sheeran,65,False,0.652,99.998,0.459,0.733,0.419,2.37e-06,-9.101,1,0.0696,200093,7,+,2019
+5Ukzlujip1Slqka5OY82YS,U.N.I.,Ed Sheeran,55,False,0.405,74.13,0.578,0.422,0.323,0,-11.126,1,0.101,228600,6,+,2019
+0obzwoGjXdORtAwYWZ9s53,Grade 8,Ed Sheeran,52,False,0.807,101.042,0.781,0.74,0.0446,4.02e-05,-9.976,0,0.0363,179880,0,+,2019
+0ygAYQQy7bfDN6gH640bbl,Wake Me Up,Ed Sheeran,54,False,0.209,86.891,0.336,0.616,0.902,0,-13.43,1,0.406,229613,9,+,2019
+4z1O25cq9g2kuJemmUxc21,Small Bump,Ed Sheeran,63,False,0.436,119.973,0.446,0.81,0.689,0.000151,-12.683,1,0.0717,259413,10,+,2019
+0pJfsPQesJyCnR5XWZyvj9,This,Ed Sheeran,53,False,0.0929,152.139,0.502,0.588,0.95,0.00539,-14.301,1,0.0443,195840,11,+,2019
+4ucfQOYOe1Jz5KqCfpGobp,The City,Ed Sheeran,50,False,0.505,97.994,0.646,0.74,0.0415,6.82e-05,-10.338,0,0.0674,234333,4,+,2019
+5ubHAQtKuFfiG4FXfLP804,Lego House,Ed Sheeran,75,False,0.637,159.701,0.565,0.592,0.562,0,-8.48,1,0.0992,185093,11,+,2019
+5KL4iZkCTZyXl7KnHgfVDj,"You Need Me, I Don't Need You",Ed Sheeran,64,True,0.837,103.483,0.927,0.749,0.162,0,-8.837,1,0.0512,220413,7,+,2019
+0Tel1fmuCxEFV6wBLXsEdk,Kiss Me,Ed Sheeran,70,False,0.227,74.993,0.182,0.589,0.64,0.00469,-16.67,1,0.0498,280853,2,+,2019
+0SuG9kyzGRpDqrCWtgD6Lq,Give Me Love,Ed Sheeran,72,False,0.328,116.068,0.11,0.526,0.694,0,-9.864,1,0.0461,526387,1,+,2019
+7iBSkXB0pTvZasOLf0Qxk9,Autumn Leaves - Deluxe Edition,Ed Sheeran,58,False,0.257,89.013,0.431,0.555,0.892,1.42e-06,-12.637,1,0.0299,200756,10,+,2019
+4bcgRbGeq4IejesjsiHyTH,Little Bird - Deluxe Edition,Ed Sheeran,52,False,0.425,104.02,0.284,0.843,0.565,0,-8.676,1,0.0352,224529,8,+,2019
+4mT5mVFaU7trA3UdbGqfB9,Gold Rush - Deluxe Edition,Ed Sheeran,51,False,0.248,83.786,0.889,0.74,0.729,0,-12.659,1,0.109,243163,4,+,2019
+3YPiRYIUFlcQ0aaLGmeswS,Sunburn - Deluxe Edition,Ed Sheeran,49,False,0.098,78.864,0.234,0.464,0.865,0,-12.119,1,0.0376,275882,10,+,2019
+2JiHR4gCDjXwYVRDmwdk95,Tides,Ed Sheeran,64,False,0.825,129.942,0.427,0.631,0.0167,0,-3.971,1,0.0433,195760,11,=,2019
+50nfwKoDiSYg8zOCREWAm5,Shivers,Ed Sheeran,87,False,0.859,141.02,0.822,0.788,0.281,0,-2.724,1,0.0856,207853,2,=,2019
+5QYnNhTKsN3kE7OaqILA1U,First Times,Ed Sheeran,68,False,0.267,98.845,0.352,0.587,0.84,0,-9.206,1,0.0349,185853,8,=,2019
+3rmo8F54jFF8OgYsqTxm5d,Bad Habits,Ed Sheeran,86,False,0.893,126.011,0.537,0.807,0.0451,2.79e-05,-3.745,0,0.0347,230747,11,=,2019
+4btFHqumCO31GksfuBLLv3,Overpass Graffiti,Ed Sheeran,74,False,0.849,175.908,0.774,0.52,0.00253,0,-3.794,0,0.186,236907,9,=,2019
+3NuLxTXowTRcguTh9RsPmM,The Joker And The Queen,Ed Sheeran,59,False,0.211,134.019,0.289,0.567,0.952,5.24e-05,-9.975,1,0.0315,185587,0,=,2019
+0YbI9lWxUBsCJLb6EBydkr,Leave Your Life,Ed Sheeran,59,False,0.558,75.087,0.54,0.578,0.236,0,-5.438,1,0.0872,223867,2,=,2019
+5sv0WnUs74Orn6GoPmC5im,Collide,Ed Sheeran,62,False,0.73,123.969,0.559,0.672,0.113,0,-4.77,1,0.0372,210213,5,=,2019
+2SUxn2O9NHL6GHGQFgwCY0,2step,Ed Sheeran,72,False,0.661,95.002,0.632,0.763,0.169,0,-5.592,0,0.056,153627,4,=,2019
+0VuDtcT7H4CAljLZEH021x,Stop The Rain,Ed Sheeran,60,False,0.765,99.998,0.743,0.686,0.0122,0,-4.778,1,0.118,203493,8,=,2019
+1i4F583d9v9RabcfOlKKVL,Love In Slow Motion,Ed Sheeran,61,False,0.54,62.631,0.426,0.485,0.668,0,-5.4,1,0.0253,190933,1,=,2019
+0rt63HYAAIzUZo5O2D0uA6,Visiting Hours,Ed Sheeran,71,False,0.396,149.609,0.263,0.471,0.77,0,-6.654,1,0.0336,215507,8,=,2019
+2Ldb2ytuC9AxhpAkVEJBI6,Sandman,Ed Sheeran,58,False,0.3,125.951,0.734,0.822,0.882,9.15e-05,-8.034,1,0.0673,259333,0,=,2019
+3BiiSLo0wyHAY7lpCEO6ge,Be Right Now,Ed Sheeran,57,False,0.684,131.952,0.442,0.501,0.00494,0.000478,-6.706,1,0.0566,211080,11,=,2019
+6WgrB8d7GLBGweYLDI6ObR,All Around The World,Justin Bieber,55,False,0.816,127.958,0.775,0.689,0.019,2.42e-06,-3.951,0,0.178,244547,3,Believe,2019
+3UGIZ8qcrMTwzLbx6Kttqt,Boyfriend,Justin Bieber,77,False,0.55,96.976,0.332,0.717,0.0358,0.00196,-6.019,0,0.0521,171333,10,Believe,2019
+75lo8VozcCLRG9WGG674iD,As Long As You Love Me,Justin Bieber,67,False,0.873,139.691,0.613,0.571,0.0807,0,-3.382,0,0.0997,229467,0,Believe,2019
+6zvLqjSWq0AQsgoiqWInwY,Catching Feelings,Justin Bieber,47,False,0.542,85.59,0.357,0.327,0.354,0,-6.665,1,0.0412,234680,10,Believe,2019
+4PXOSe2WbmFhmJDiqrDw6W,Take You,Justin Bieber,48,False,0.706,126.04,0.461,0.663,0.00107,0.00248,-6.648,1,0.0348,220893,6,Believe,2019
+2Rmuzh89p29BeTIF63Opwo,Right Here,Justin Bieber,58,False,0.57,92.073,0.728,0.639,0.0233,0,-4.966,1,0.042,204187,1,Believe,2019
+5dQZbRbOMahlP55xeL0mNW,Fall,Justin Bieber,54,False,0.754,82.995,0.607,0.607,0.259,0,-4.321,1,0.0411,248387,11,Believe,2019
+2eHs8Swb16qSKatrLKnWKP,Die In Your Arms,Justin Bieber,52,False,0.878,171.723,0.725,0.568,0.0309,4.26e-06,-5.094,1,0.0933,237293,7,Believe,2019
+5xIwgIwX70gP1hJ2QLu63W,Thought Of You,Justin Bieber,49,False,0.705,123.223,0.57,0.697,0.0094,6.61e-06,-5.032,1,0.031,230107,2,Believe,2019
+6QFCMUUq1T2Vf5sFUXcuQ7,Beauty And A Beat,Justin Bieber,80,False,0.843,128.002,0.534,0.601,0.000704,5.27e-05,-4.87,1,0.0593,227987,0,Believe,2019
+3vpXclZrJxC8Zlj7N7OyfN,One Love,Justin Bieber,50,False,0.612,127.916,0.228,0.688,0.00276,0,-7.558,1,0.0324,234493,11,Believe,2019
+4DmJUNY2LJhbl4ClUpa38T,Be Alright,Justin Bieber,53,False,0.356,106.952,0.738,0.803,0.587,0,-9.026,0,0.0326,189653,5,Believe,2019
+6ImYcmDP7WamwVBbZeHUTy,Believe,Justin Bieber,50,False,0.854,159.805,0.508,0.519,0.143,0,-5.71,1,0.113,222213,0,Believe,2019
+0oaY19dUwZimIgzn3ZZLZO,2 Much,Justin Bieber,69,False,0.444,119.59,0.167,0.583,0.593,0,-8.601,1,0.0456,152796,9,Justice,2019
+5NU40QTlXrDUJzDBdv79bg,Deserve You,Justin Bieber,65,False,0.633,89.934,0.409,0.677,0.0314,0,-7.831,1,0.0771,187239,7,Justice,2019
+6F2r4HgpJnvKDmkN6JEN6J,As I Am (feat. Khalid),Justin Bieber,66,False,0.543,99.928,0.109,0.595,0.127,0,-8.149,1,0.038,174406,11,Justice,2019
+3T03rPwlL8NVk1yIaxeD8U,Off My Face,Justin Bieber,78,False,0.228,90.674,0.586,0.509,0.92,0,-8.68,1,0.0332,156468,4,Justice,2019
+6Xgq7MvZiet0hVi3KaDSgJ,Holy (feat. Chance The Rapper),Justin Bieber,69,False,0.693,87.017,0.388,0.67,0.2,0,-8.34,1,0.35,212093,6,Justice,2019
+137mSruegm1u6x9NvwiagR,Unstable (feat. The Kid LAROI),Justin Bieber,68,False,0.333,99.757,0.37,0.495,0.737,0,-10.109,0,0.0288,158324,4,Justice,2019
+680qLWCMRfR6evrNNBCE9e,MLK Interlude,Justin Bieber,50,False,0.429,100.389,0.426,0.649,0.386,0,-8.428,0,0.468,104008,10,Justice,2019
+7aely3H8kMj9o0gt6vXHE1,Die For You (feat. Dominic Fike),Justin Bieber,63,False,0.629,135.031,0.71,0.728,0.00196,1.94e-06,-6.629,1,0.0318,198426,1,Justice,2019
+1nahzW3kfMuwReTka28tH5,Hold On,Justin Bieber,75,False,0.634,140.002,0.302,0.658,0.0104,0,-6.068,0,0.0431,170813,1,Justice,2019
+3buwFfY33H32wfZ6X9poV3,Somebody,Justin Bieber,63,False,0.756,75.991,0.359,0.551,0.000284,9.48e-05,-7.679,1,0.045,179415,2,Justice,2019
+6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,87,False,0.741,153.96,0.441,0.601,0.185,2.91e-05,-5.569,1,0.0478,153190,2,Justice,2019
+4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,84,True,0.696,90.03,0.464,0.677,0.321,0,-6.181,1,0.119,198082,0,Justice,2019
+27UcQ6dAvQrgH9C880rCM3,Love You Different (feat. BEAM),Justin Bieber,60,False,0.584,127.138,0.374,0.759,0.0652,1.59e-06,-6.655,1,0.06,186696,8,Justice,2019
+2tB9OFgAHjAds3cqquLlvp,Loved By You (feat. Burna Boy),Justin Bieber,67,False,0.724,101.04,0.642,0.79,0.0696,2.33e-06,-6.972,1,0.0852,159250,1,Justice,2019
+2WnAKZefdRHxtBEkRjFOHC,Anyone,Justin Bieber,72,False,0.521,115.885,0.578,0.685,0.185,3.59e-06,-8.285,1,0.0345,190779,2,Justice,2019
+3S8jK1mGzQi24ilFb45DAZ,Lonely (with benny blanco),Justin Bieber,73,True,0.241,79.461,0.0719,0.619,0.9,0,-7.102,0,0.046,149190,11,Justice,2019
+0nrRP2bk19rLc0orkWPQk2,Wake Me Up,Avicii,88,False,0.783,124.08,0.643,0.532,0.0038,0.0012,-5.697,1,0.0523,247427,2,True,2019
+52RK8UVEDgUAgpecOpTQM3,You Make Me,Avicii,67,False,0.727,124.99,0.496,0.586,0.00247,0.0107,-4.799,1,0.039,233347,6,True,2019
+4lhqb6JvbHId48OUJGwymk,Hey Brother,Avicii,80,False,0.78,125.014,0.458,0.545,0.0309,4.64e-05,-4.867,0,0.0436,255093,7,True,2019
+4eDYMhIin1pSLIG96f1aD0,Addicted To You,Avicii,74,False,0.785,128.031,0.303,0.569,0.0505,1.12e-06,-4.057,0,0.0457,148387,1,True,2019
+4yTeQK2XThWYeEW8D72XmU,Dear Boy,Avicii,56,False,0.581,124.995,0.253,0.686,0.000276,0.1,-5.911,1,0.112,479333,9,True,2019
+0b4PmGxMzWWx7NMrLJwFRR,Liar Liar,Avicii,54,False,0.789,124.937,0.392,0.553,0.00949,0.00712,-4.584,0,0.058,238853,11,True,2019
+13bHItq1R7F0k0mVZ4PUG8,Shame On Me,Avicii,47,True,0.843,125.982,0.42,0.723,0.0518,0.0507,-6.724,0,0.139,253493,11,True,2019
+6ekvzkGg31TOQhHIFEd55x,Lay Me Down,Avicii,52,False,0.67,124.956,0.744,0.698,0.00128,0.026,-6.855,0,0.0819,300120,9,True,2019
+6x2knRcsrzp9O9bmJjtY7V,Hope There's Someone,Avicii,44,False,0.718,125.017,0.0817,0.403,0.0131,0.00447,-7.231,0,0.0449,381280,6,True,2019
+6BO5udfgxk73rgdlbwBQh8,Heart Upon My Sleeve,Avicii,46,False,0.717,126.044,0.351,0.707,0.0949,0.532,-7.872,0,0.0378,283147,4,True,2019
+6ZEYvUSgON3J5Qe1RYi3Jo,Peace Of Mind (feat. Vargas & Lagola),Avicii,51,False,0.624,110.003,0.278,0.461,0.11,6.97e-06,-8.034,0,0.0298,180000,4,TIM,2019
+0vrmHPfoBadXVr2n0m1aqZ,Heaven,Avicii,68,False,0.873,122.011,0.516,0.592,0.0715,0.00982,-5.65,1,0.0275,277262,9,TIM,2019
+2x0RZdkZcD8QRI53XT4GI5,SOS (feat. Aloe Blacc),Avicii,75,False,0.645,100.001,0.376,0.802,0.272,0,-6.181,0,0.0715,157202,5,TIM,2019
+1yfyIdEw5U2bD5I6gxQCxW,"Tough Love (feat. Agnes, Vargas & Lagola)",Avicii,57,False,0.754,108.17,0.621,0.402,0.143,0,-4.837,1,0.0432,191248,8,TIM,2019
+0HZgYFimoJG9Ijy8InUWcV,Bad Reputation (feat. Joe Janiak),Avicii,60,False,0.637,89.995,0.446,0.745,0.656,6.5e-06,-5.959,1,0.0512,205417,0,TIM,2019
+3MhNgzZwFtUF6jSr6pRSkW,Ain't A Thing (feat. Bonn),Avicii,50,True,0.423,170.162,0.245,0.454,0.544,0,-7.286,1,0.0552,183661,9,TIM,2019
+6EBlOYNcZ8MrdEov9lEdV6,Hold The Line (feat. A R I Z O N A),Avicii,63,False,0.554,98.045,0.372,0.648,0.329,2.56e-05,-7.005,1,0.0341,171786,9,TIM,2019
+6NVjujGb9fnl25fjzm5dTy,Freak (feat. Bonn),Avicii,51,True,0.576,91.204,0.695,0.405,0.225,8.08e-06,-6.245,1,0.171,179479,8,TIM,2019
+5dVUSdsePmEKkq4ryfrobU,Excuse Me Mr Sir (feat. Vargas & Lagola),Avicii,47,True,0.672,114.708,0.492,0.464,0.127,0.00299,-6.064,1,0.0727,187753,2,TIM,2019
+6kXNnS7JJz0nAv4XEwEmQJ,Heart Upon My Sleeve (feat. Imagine Dragons),Avicii,62,False,0.601,126.06,0.38,0.588,0.316,0,-5.983,0,0.0332,254166,4,TIM,2019
+7zGEU6BXl2c4TxpzIAr7BI,Never Leave Me (feat. Joe Janiak),Avicii,50,False,0.662,82.368,0.45,0.629,0.303,0,-5.581,1,0.0939,171726,4,TIM,2019
+6aPDvttLmezuUlv60ExTH9,Fades Away (feat. Noonie Bao),Avicii,57,False,0.525,134.236,0.225,0.53,0.228,2.2e-06,-8.319,1,0.0585,178958,0,TIM,2019
